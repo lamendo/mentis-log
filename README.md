@@ -1,3 +1,4 @@
+
 # Mentis Log Segmentation
 
 [![CI](https://github.com/lamendo/mentis-log/actions/workflows/ci.yml/badge.svg)](https://github.com/lamendo/mentis-log/actions/workflows/ci.yml)
@@ -21,6 +22,8 @@ It does **not**:
 
 It finds **where** structure changes, not **why**.
 
+<img width="2056" height="1140" alt="plot" src="https://github.com/user-attachments/assets/a400294d-3ee2-4ee4-8951-fd0b32762bb8" />
+
 ## Quickstart
 
 Install from source:
@@ -29,12 +32,6 @@ Install from source:
 git clone https://github.com/lamendo/mentis-log.git
 cd mentis-log
 pip install -e ".[plot]"                  # installs the CLI entry point
-```
-
-Or, once published to PyPI:
-
-```bash
-pip install "mentis-log[plot]"
 ```
 
 Three commands:
