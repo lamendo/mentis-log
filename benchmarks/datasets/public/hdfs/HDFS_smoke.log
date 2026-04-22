@@ -1,0 +1,1900 @@
+081109 686963 878 INFO dfs.DataNode$PacketResponder: Received block blk_8797914500801901 of size 8571
+081109 573780 521 INFO dfs.DataNode$PacketResponder: Received block blk_5194202128607237 of size 8004
+081109 293630 824 INFO dfs.DataNode$PacketResponder: Received block blk_2710486133332530 of size 5193
+081109 743782 813 INFO dfs.DataNode$PacketResponder: Received block blk_6673477747744390 of size 2525
+081109 418139 146 INFO dfs.DataNode$PacketResponder: Received block blk_5022550809573779 of size 1742
+081109 827122 650 INFO dfs.DataNode$PacketResponder: Received block blk_8292629149012319 of size 1343
+081109 515403 988 INFO dfs.DataNode$PacketResponder: Received block blk_9846810553419467 of size 4710
+081109 745464 666 INFO dfs.DataNode$PacketResponder: Received block blk_7655561439868822 of size 2290
+081109 972102 542 INFO dfs.DataNode$PacketResponder: Received block blk_1135113757513894 of size 1517
+081109 299447 901 INFO dfs.DataNode$PacketResponder: Received block blk_1321130665524691 of size 2981
+081109 915905 476 INFO dfs.DataNode$PacketResponder: Received block blk_1270959177142821 of size 3672
+081109 983348 201 INFO dfs.DataNode$PacketResponder: Received block blk_6322888005985720 of size 5252
+081109 408440 512 INFO dfs.DataNode$PacketResponder: Received block blk_6767235843928902 of size 1037
+081109 579545 671 INFO dfs.DataNode$PacketResponder: Received block blk_1765512046234351 of size 3278
+081109 678046 955 INFO dfs.DataNode$PacketResponder: Received block blk_9986086942615218 of size 7883
+081109 366332 323 INFO dfs.DataNode$PacketResponder: Received block blk_7375381092061866 of size 7209
+081109 403080 31 INFO dfs.DataNode$PacketResponder: Received block blk_5619654925083238 of size 1575
+081109 213169 411 INFO dfs.DataNode$PacketResponder: Received block blk_7902109352630095 of size 1883
+081109 505288 69 INFO dfs.DataNode$PacketResponder: Received block blk_3620221449417820 of size 8848
+081109 818167 1 INFO dfs.DataNode$PacketResponder: Received block blk_8631886374596357 of size 2749
+081109 154864 482 INFO dfs.DataNode$PacketResponder: Received block blk_9350052979313236 of size 4075
+081109 516729 430 INFO dfs.DataNode$PacketResponder: Received block blk_7385198945586601 of size 1598
+081109 308131 798 INFO dfs.DataNode$PacketResponder: Received block blk_6669625550682126 of size 6528
+081109 191377 319 INFO dfs.DataNode$PacketResponder: Received block blk_4034459977810776 of size 3724
+081109 529969 777 INFO dfs.DataNode$PacketResponder: Received block blk_9683625073661569 of size 8559
+081109 358356 724 INFO dfs.DataNode$PacketResponder: Received block blk_2212336630445041 of size 1827
+081109 587524 817 INFO dfs.DataNode$PacketResponder: Received block blk_1539469414265519 of size 4988
+081109 686463 193 INFO dfs.DataNode$PacketResponder: Received block blk_7143607882666056 of size 4665
+081109 867446 788 INFO dfs.DataNode$PacketResponder: Received block blk_2717533837427044 of size 2072
+081109 502392 120 INFO dfs.DataNode$PacketResponder: Received block blk_6798070211227789 of size 4234
+081109 323205 1 INFO dfs.DataNode$PacketResponder: Received block blk_9917599454143454 of size 3210
+081109 942438 607 INFO dfs.DataNode$PacketResponder: Received block blk_9745351695891766 of size 3491
+081109 120584 216 INFO dfs.DataNode$PacketResponder: Received block blk_8970157917281847 of size 2534
+081109 995879 617 INFO dfs.DataNode$PacketResponder: Received block blk_9969688703774398 of size 6257
+081109 144153 150 INFO dfs.DataNode$PacketResponder: Received block blk_1903719431676889 of size 2746
+081109 110040 792 INFO dfs.DataNode$PacketResponder: Received block blk_3326358047383586 of size 5999
+081109 410719 396 INFO dfs.DataNode$PacketResponder: Received block blk_8478583152241697 of size 1601
+081109 318872 597 INFO dfs.DataNode$PacketResponder: Received block blk_1811701893338194 of size 6214
+081109 730491 378 INFO dfs.DataNode$PacketResponder: Received block blk_1139690560067672 of size 4044
+081109 233400 983 INFO dfs.DataNode$PacketResponder: Received block blk_5082137158724615 of size 5810
+081109 702481 139 INFO dfs.DataNode$PacketResponder: Received block blk_8497223975034598 of size 8098
+081109 757713 158 INFO dfs.DataNode$PacketResponder: Received block blk_2646765134004549 of size 3546
+081109 957527 626 INFO dfs.DataNode$PacketResponder: Received block blk_3057095667938607 of size 3043
+081109 266173 758 INFO dfs.DataNode$PacketResponder: Received block blk_2709571898030315 of size 6152
+081109 306139 704 INFO dfs.DataNode$PacketResponder: Received block blk_5989368762523661 of size 8783
+081109 605954 619 INFO dfs.DataNode$PacketResponder: Received block blk_8946060532136440 of size 1643
+081109 208883 112 INFO dfs.DataNode$PacketResponder: Received block blk_1426955919105767 of size 1317
+081109 367574 245 INFO dfs.DataNode$PacketResponder: Received block blk_9671064429805659 of size 7060
+081109 369464 431 INFO dfs.DataNode$PacketResponder: Received block blk_4527317932429763 of size 7747
+081109 614850 301 INFO dfs.DataNode$PacketResponder: Received block blk_6372492577410237 of size 5260
+081109 855345 71 INFO dfs.DataNode$PacketResponder: Received block blk_9369813976593377 of size 2035
+081109 686538 670 INFO dfs.DataNode$PacketResponder: Received block blk_5317147488071355 of size 7982
+081109 177741 287 INFO dfs.DataNode$PacketResponder: Received block blk_6533148883038541 of size 2739
+081109 313887 767 INFO dfs.DataNode$PacketResponder: Received block blk_9241118468120013 of size 1135
+081109 531412 457 INFO dfs.DataNode$PacketResponder: Received block blk_3424681134299392 of size 3040
+081109 284815 289 INFO dfs.DataNode$PacketResponder: Received block blk_1419717348721731 of size 4021
+081109 237970 95 INFO dfs.DataNode$PacketResponder: Received block blk_6153645208263275 of size 3966
+081109 572221 339 INFO dfs.DataNode$PacketResponder: Received block blk_9024876404095519 of size 6381
+081109 647292 599 INFO dfs.DataNode$PacketResponder: Received block blk_7225970560215851 of size 8756
+081109 136784 946 INFO dfs.DataNode$PacketResponder: Received block blk_6313124256041732 of size 1146
+081109 474836 718 INFO dfs.DataNode$PacketResponder: Received block blk_9198463247091454 of size 3554
+081109 122291 613 INFO dfs.DataNode$PacketResponder: Received block blk_1302120724605249 of size 6211
+081109 170538 749 INFO dfs.DataNode$PacketResponder: Received block blk_5343590942166137 of size 3548
+081109 175950 78 INFO dfs.DataNode$PacketResponder: Received block blk_2230436485544336 of size 4711
+081109 872806 46 INFO dfs.DataNode$PacketResponder: Received block blk_4312629016487885 of size 8374
+081109 872957 721 INFO dfs.DataNode$PacketResponder: Received block blk_7639100042808134 of size 2061
+081109 458208 361 INFO dfs.DataNode$PacketResponder: Received block blk_9677349173462611 of size 1695
+081109 181442 893 INFO dfs.DataNode$PacketResponder: Received block blk_5262912602782116 of size 8022
+081109 928932 31 INFO dfs.DataNode$PacketResponder: Received block blk_9504951865773130 of size 8073
+081109 115238 640 INFO dfs.DataNode$PacketResponder: Received block blk_6159391741026534 of size 6425
+081109 710983 13 INFO dfs.DataNode$PacketResponder: Received block blk_4415316686216239 of size 5987
+081109 195051 655 INFO dfs.DataNode$PacketResponder: Received block blk_1722392334658238 of size 1946
+081109 536465 746 INFO dfs.DataNode$PacketResponder: Received block blk_3316683855944928 of size 3704
+081109 870743 711 INFO dfs.DataNode$PacketResponder: Received block blk_9414989357453375 of size 5759
+081109 585094 859 INFO dfs.DataNode$PacketResponder: Received block blk_4967873142717401 of size 5433
+081109 886652 527 INFO dfs.DataNode$PacketResponder: Received block blk_5672005654888563 of size 1244
+081109 191993 493 INFO dfs.DataNode$PacketResponder: Received block blk_6415894963162976 of size 1182
+081109 832256 116 INFO dfs.DataNode$PacketResponder: Received block blk_9623453505572398 of size 5073
+081109 792198 943 INFO dfs.DataNode$PacketResponder: Received block blk_6534953474002163 of size 4983
+081109 111856 377 INFO dfs.DataNode$PacketResponder: Received block blk_9074217492715209 of size 3466
+081109 741474 208 INFO dfs.DataNode$PacketResponder: Received block blk_7108114124937012 of size 5246
+081109 459162 676 INFO dfs.DataNode$PacketResponder: Received block blk_7789364770889678 of size 8621
+081109 353214 335 INFO dfs.DataNode$PacketResponder: Received block blk_5488384456326322 of size 4315
+081109 308148 650 INFO dfs.DataNode$PacketResponder: Received block blk_3257197152623713 of size 4529
+081109 891286 937 INFO dfs.DataNode$PacketResponder: Received block blk_8259700773007053 of size 2640
+081109 503092 225 INFO dfs.DataNode$PacketResponder: Received block blk_2929247255514564 of size 5776
+081109 320088 140 INFO dfs.DataNode$PacketResponder: Received block blk_3850663943488918 of size 2102
+081109 977758 918 INFO dfs.DataNode$PacketResponder: Received block blk_4159229751391955 of size 7952
+081109 167254 973 INFO dfs.DataNode$PacketResponder: Received block blk_7406077040227462 of size 3267
+081109 218310 462 INFO dfs.DataNode$PacketResponder: Received block blk_2523381185102574 of size 4861
+081109 324479 851 INFO dfs.DataNode$PacketResponder: Received block blk_9338250690269709 of size 4391
+081109 645233 506 INFO dfs.DataNode$PacketResponder: Received block blk_6636106836945975 of size 6506
+081109 979879 863 INFO dfs.DataNode$PacketResponder: Received block blk_7451643528524328 of size 6118
+081109 178306 849 INFO dfs.DataNode$PacketResponder: Received block blk_3885421102370332 of size 1257
+081109 737067 43 INFO dfs.DataNode$PacketResponder: Received block blk_8861745556331927 of size 6556
+081109 698298 363 INFO dfs.DataNode$PacketResponder: Received block blk_3531658631271971 of size 3531
+081109 691437 20 INFO dfs.DataNode$PacketResponder: Received block blk_8129322082509194 of size 6250
+081109 576926 195 INFO dfs.DataNode$PacketResponder: Received block blk_4649618978610051 of size 1202
+081109 379353 244 INFO dfs.DataNode$PacketResponder: Received block blk_8472988700747488 of size 7383
+081109 149222 645 INFO dfs.DataNode$PacketResponder: Received block blk_8177359108102729 of size 1944
+081109 760565 549 INFO dfs.DataNode$PacketResponder: Received block blk_1981964585472082 of size 6366
+081109 486592 982 INFO dfs.DataNode$PacketResponder: Received block blk_8272275733743163 of size 1638
+081109 309024 844 INFO dfs.DataNode$PacketResponder: Received block blk_2783878951561891 of size 4892
+081109 848917 12 INFO dfs.DataNode$PacketResponder: Received block blk_2609458489490352 of size 7185
+081109 848862 38 INFO dfs.DataNode$PacketResponder: Received block blk_5817486455378179 of size 2467
+081109 916404 355 INFO dfs.DataNode$PacketResponder: Received block blk_3453153148112769 of size 5421
+081109 645703 513 INFO dfs.DataNode$PacketResponder: Received block blk_9528184547148481 of size 6033
+081109 266925 403 INFO dfs.DataNode$PacketResponder: Received block blk_7811307016641559 of size 7953
+081109 334800 90 INFO dfs.DataNode$PacketResponder: Received block blk_7303155671011874 of size 4362
+081109 857467 398 INFO dfs.DataNode$PacketResponder: Received block blk_9040268682960846 of size 2064
+081109 306440 641 INFO dfs.DataNode$PacketResponder: Received block blk_5085091359009084 of size 8268
+081109 495106 564 INFO dfs.DataNode$PacketResponder: Received block blk_1060588716948862 of size 5659
+081109 627067 816 INFO dfs.DataNode$PacketResponder: Received block blk_8920218849779963 of size 7712
+081109 586232 335 INFO dfs.DataNode$PacketResponder: Received block blk_4090348989146264 of size 6335
+081109 203771 740 INFO dfs.DataNode$PacketResponder: Received block blk_2845525896379195 of size 8095
+081109 772783 947 INFO dfs.DataNode$PacketResponder: Received block blk_8190504617744338 of size 6879
+081109 354061 922 INFO dfs.DataNode$PacketResponder: Received block blk_2921203826370254 of size 4196
+081109 424909 550 INFO dfs.DataNode$PacketResponder: Received block blk_1791214496520548 of size 7478
+081109 374604 932 INFO dfs.DataNode$PacketResponder: Received block blk_3885861249727343 of size 6884
+081109 465436 517 INFO dfs.DataNode$PacketResponder: Received block blk_1140947322347529 of size 1678
+081109 458669 564 INFO dfs.DataNode$PacketResponder: Received block blk_4971281540197302 of size 4452
+081109 611125 942 INFO dfs.DataNode$PacketResponder: Received block blk_3479294645990234 of size 1232
+081109 167168 440 INFO dfs.DataNode$PacketResponder: Received block blk_8288083697509982 of size 7552
+081109 659018 344 INFO dfs.DataNode$PacketResponder: Received block blk_2557308047661176 of size 6624
+081109 247325 482 INFO dfs.DataNode$PacketResponder: Received block blk_9250661329449909 of size 2217
+081109 858714 531 INFO dfs.DataNode$PacketResponder: Received block blk_5652446013224339 of size 7881
+081109 561544 969 INFO dfs.DataNode$PacketResponder: Received block blk_7209305850803361 of size 8208
+081109 822535 89 INFO dfs.DataNode$PacketResponder: Received block blk_6214728068124352 of size 7208
+081109 652246 573 INFO dfs.DataNode$PacketResponder: Received block blk_4957959343118670 of size 3377
+081109 688808 655 INFO dfs.DataNode$PacketResponder: Received block blk_7564835311935928 of size 2346
+081109 984603 929 INFO dfs.DataNode$PacketResponder: Received block blk_5631639142766248 of size 5587
+081109 803907 391 INFO dfs.DataNode$PacketResponder: Received block blk_3807522438864012 of size 8821
+081109 739038 214 INFO dfs.DataNode$PacketResponder: Received block blk_8836893016424214 of size 3494
+081109 671171 537 INFO dfs.DataNode$PacketResponder: Received block blk_2271369808225475 of size 3236
+081109 310729 421 INFO dfs.DataNode$PacketResponder: Received block blk_5482410719701389 of size 5390
+081109 105175 620 INFO dfs.DataNode$PacketResponder: Received block blk_5532187420524205 of size 4088
+081109 146087 529 INFO dfs.DataNode$PacketResponder: Received block blk_5848764793322581 of size 8514
+081109 939981 577 INFO dfs.DataNode$PacketResponder: Received block blk_5899885095365436 of size 1998
+081109 824552 171 INFO dfs.DataNode$PacketResponder: Received block blk_1839668215370677 of size 1539
+081109 581228 424 INFO dfs.DataNode$PacketResponder: Received block blk_5852320609933883 of size 8543
+081109 523791 276 INFO dfs.DataNode$PacketResponder: Received block blk_8209312874470419 of size 3017
+081109 233135 348 INFO dfs.DataNode$PacketResponder: Received block blk_5440877957192882 of size 4552
+081109 599680 538 INFO dfs.DataNode$PacketResponder: Received block blk_8347327113169259 of size 3598
+081109 539918 633 INFO dfs.DataNode$PacketResponder: Received block blk_2724442720737947 of size 1240
+081109 235750 719 INFO dfs.DataNode$PacketResponder: Received block blk_3343879296584199 of size 7383
+081109 137355 199 INFO dfs.DataNode$PacketResponder: Received block blk_1205239209626365 of size 2274
+081109 820407 291 INFO dfs.DataNode$PacketResponder: Received block blk_1106580589521616 of size 3638
+081109 356341 635 INFO dfs.DataNode$PacketResponder: Received block blk_4200681456306203 of size 5086
+081109 866397 597 INFO dfs.DataNode$PacketResponder: Received block blk_5500683795056344 of size 2005
+081109 753814 257 INFO dfs.DataNode$PacketResponder: Received block blk_5597899293317029 of size 6879
+081109 656114 900 INFO dfs.DataNode$PacketResponder: Received block blk_7317356575775619 of size 4578
+081109 763755 424 INFO dfs.DataNode$PacketResponder: Received block blk_4384326954923628 of size 7759
+081109 267487 552 INFO dfs.DataNode$PacketResponder: Received block blk_6546583169127596 of size 2673
+081109 659944 654 INFO dfs.DataNode$PacketResponder: Received block blk_6686381496274543 of size 2788
+081109 992608 556 INFO dfs.DataNode$PacketResponder: Received block blk_2947099928534197 of size 6011
+081109 243094 239 INFO dfs.DataNode$PacketResponder: Received block blk_8717045138249781 of size 8494
+081109 949879 356 INFO dfs.DataNode$PacketResponder: Received block blk_6655478678009006 of size 8394
+081109 732425 323 INFO dfs.DataNode$PacketResponder: Received block blk_3845137438694644 of size 8296
+081109 328740 797 INFO dfs.DataNode$PacketResponder: Received block blk_2753570390734029 of size 2593
+081109 240438 911 INFO dfs.DataNode$PacketResponder: Received block blk_1872453403700911 of size 2960
+081109 192426 266 INFO dfs.DataNode$PacketResponder: Received block blk_7544418331835955 of size 4177
+081109 972591 964 INFO dfs.DataNode$PacketResponder: Received block blk_4916301921028173 of size 4453
+081109 839077 130 INFO dfs.DataNode$PacketResponder: Received block blk_8115109580418966 of size 2643
+081109 818499 819 INFO dfs.DataNode$PacketResponder: Received block blk_6656456478884603 of size 1145
+081109 697583 699 INFO dfs.DataNode$PacketResponder: Received block blk_2809852386455108 of size 3929
+081109 478875 119 INFO dfs.DataNode$PacketResponder: Received block blk_8394679172611360 of size 6772
+081109 894982 352 INFO dfs.DataNode$PacketResponder: Received block blk_6716522038480402 of size 5118
+081109 973410 194 INFO dfs.DataNode$PacketResponder: Received block blk_7176081361199123 of size 7576
+081109 211330 25 INFO dfs.DataNode$PacketResponder: Received block blk_5342130634896462 of size 1306
+081109 743158 528 INFO dfs.DataNode$PacketResponder: Received block blk_5969014146252697 of size 8414
+081109 253673 195 INFO dfs.DataNode$PacketResponder: Received block blk_5334955884254812 of size 2511
+081109 280870 861 INFO dfs.DataNode$PacketResponder: Received block blk_2836691718220435 of size 2294
+081109 805626 98 INFO dfs.DataNode$PacketResponder: Received block blk_3549891977208864 of size 5749
+081109 814044 474 INFO dfs.DataNode$PacketResponder: Received block blk_2211017834766873 of size 1635
+081109 442703 401 INFO dfs.DataNode$PacketResponder: Received block blk_1871121436326048 of size 4825
+081109 471793 441 INFO dfs.DataNode$PacketResponder: Received block blk_5641293815473471 of size 2721
+081109 113889 650 INFO dfs.DataNode$PacketResponder: Received block blk_4361072188131601 of size 6742
+081109 309999 186 INFO dfs.DataNode$PacketResponder: Received block blk_8604441636599050 of size 4341
+081109 875248 380 INFO dfs.DataNode$PacketResponder: Received block blk_4238699348664763 of size 4320
+081109 734254 170 INFO dfs.DataNode$PacketResponder: Received block blk_2757538936630977 of size 1776
+081109 116166 332 INFO dfs.DataNode$PacketResponder: Received block blk_8136846277979946 of size 8316
+081109 982802 722 INFO dfs.DataNode$PacketResponder: Received block blk_8221124584118590 of size 8173
+081109 759959 963 INFO dfs.DataNode$PacketResponder: Received block blk_9185210635610875 of size 4313
+081109 300223 517 INFO dfs.DataNode$PacketResponder: Received block blk_6400764907704028 of size 5789
+081109 943916 781 INFO dfs.DataNode$PacketResponder: Received block blk_4071227959766740 of size 3115
+081109 221922 763 INFO dfs.DataNode$PacketResponder: Received block blk_9208250638850128 of size 7086
+081109 954213 957 INFO dfs.DataNode$PacketResponder: Received block blk_2441484560283759 of size 4322
+081109 445936 901 INFO dfs.DataNode$PacketResponder: Received block blk_9075359427387809 of size 5414
+081109 904540 443 INFO dfs.DataNode$PacketResponder: Received block blk_4331475971659058 of size 7268
+081109 316875 740 INFO dfs.DataNode$PacketResponder: Received block blk_4654631401588722 of size 2514
+081109 458317 309 INFO dfs.DataNode$PacketResponder: Received block blk_8181735377742922 of size 4840
+081109 472912 655 INFO dfs.DataNode$PacketResponder: Received block blk_1095426016586647 of size 8394
+081109 343382 280 INFO dfs.DataNode$PacketResponder: Received block blk_1446486005402378 of size 8738
+081109 413384 346 INFO dfs.DataNode$PacketResponder: Received block blk_6999639650101523 of size 2769
+081109 697243 187 INFO dfs.DataNode$PacketResponder: Received block blk_4658108084034741 of size 5366
+081109 639700 510 INFO dfs.DataNode$PacketResponder: Received block blk_4509147524621328 of size 6261
+081109 225420 781 INFO dfs.DataNode$PacketResponder: Received block blk_7316304375316735 of size 4238
+081109 123929 118 INFO dfs.DataNode$PacketResponder: Received block blk_6178360378881661 of size 6041
+081109 348545 263 INFO dfs.DataNode$PacketResponder: Received block blk_7654472468670133 of size 4634
+081109 152907 780 INFO dfs.DataNode$PacketResponder: Received block blk_5546486600489454 of size 2601
+081109 111303 101 INFO dfs.DataNode$PacketResponder: Received block blk_4383797062300880 of size 3118
+081109 457404 564 INFO dfs.DataNode$PacketResponder: Received block blk_3483209434179851 of size 5427
+081109 645967 582 INFO dfs.DataNode$PacketResponder: Received block blk_4744178576061476 of size 7933
+081109 769004 456 INFO dfs.DataNode$PacketResponder: Received block blk_1897476345148961 of size 7631
+081109 676104 612 INFO dfs.DataNode$PacketResponder: Received block blk_1686312772867988 of size 6475
+081109 147305 396 INFO dfs.DataNode$PacketResponder: Received block blk_9604974533449565 of size 8619
+081109 504648 484 INFO dfs.DataNode$PacketResponder: Received block blk_2440536062348771 of size 8946
+081109 619591 555 INFO dfs.DataNode$PacketResponder: Received block blk_8707212164865836 of size 6006
+081109 550445 968 INFO dfs.DataNode$PacketResponder: Received block blk_1527330056883635 of size 5051
+081109 652346 409 INFO dfs.DataNode$PacketResponder: Received block blk_3561971273809845 of size 5897
+081109 656173 293 INFO dfs.DataNode$PacketResponder: Received block blk_4292811033646833 of size 4958
+081109 687878 952 INFO dfs.DataNode$PacketResponder: Received block blk_3429743122441189 of size 3322
+081109 884071 304 INFO dfs.DataNode$PacketResponder: Received block blk_7454574191818574 of size 1220
+081109 356925 600 INFO dfs.DataNode$PacketResponder: Received block blk_7957950158918182 of size 1350
+081109 528663 773 INFO dfs.DataNode$PacketResponder: Received block blk_2410414144114076 of size 6606
+081109 430452 767 INFO dfs.DataNode$PacketResponder: Received block blk_1475501799153850 of size 4258
+081109 858189 968 INFO dfs.DataNode$PacketResponder: Received block blk_6239907561188139 of size 3615
+081109 334571 440 INFO dfs.DataNode$PacketResponder: Received block blk_8184063262698800 of size 6891
+081109 892198 250 INFO dfs.DataNode$PacketResponder: Received block blk_3260112626715649 of size 1372
+081109 949523 741 INFO dfs.DataNode$PacketResponder: Received block blk_1886964534043243 of size 8450
+081109 956367 252 INFO dfs.DataNode$PacketResponder: Received block blk_2300320540282654 of size 5944
+081109 152847 640 INFO dfs.DataNode$PacketResponder: Received block blk_2036670700291884 of size 4417
+081109 313549 882 INFO dfs.DataNode$PacketResponder: Received block blk_2062533916525471 of size 1426
+081109 262240 128 INFO dfs.DataNode$PacketResponder: Received block blk_5756699287158748 of size 3976
+081109 800334 427 INFO dfs.DataNode$PacketResponder: Received block blk_2259011435367137 of size 4731
+081109 770662 597 INFO dfs.DataNode$PacketResponder: Received block blk_3361053478287919 of size 6586
+081109 915757 762 INFO dfs.DataNode$PacketResponder: Received block blk_4278801310478326 of size 5348
+081109 243627 976 INFO dfs.DataNode$PacketResponder: Received block blk_9985895422950328 of size 3376
+081109 349992 493 INFO dfs.DataNode$PacketResponder: Received block blk_2160773900047669 of size 1932
+081109 423592 804 INFO dfs.DataNode$PacketResponder: Received block blk_9040722104138460 of size 5156
+081109 476631 282 INFO dfs.DataNode$PacketResponder: Received block blk_8625150182618236 of size 3224
+081109 860296 579 INFO dfs.DataNode$PacketResponder: Received block blk_7170281485560414 of size 6726
+081109 763854 286 INFO dfs.DataNode$PacketResponder: Received block blk_2711589958354080 of size 7171
+081109 361054 515 INFO dfs.DataNode$PacketResponder: Received block blk_2709702954855955 of size 6348
+081109 816356 41 INFO dfs.DataNode$PacketResponder: Received block blk_2765214016815638 of size 6147
+081109 384100 266 INFO dfs.DataNode$PacketResponder: Received block blk_1085349851183663 of size 4483
+081109 139893 105 INFO dfs.DataNode$PacketResponder: Received block blk_6614626178018087 of size 2823
+081109 176014 774 INFO dfs.DataNode$PacketResponder: Received block blk_3506601074881638 of size 1708
+081109 268671 564 INFO dfs.DataNode$PacketResponder: Received block blk_7091392827976695 of size 2923
+081109 491311 496 INFO dfs.DataNode$PacketResponder: Received block blk_9840475629854690 of size 4920
+081109 454686 352 INFO dfs.DataNode$PacketResponder: Received block blk_2897208834572309 of size 5050
+081109 979287 891 INFO dfs.DataNode$PacketResponder: Received block blk_2201223947319419 of size 1609
+081109 569038 829 INFO dfs.DataNode$PacketResponder: Received block blk_2078959359945947 of size 7734
+081109 906093 788 INFO dfs.DataNode$PacketResponder: Received block blk_8547939550195269 of size 2746
+081109 883622 265 INFO dfs.DataNode$PacketResponder: Received block blk_4822299463560510 of size 4195
+081109 486872 158 INFO dfs.DataNode$PacketResponder: Received block blk_2357251798636777 of size 6354
+081109 725639 334 INFO dfs.DataNode$PacketResponder: Received block blk_9909750038864631 of size 3382
+081109 882347 846 INFO dfs.DataNode$PacketResponder: Received block blk_7836331866091199 of size 8543
+081109 785565 379 INFO dfs.DataNode$PacketResponder: Received block blk_4851950799056524 of size 5756
+081109 439899 81 INFO dfs.DataNode$PacketResponder: Received block blk_5161471539190309 of size 5453
+081109 691623 582 INFO dfs.DataNode$PacketResponder: Received block blk_4891004503549031 of size 4971
+081109 586027 307 INFO dfs.DataNode$PacketResponder: Received block blk_7172876528389060 of size 7746
+081109 179774 318 INFO dfs.DataNode$PacketResponder: Received block blk_1083703653425245 of size 2747
+081109 733045 84 INFO dfs.DataNode$PacketResponder: Received block blk_6963651901199804 of size 6694
+081109 860214 783 INFO dfs.DataNode$PacketResponder: Received block blk_5456412126522899 of size 6685
+081109 249860 225 INFO dfs.DataNode$PacketResponder: Received block blk_3548274224725233 of size 3931
+081109 442953 376 INFO dfs.DataNode$PacketResponder: Received block blk_7539008926705169 of size 8424
+081109 843728 452 INFO dfs.DataNode$PacketResponder: Received block blk_3904326109184620 of size 5663
+081109 820425 936 INFO dfs.DataNode$PacketResponder: Received block blk_9273621395094993 of size 3287
+081109 942058 313 INFO dfs.DataNode$PacketResponder: Received block blk_5775717751507497 of size 4754
+081109 519002 991 INFO dfs.DataNode$PacketResponder: Received block blk_2992514002190000 of size 8656
+081109 641239 255 INFO dfs.DataNode$PacketResponder: Received block blk_9058989574314894 of size 1690
+081109 483321 25 INFO dfs.DataNode$PacketResponder: Received block blk_8462679028956609 of size 3976
+081109 713216 397 INFO dfs.DataNode$PacketResponder: Received block blk_4563335409741059 of size 7521
+081109 691192 378 INFO dfs.DataNode$PacketResponder: Received block blk_7654807849364749 of size 7529
+081109 262305 857 INFO dfs.DataNode$PacketResponder: Received block blk_5868944106563612 of size 5842
+081109 285170 92 INFO dfs.DataNode$PacketResponder: Received block blk_2596871257771079 of size 7217
+081109 996231 289 INFO dfs.DataNode$PacketResponder: Received block blk_8934425749883473 of size 7650
+081109 640689 60 INFO dfs.DataNode$PacketResponder: Received block blk_2992753251671817 of size 5457
+081109 410251 990 INFO dfs.DataNode$PacketResponder: Received block blk_6111247986984729 of size 1183
+081109 943389 433 INFO dfs.DataNode$PacketResponder: Received block blk_8581251434532913 of size 1524
+081109 420313 807 INFO dfs.DataNode$PacketResponder: Received block blk_5925282015991633 of size 5468
+081109 185639 281 INFO dfs.DataNode$PacketResponder: Received block blk_4013096012778673 of size 7037
+081109 429050 87 INFO dfs.DataNode$PacketResponder: Received block blk_9098118339648509 of size 1212
+081109 250866 100 INFO dfs.DataNode$PacketResponder: Received block blk_6886551755470499 of size 7109
+081109 542553 252 INFO dfs.DataNode$PacketResponder: Received block blk_6845703103734333 of size 6834
+081109 902530 930 INFO dfs.DataNode$PacketResponder: Received block blk_5404597283055284 of size 5272
+081109 581369 404 INFO dfs.DataNode$PacketResponder: Received block blk_7887887749656965 of size 3870
+081109 449140 689 INFO dfs.DataNode$PacketResponder: Received block blk_8271290888713066 of size 2119
+081109 663441 825 INFO dfs.DataNode$PacketResponder: Received block blk_5395883967848793 of size 6905
+081109 748186 937 INFO dfs.DataNode$PacketResponder: Received block blk_7378361753258982 of size 1378
+081109 966367 683 INFO dfs.DataNode$PacketResponder: Received block blk_7818867936326053 of size 3860
+081109 945055 388 INFO dfs.DataNode$PacketResponder: Received block blk_1034844440477100 of size 7830
+081109 587230 981 INFO dfs.DataNode$PacketResponder: Received block blk_9004217400284265 of size 5434
+081109 649302 371 INFO dfs.DataNode$PacketResponder: Received block blk_1219303780086889 of size 6817
+081109 215266 432 INFO dfs.DataNode$PacketResponder: Received block blk_8226054885840107 of size 8565
+081109 253290 252 INFO dfs.DataNode$PacketResponder: Received block blk_9246652546780055 of size 7072
+081109 766039 385 INFO dfs.DataNode$PacketResponder: Received block blk_9926226933181756 of size 6603
+081109 314291 399 INFO dfs.DataNode$PacketResponder: Received block blk_3890225947473853 of size 4481
+081109 387351 994 INFO dfs.DataNode$PacketResponder: Received block blk_3630321848793328 of size 8258
+081109 423427 749 INFO dfs.DataNode$PacketResponder: Received block blk_5246395765141752 of size 1940
+081109 263069 795 INFO dfs.DataNode$PacketResponder: Received block blk_6836488196629006 of size 8534
+081109 165372 772 INFO dfs.DataNode$PacketResponder: Received block blk_9216324747513825 of size 4758
+081109 604446 932 INFO dfs.DataNode$PacketResponder: Received block blk_6260802435400055 of size 7556
+081109 213954 203 INFO dfs.DataNode$PacketResponder: Received block blk_3815205189867870 of size 2511
+081109 716930 242 INFO dfs.DataNode$PacketResponder: Received block blk_2957845205280895 of size 5915
+081109 723678 521 INFO dfs.DataNode$PacketResponder: Received block blk_5250611954305290 of size 2834
+081109 394714 413 INFO dfs.DataNode$PacketResponder: Received block blk_2666212985820749 of size 2413
+081109 426872 642 INFO dfs.DataNode$PacketResponder: Received block blk_7822988957758705 of size 5491
+081109 677147 491 INFO dfs.DataNode$PacketResponder: Received block blk_8360040392895445 of size 7990
+081109 522173 937 INFO dfs.DataNode$PacketResponder: Received block blk_5366329296309202 of size 8829
+081109 673937 791 INFO dfs.DataNode$PacketResponder: Received block blk_6947006460770782 of size 8839
+081109 331740 410 INFO dfs.DataNode$PacketResponder: Received block blk_5346992631793574 of size 1407
+081109 240815 821 INFO dfs.DataNode$PacketResponder: Received block blk_9534500382922727 of size 7539
+081109 653214 814 INFO dfs.DataNode$PacketResponder: Received block blk_9791284312298169 of size 5225
+081109 925940 60 INFO dfs.DataNode$PacketResponder: Received block blk_3472929529956774 of size 6386
+081109 111405 896 INFO dfs.DataNode$PacketResponder: Received block blk_3140237712857858 of size 4871
+081109 571878 816 INFO dfs.DataNode$PacketResponder: Received block blk_4346719714382751 of size 3019
+081109 735513 896 INFO dfs.DataNode$PacketResponder: Received block blk_4795981059097170 of size 2288
+081109 909429 330 INFO dfs.DataNode$PacketResponder: Received block blk_2413320904021297 of size 2185
+081109 949355 529 INFO dfs.DataNode$PacketResponder: Received block blk_9179487156572483 of size 2074
+081109 749589 273 INFO dfs.DataNode$PacketResponder: Received block blk_7680416342785394 of size 5226
+081109 257971 586 INFO dfs.DataNode$PacketResponder: Received block blk_1476851040026738 of size 7310
+081109 314226 842 INFO dfs.DataNode$PacketResponder: Received block blk_1012297257158156 of size 8505
+081109 962022 132 INFO dfs.DataNode$PacketResponder: Received block blk_2342301173411883 of size 1675
+081109 744730 734 INFO dfs.DataNode$PacketResponder: Received block blk_3431227878101930 of size 5324
+081109 603423 711 INFO dfs.DataNode$PacketResponder: Received block blk_9013292700167957 of size 4839
+081109 884959 601 INFO dfs.DataNode$PacketResponder: Received block blk_9606324543077863 of size 5451
+081109 418341 20 INFO dfs.DataNode$PacketResponder: Received block blk_5557363415285469 of size 7466
+081109 302449 939 INFO dfs.DataNode$PacketResponder: Received block blk_4755734958421618 of size 6588
+081109 966465 451 INFO dfs.DataNode$PacketResponder: Received block blk_8038382341894439 of size 2707
+081109 533218 539 INFO dfs.DataNode$PacketResponder: Received block blk_5894252832612408 of size 5048
+081109 972424 988 INFO dfs.DataNode$PacketResponder: Received block blk_9526163594267602 of size 3551
+081109 525157 78 INFO dfs.DataNode$PacketResponder: Received block blk_3798958529991078 of size 5557
+081109 589922 684 INFO dfs.DataNode$PacketResponder: Received block blk_9982590405112261 of size 6858
+081109 177956 704 INFO dfs.DataNode$PacketResponder: Received block blk_4239973292183203 of size 2151
+081109 513386 693 INFO dfs.DataNode$PacketResponder: Received block blk_7013753532518512 of size 4782
+081109 922522 850 INFO dfs.DataNode$PacketResponder: Received block blk_9709136026144670 of size 1998
+081109 112948 885 INFO dfs.DataNode$PacketResponder: Received block blk_5011004046893389 of size 4089
+081109 598342 244 INFO dfs.DataNode$PacketResponder: Received block blk_7395166411054554 of size 3404
+081109 580339 791 INFO dfs.DataNode$PacketResponder: Received block blk_2020740055459449 of size 1085
+081109 985530 819 INFO dfs.DataNode$PacketResponder: Received block blk_9931757535993636 of size 6891
+081109 745992 156 INFO dfs.DataNode$PacketResponder: Received block blk_9120289396016018 of size 3378
+081109 665987 768 INFO dfs.DataNode$PacketResponder: Received block blk_4386605883992147 of size 3442
+081109 891593 402 INFO dfs.DataNode$PacketResponder: Received block blk_4038938272837549 of size 5551
+081109 368903 194 INFO dfs.DataNode$PacketResponder: Received block blk_1782958221598252 of size 2637
+081109 214907 338 INFO dfs.DataNode$PacketResponder: Received block blk_7588258111033626 of size 3537
+081109 690147 482 INFO dfs.DataNode$PacketResponder: Received block blk_3466238704777835 of size 6929
+081109 568563 847 INFO dfs.DataNode$PacketResponder: Received block blk_3987315713305715 of size 4132
+081109 247663 637 INFO dfs.DataNode$PacketResponder: Received block blk_1917512784920581 of size 1773
+081109 761014 726 INFO dfs.DataNode$PacketResponder: Received block blk_7104136934621460 of size 2468
+081109 521820 38 INFO dfs.DataNode$PacketResponder: Received block blk_2739879139246137 of size 7856
+081109 838131 93 INFO dfs.DataNode$PacketResponder: Received block blk_6338921216113085 of size 1822
+081109 264716 128 INFO dfs.DataNode$PacketResponder: Received block blk_1291457453873047 of size 4553
+081109 176213 350 INFO dfs.DataNode$PacketResponder: Received block blk_7946368319307095 of size 8541
+081109 636415 143 INFO dfs.DataNode$PacketResponder: Received block blk_4846189699104099 of size 6302
+081109 255161 841 INFO dfs.DataNode$PacketResponder: Received block blk_7907270367057098 of size 6663
+081109 447509 944 INFO dfs.DataNode$PacketResponder: Received block blk_5348170713518808 of size 4376
+081109 862250 411 INFO dfs.DataNode$PacketResponder: Received block blk_1138940572937854 of size 6022
+081109 927069 809 INFO dfs.DataNode$PacketResponder: Received block blk_3861610866270569 of size 3007
+081109 738167 543 INFO dfs.DataNode$PacketResponder: Received block blk_9877017336695697 of size 1151
+081109 297929 351 INFO dfs.DataNode$PacketResponder: Received block blk_3981520172002643 of size 3513
+081109 211440 571 INFO dfs.DataNode$PacketResponder: Received block blk_4974277767740655 of size 4093
+081109 448919 808 INFO dfs.DataNode$PacketResponder: Received block blk_5587923600257805 of size 3404
+081109 741138 731 INFO dfs.DataNode$PacketResponder: Received block blk_1924710002986923 of size 2297
+081109 665012 925 INFO dfs.DataNode$PacketResponder: Received block blk_7904130953950452 of size 3445
+081109 469686 627 INFO dfs.DataNode$PacketResponder: Received block blk_3106920036621111 of size 5099
+081109 702045 731 INFO dfs.DataNode$PacketResponder: Received block blk_2276810082987039 of size 2623
+081109 641103 733 INFO dfs.DataNode$PacketResponder: Received block blk_9408291778330683 of size 6790
+081109 306782 581 INFO dfs.DataNode$PacketResponder: Received block blk_9429924878963252 of size 8740
+081109 791475 203 INFO dfs.DataNode$PacketResponder: Received block blk_6648552123849410 of size 7362
+081109 356481 490 INFO dfs.DataNode$PacketResponder: Received block blk_2227459061029753 of size 5722
+081109 449781 338 INFO dfs.DataNode$PacketResponder: Received block blk_7278930447270762 of size 1751
+081109 478744 273 INFO dfs.DataNode$PacketResponder: Received block blk_8858879313928459 of size 4793
+081109 574257 997 INFO dfs.DataNode$PacketResponder: Received block blk_2117137670975834 of size 6978
+081109 696979 557 INFO dfs.DataNode$PacketResponder: Received block blk_3149391195896899 of size 5474
+081109 687567 938 INFO dfs.DataNode$PacketResponder: Received block blk_1572740592197216 of size 3165
+081109 881944 919 INFO dfs.DataNode$PacketResponder: Received block blk_9190524832159335 of size 7697
+081109 252713 126 INFO dfs.DataNode$PacketResponder: Received block blk_6417883638112889 of size 8651
+081109 402597 702 INFO dfs.DataNode$PacketResponder: Received block blk_1034217251333045 of size 8348
+081109 895161 588 INFO dfs.DataNode$PacketResponder: Received block blk_3169488327252947 of size 3974
+081109 294588 612 INFO dfs.DataNode$PacketResponder: Received block blk_2494076661454690 of size 5488
+081109 576421 33 INFO dfs.DataNode$PacketResponder: Received block blk_1686992093227778 of size 4304
+081109 790354 142 INFO dfs.DataNode$PacketResponder: Received block blk_8050069330685112 of size 3520
+081109 988522 756 INFO dfs.DataNode$PacketResponder: Received block blk_7045942810681132 of size 8425
+081109 720650 656 INFO dfs.DataNode$PacketResponder: Received block blk_6541411394110155 of size 7584
+081109 266251 205 INFO dfs.DataNode$PacketResponder: Received block blk_1147260527170654 of size 4375
+081109 249932 541 INFO dfs.DataNode$PacketResponder: Received block blk_1297789272648045 of size 4165
+081109 525442 178 INFO dfs.DataNode$PacketResponder: Received block blk_6129754827512526 of size 3754
+081109 376465 250 INFO dfs.DataNode$PacketResponder: Received block blk_2184210615251040 of size 5653
+081109 156070 658 INFO dfs.DataNode$PacketResponder: Received block blk_3991272629655857 of size 7422
+081109 803588 807 INFO dfs.DataNode$PacketResponder: Received block blk_7499853344532162 of size 2185
+081109 621721 615 INFO dfs.DataNode$PacketResponder: Received block blk_9640878930733442 of size 1839
+081109 531410 919 INFO dfs.DataNode$PacketResponder: Received block blk_4111495370801728 of size 6110
+081109 692210 777 INFO dfs.DataNode$PacketResponder: Received block blk_7208744220133229 of size 4333
+081109 609386 911 INFO dfs.DataNode$PacketResponder: Received block blk_3536129877275236 of size 4797
+081109 996581 707 INFO dfs.DataNode$PacketResponder: Received block blk_9155407760949165 of size 4350
+081109 223070 580 INFO dfs.DataNode$PacketResponder: Received block blk_4908733020848557 of size 1939
+081109 651519 339 INFO dfs.DataNode$PacketResponder: Received block blk_9457189630825607 of size 5300
+081109 540769 926 INFO dfs.DataNode$PacketResponder: Received block blk_4893132392075497 of size 1198
+081109 157336 304 INFO dfs.DataNode$PacketResponder: Received block blk_9171838082958284 of size 6943
+081109 554264 750 INFO dfs.DataNode$PacketResponder: Received block blk_9107719785439363 of size 4084
+081109 888409 809 INFO dfs.DataNode$PacketResponder: Received block blk_3899509218061646 of size 3496
+081109 173190 251 INFO dfs.DataNode$PacketResponder: Received block blk_6345210849682192 of size 2019
+081109 354119 515 INFO dfs.DataNode$PacketResponder: Received block blk_5025843976858460 of size 8152
+081109 154489 488 INFO dfs.DataNode$PacketResponder: Received block blk_9759948281362799 of size 6692
+081109 350764 559 INFO dfs.DataNode$PacketResponder: Received block blk_5739763151682424 of size 3509
+081109 347329 901 INFO dfs.DataNode$PacketResponder: Received block blk_4562587998842486 of size 1560
+081109 866296 990 INFO dfs.DataNode$PacketResponder: Received block blk_9208215075494452 of size 8139
+081109 672686 432 INFO dfs.DataNode$PacketResponder: Received block blk_4321597421914082 of size 5619
+081109 332552 666 INFO dfs.DataNode$PacketResponder: Received block blk_2478305432034670 of size 7116
+081109 228638 926 INFO dfs.DataNode$PacketResponder: Received block blk_6105309176307287 of size 1587
+081109 930846 134 INFO dfs.DataNode$PacketResponder: Received block blk_5680522638519786 of size 2014
+081109 703861 974 INFO dfs.DataNode$PacketResponder: Received block blk_5842179983185082 of size 4712
+081109 355779 746 INFO dfs.DataNode$PacketResponder: Received block blk_3667084498979180 of size 3451
+081109 280368 65 INFO dfs.DataNode$PacketResponder: Received block blk_3925216428714006 of size 4610
+081109 955057 544 INFO dfs.DataNode$PacketResponder: Received block blk_5053585388564571 of size 4254
+081109 825904 600 INFO dfs.DataNode$PacketResponder: Received block blk_4211042711329877 of size 2890
+081109 132643 466 INFO dfs.DataNode$PacketResponder: Received block blk_3758215309683760 of size 8360
+081109 440106 511 INFO dfs.DataNode$PacketResponder: Received block blk_3772849413863785 of size 2173
+081109 914258 484 INFO dfs.DataNode$PacketResponder: Received block blk_7995556548637204 of size 8198
+081109 409695 880 INFO dfs.DataNode$PacketResponder: Received block blk_2825696995194848 of size 8558
+081109 161825 201 INFO dfs.DataNode$PacketResponder: Received block blk_9077633867292444 of size 3587
+081109 471357 921 INFO dfs.DataNode$PacketResponder: Received block blk_8738778751975157 of size 4870
+081109 766242 901 INFO dfs.DataNode$PacketResponder: Received block blk_2548206930065740 of size 6717
+081109 311823 546 INFO dfs.DataNode$PacketResponder: Received block blk_6042502039162158 of size 6180
+081109 152431 666 INFO dfs.DataNode$PacketResponder: Received block blk_2724950074931546 of size 1869
+081109 957411 321 INFO dfs.DataNode$PacketResponder: Received block blk_7537225006955499 of size 8875
+081109 540778 731 INFO dfs.DataNode$PacketResponder: Received block blk_3467003016837482 of size 8200
+081109 829757 980 INFO dfs.DataNode$PacketResponder: Received block blk_4016819967753144 of size 8682
+081109 535338 81 INFO dfs.DataNode$PacketResponder: Received block blk_5009604424378514 of size 2387
+081109 422083 124 INFO dfs.DataNode$PacketResponder: Received block blk_8760010430255629 of size 6820
+081109 382014 186 INFO dfs.DataNode$PacketResponder: Received block blk_2769602508853680 of size 6899
+081109 796874 303 INFO dfs.DataNode$PacketResponder: Received block blk_5516459770684995 of size 7475
+081109 942755 678 INFO dfs.DataNode$PacketResponder: Received block blk_4355324114724367 of size 5295
+081109 718555 529 INFO dfs.DataNode$PacketResponder: Received block blk_2042671534256634 of size 2875
+081109 289334 684 INFO dfs.DataNode$PacketResponder: Received block blk_3710575237134966 of size 2850
+081109 771015 684 INFO dfs.DataNode$PacketResponder: Received block blk_2193851773429171 of size 1737
+081109 179958 451 INFO dfs.DataNode$PacketResponder: Received block blk_9854330471149371 of size 8513
+081109 656597 930 INFO dfs.DataNode$PacketResponder: Received block blk_1664841731606919 of size 1371
+081109 715054 292 INFO dfs.DataNode$PacketResponder: Received block blk_6401612894424199 of size 5401
+081109 942238 583 INFO dfs.DataNode$PacketResponder: Received block blk_4814078065357354 of size 1714
+081109 892389 195 INFO dfs.DataNode$PacketResponder: Received block blk_3568434099259313 of size 3014
+081109 869851 562 INFO dfs.DataNode$PacketResponder: Received block blk_3513926732940698 of size 1236
+081109 258096 920 INFO dfs.DataNode$PacketResponder: Received block blk_8118977813006436 of size 1275
+081109 887052 599 INFO dfs.DataNode$PacketResponder: Received block blk_5158016344927246 of size 4151
+081109 624183 62 INFO dfs.DataNode$PacketResponder: Received block blk_9370062342634984 of size 2473
+081109 914499 661 INFO dfs.DataNode$PacketResponder: Received block blk_6008048106246669 of size 8452
+081109 790238 496 INFO dfs.DataNode$PacketResponder: Received block blk_3889530987265206 of size 7414
+081109 405604 518 INFO dfs.DataNode$PacketResponder: Received block blk_5654335936829514 of size 7775
+081109 817499 534 INFO dfs.DataNode$PacketResponder: Received block blk_6717189217481940 of size 7097
+081109 282370 609 INFO dfs.DataNode$PacketResponder: Received block blk_5788957046340635 of size 7386
+081109 217556 623 INFO dfs.DataNode$PacketResponder: Received block blk_2487767098855726 of size 4568
+081109 561827 561 INFO dfs.DataNode$PacketResponder: Received block blk_7020763475740174 of size 7332
+081109 850897 811 INFO dfs.DataNode$PacketResponder: Received block blk_8084742928498794 of size 6911
+081109 612877 558 INFO dfs.DataNode$PacketResponder: Received block blk_3338984368174642 of size 2812
+081109 732606 511 INFO dfs.DataNode$PacketResponder: Received block blk_6224994586377158 of size 3140
+081109 725819 994 INFO dfs.DataNode$PacketResponder: Received block blk_2824021222759219 of size 6854
+081109 570160 894 INFO dfs.DataNode$PacketResponder: Received block blk_6157882285896526 of size 8214
+081109 259185 623 INFO dfs.DataNode$PacketResponder: Received block blk_3927832734296692 of size 1145
+081109 945334 446 INFO dfs.DataNode$PacketResponder: Received block blk_5468512358278857 of size 5126
+081109 375718 878 INFO dfs.DataNode$PacketResponder: Received block blk_7513452945341935 of size 7541
+081109 219840 930 INFO dfs.DataNode$PacketResponder: Received block blk_1653341967984825 of size 2459
+081109 669626 594 INFO dfs.DataNode$PacketResponder: Received block blk_6763388993126244 of size 7484
+081109 753496 150 INFO dfs.DataNode$PacketResponder: Received block blk_3143492430270316 of size 1442
+081109 144374 713 INFO dfs.DataNode$PacketResponder: Received block blk_4831301142368673 of size 3575
+081109 874337 539 INFO dfs.DataNode$PacketResponder: Received block blk_6595254985362785 of size 7395
+081109 717291 511 INFO dfs.DataNode$PacketResponder: Received block blk_7893170243988223 of size 1724
+081109 635357 176 INFO dfs.DataNode$PacketResponder: Received block blk_8390980083471416 of size 4103
+081109 267573 509 INFO dfs.DataNode$PacketResponder: Received block blk_3235046240772085 of size 6657
+081109 724830 806 INFO dfs.DataNode$PacketResponder: Received block blk_8484309761208744 of size 4723
+081109 530576 479 INFO dfs.DataNode$PacketResponder: Received block blk_3844441138627059 of size 3985
+081109 837950 994 INFO dfs.DataNode$PacketResponder: Received block blk_2948668317590867 of size 8841
+081109 613317 774 INFO dfs.DataNode$PacketResponder: Received block blk_2156677823376418 of size 7236
+081109 241076 149 INFO dfs.DataNode$PacketResponder: Received block blk_9882776632373713 of size 7099
+081109 881127 41 INFO dfs.DataNode$PacketResponder: Received block blk_5698928105643426 of size 1027
+081109 651112 145 INFO dfs.DataNode$PacketResponder: Received block blk_4691654273383643 of size 1748
+081109 412546 484 INFO dfs.DataNode$PacketResponder: Received block blk_6008818317979524 of size 4477
+081109 135932 697 INFO dfs.DataNode$PacketResponder: Received block blk_1688938247340741 of size 6873
+081109 869719 628 INFO dfs.DataNode$PacketResponder: Received block blk_9791672484149965 of size 2883
+081109 224617 566 INFO dfs.DataNode$PacketResponder: Received block blk_3280701918647750 of size 8007
+081109 583978 89 INFO dfs.DataNode$PacketResponder: Received block blk_4768070336078807 of size 8638
+081109 423800 346 INFO dfs.DataNode$PacketResponder: Received block blk_4278611506019102 of size 8753
+081109 740568 224 INFO dfs.DataNode$PacketResponder: Received block blk_9315112439097530 of size 1325
+081109 713656 666 INFO dfs.DataNode$PacketResponder: Received block blk_4630351860672874 of size 1479
+081109 694965 712 INFO dfs.DataNode$PacketResponder: Received block blk_4091288698671470 of size 8471
+081109 719350 947 INFO dfs.DataNode$PacketResponder: Received block blk_8966141549568445 of size 8261
+081109 512018 958 INFO dfs.DataNode$PacketResponder: Received block blk_5166690269179917 of size 7906
+081109 497125 801 INFO dfs.DataNode$PacketResponder: Received block blk_4432925326223395 of size 1403
+081109 464287 253 INFO dfs.DataNode$PacketResponder: Received block blk_4769165439824498 of size 2504
+081109 943214 168 INFO dfs.DataNode$PacketResponder: Received block blk_5949910266069268 of size 4933
+081109 324871 609 INFO dfs.DataNode$PacketResponder: Received block blk_4604874300361238 of size 4831
+081109 595522 458 INFO dfs.DataNode$PacketResponder: Received block blk_3779091916101569 of size 5015
+081109 812188 186 INFO dfs.DataNode$PacketResponder: Received block blk_6644390157128016 of size 8067
+081109 666571 393 INFO dfs.DataNode$PacketResponder: Received block blk_2842727745672709 of size 4433
+081109 824938 284 INFO dfs.DataNode$PacketResponder: Received block blk_1424802642946902 of size 3972
+081109 751133 20 INFO dfs.DataNode$PacketResponder: Received block blk_3472651106788341 of size 5250
+081109 375079 525 INFO dfs.DataNode$PacketResponder: Received block blk_7679890402917922 of size 4219
+081109 781006 733 INFO dfs.DataNode$PacketResponder: Received block blk_9318714139074471 of size 2782
+081109 478638 59 INFO dfs.DataNode$PacketResponder: Received block blk_1931424941402701 of size 2257
+081109 914602 369 INFO dfs.DataNode$PacketResponder: Received block blk_9436426997961681 of size 2123
+081109 858596 860 INFO dfs.DataNode$PacketResponder: Received block blk_3169631787980946 of size 8430
+081109 437728 859 INFO dfs.DataNode$PacketResponder: Received block blk_1183722033203341 of size 4149
+081109 996059 904 INFO dfs.DataNode$PacketResponder: Received block blk_1749108653387122 of size 4124
+081109 908151 900 INFO dfs.DataNode$PacketResponder: Received block blk_3308318685270295 of size 5254
+081109 416919 404 INFO dfs.DataNode$PacketResponder: Received block blk_1494555473512831 of size 5980
+081109 142806 193 INFO dfs.DataNode$PacketResponder: Received block blk_5399353204653701 of size 2235
+081109 233839 33 INFO dfs.DataNode$PacketResponder: Received block blk_6362814337078425 of size 2708
+081109 544652 491 INFO dfs.DataNode$PacketResponder: Received block blk_4699106349421909 of size 5456
+081109 642072 724 INFO dfs.DataNode$PacketResponder: Received block blk_2225043617708554 of size 5490
+081109 860721 463 INFO dfs.DataNode$PacketResponder: Received block blk_3827013017108839 of size 6457
+081109 314754 855 INFO dfs.DataNode$PacketResponder: Received block blk_2325780714038464 of size 3296
+081109 571200 416 INFO dfs.DataNode$PacketResponder: Received block blk_7420037807375421 of size 2119
+081109 472889 232 INFO dfs.DataNode$PacketResponder: Received block blk_5655174978248313 of size 1840
+081109 461713 626 INFO dfs.DataNode$PacketResponder: Received block blk_4336838656122575 of size 2767
+081109 989411 26 INFO dfs.DataNode$PacketResponder: Received block blk_1366507341838214 of size 7120
+081109 693429 12 INFO dfs.DataNode$PacketResponder: Received block blk_5348867548118985 of size 7625
+081109 879145 306 INFO dfs.DataNode$PacketResponder: Received block blk_9787437639343088 of size 6410
+081109 994382 222 INFO dfs.DataNode$PacketResponder: Received block blk_1602638330972060 of size 5572
+081109 798974 126 INFO dfs.DataNode$PacketResponder: Received block blk_4182904438956553 of size 8824
+081109 492367 241 INFO dfs.DataNode$PacketResponder: Received block blk_8821628399726567 of size 7416
+081109 194258 819 INFO dfs.DataNode$PacketResponder: Received block blk_3338118488083002 of size 4503
+081109 616860 62 INFO dfs.DataNode$PacketResponder: Received block blk_4534775779056934 of size 5013
+081109 444125 292 INFO dfs.DataNode$PacketResponder: Received block blk_9382772785946518 of size 5072
+081109 332392 163 INFO dfs.DataNode$PacketResponder: Received block blk_3520337074739953 of size 8581
+081109 598306 787 INFO dfs.DataNode$PacketResponder: Received block blk_2818714219934496 of size 2365
+081109 846910 246 INFO dfs.DataNode$PacketResponder: Received block blk_6991626913132081 of size 5263
+081109 458439 930 INFO dfs.DataNode$PacketResponder: Received block blk_7690326791190369 of size 4459
+081109 601540 597 INFO dfs.DataNode$PacketResponder: Received block blk_2358226731804890 of size 3105
+081109 680061 316 INFO dfs.DataNode$PacketResponder: Received block blk_8682544158717938 of size 6735
+081109 510382 124 INFO dfs.DataNode$PacketResponder: Received block blk_1207575402457496 of size 3984
+081109 524004 279 INFO dfs.DataNode$PacketResponder: Received block blk_1566900935447771 of size 1447
+081109 987929 600 INFO dfs.DataNode$PacketResponder: Received block blk_5463576447096137 of size 3457
+081109 441344 908 INFO dfs.DataNode$PacketResponder: Received block blk_7477920798009074 of size 3075
+081109 137069 356 INFO dfs.DataNode$PacketResponder: Received block blk_1211905406853534 of size 3650
+081109 693196 305 INFO dfs.DataNode$PacketResponder: Received block blk_4362129999201069 of size 3145
+081109 295039 658 INFO dfs.DataNode$PacketResponder: Received block blk_7017329992200248 of size 4844
+081109 458024 978 INFO dfs.DataNode$PacketResponder: Received block blk_6541755003394511 of size 8353
+081109 704159 725 INFO dfs.DataNode$PacketResponder: Received block blk_1279479374383462 of size 8719
+081109 179202 643 INFO dfs.DataNode$PacketResponder: Received block blk_7948807043446081 of size 1390
+081109 530918 628 INFO dfs.DataNode$PacketResponder: Received block blk_5889646839211957 of size 4404
+081109 171660 850 INFO dfs.DataNode$PacketResponder: Received block blk_3487546546875689 of size 4800
+081109 500426 990 INFO dfs.DataNode$PacketResponder: Received block blk_5049341894733194 of size 8451
+081109 942875 140 INFO dfs.DataNode$PacketResponder: Received block blk_1343495957913313 of size 6598
+081109 423598 507 INFO dfs.DataNode$PacketResponder: Received block blk_3457689838832636 of size 3952
+081109 122125 154 INFO dfs.DataNode$PacketResponder: Received block blk_9799835970419900 of size 5959
+081109 339595 265 INFO dfs.DataNode$PacketResponder: Received block blk_3430033193117989 of size 6571
+081109 645882 1 INFO dfs.DataNode$PacketResponder: Received block blk_3112643818426101 of size 8589
+081109 513039 4 INFO dfs.DataNode$PacketResponder: Received block blk_9825180876392756 of size 2960
+081109 990214 666 INFO dfs.DataNode$PacketResponder: Received block blk_5446058004942964 of size 7269
+081109 754717 844 INFO dfs.DataNode$PacketResponder: Received block blk_1711949018097140 of size 5593
+081109 824677 993 INFO dfs.DataNode$PacketResponder: Received block blk_8485874096289659 of size 7525
+081109 463509 107 INFO dfs.DataNode$PacketResponder: Received block blk_3378498486408427 of size 8260
+081109 944738 734 INFO dfs.DataNode$PacketResponder: Received block blk_3822472201480102 of size 2703
+081109 819903 161 INFO dfs.DataNode$PacketResponder: Received block blk_4568936126043369 of size 8896
+081109 268852 164 INFO dfs.DataNode$PacketResponder: Received block blk_8425436639550805 of size 3728
+081109 614488 825 INFO dfs.DataNode$PacketResponder: Received block blk_7208300586763546 of size 5618
+081109 534948 293 INFO dfs.DataNode$PacketResponder: Received block blk_4328360397568630 of size 4005
+081109 659924 511 INFO dfs.DataNode$PacketResponder: Received block blk_7017029060182268 of size 2941
+081109 479816 333 INFO dfs.DataNode$PacketResponder: Received block blk_3245519052170163 of size 6785
+081109 638699 756 INFO dfs.DataNode$PacketResponder: Received block blk_9263522136054218 of size 2032
+081109 172012 838 INFO dfs.DataNode$PacketResponder: Received block blk_1569585151668977 of size 1837
+081109 425240 116 INFO dfs.DataNode$PacketResponder: Received block blk_7348072841356343 of size 7954
+081109 909614 696 INFO dfs.DataNode$PacketResponder: Received block blk_5614884169533678 of size 4937
+081109 751772 888 INFO dfs.DataNode$PacketResponder: Received block blk_2464296258527411 of size 4380
+081109 156037 353 INFO dfs.DataNode$PacketResponder: Received block blk_5341214944760634 of size 3079
+081109 875386 816 INFO dfs.DataNode$PacketResponder: Received block blk_5570701608194108 of size 6683
+081109 850727 651 INFO dfs.DataNode$PacketResponder: Received block blk_3278314331613340 of size 3062
+081109 816008 335 INFO dfs.DataNode$PacketResponder: Received block blk_7446687361078819 of size 2503
+081109 896141 210 INFO dfs.DataNode$PacketResponder: Received block blk_8710421212889770 of size 7903
+081109 235653 582 INFO dfs.DataNode$PacketResponder: Received block blk_8462825925583319 of size 4445
+081109 231666 638 INFO dfs.DataNode$PacketResponder: Received block blk_7367416324514947 of size 7064
+081109 940159 165 INFO dfs.DataNode$PacketResponder: Received block blk_3422390893874561 of size 2025
+081109 751360 686 INFO dfs.DataNode$PacketResponder: Received block blk_4395271294417722 of size 3391
+081109 293615 998 INFO dfs.DataNode$PacketResponder: Received block blk_6872694459728100 of size 1112
+081109 827535 964 INFO dfs.DataNode$PacketResponder: Received block blk_6273955578030859 of size 7477
+081109 240245 275 INFO dfs.DataNode$PacketResponder: Received block blk_9354342623920215 of size 6632
+081109 364218 647 INFO dfs.DataNode$PacketResponder: Received block blk_4776750591353452 of size 6454
+081109 812299 143 INFO dfs.DataNode$PacketResponder: Received block blk_4482747734542228 of size 1398
+081109 224141 892 INFO dfs.DataNode$PacketResponder: Received block blk_7424520131159042 of size 1347
+081109 473778 749 INFO dfs.DataNode$PacketResponder: Received block blk_3576427159188828 of size 5411
+081109 225981 415 INFO dfs.DataNode$PacketResponder: Received block blk_8220557256735810 of size 3703
+081109 973223 556 INFO dfs.DataNode$PacketResponder: Received block blk_1238847017127421 of size 8008
+081109 491570 69 INFO dfs.DataNode$PacketResponder: Received block blk_2542299060848575 of size 3532
+081109 979428 666 INFO dfs.DataNode$PacketResponder: Received block blk_8210066563592631 of size 3324
+081109 856938 633 INFO dfs.DataNode$PacketResponder: Received block blk_4527972996943633 of size 4343
+081109 704390 399 INFO dfs.DataNode$PacketResponder: Received block blk_2279018778196634 of size 6529
+081109 672468 290 INFO dfs.DataNode$PacketResponder: Received block blk_2950893090872466 of size 7554
+081109 563728 180 INFO dfs.DataNode$PacketResponder: Received block blk_2323098462590841 of size 7830
+081109 363583 902 INFO dfs.DataNode$PacketResponder: Received block blk_6009650314118522 of size 4999
+081109 259236 332 INFO dfs.DataNode$PacketResponder: Received block blk_2084193337531316 of size 8245
+081109 693410 583 INFO dfs.DataNode$PacketResponder: Received block blk_3433696056310527 of size 2176
+081109 519585 281 INFO dfs.DataNode$PacketResponder: Received block blk_6632129230047583 of size 3638
+081109 605620 206 INFO dfs.DataNode$PacketResponder: Received block blk_1729612841755452 of size 3996
+081109 686082 53 INFO dfs.DataNode$PacketResponder: Received block blk_3338131024911112 of size 2242
+081109 897552 317 INFO dfs.DataNode$PacketResponder: Received block blk_1064214332538943 of size 6490
+081109 291361 345 INFO dfs.DataNode$PacketResponder: Received block blk_1036194026213564 of size 4960
+081109 927391 208 INFO dfs.DataNode$PacketResponder: Received block blk_9981597554835970 of size 8104
+081109 133677 425 INFO dfs.DataNode$PacketResponder: Received block blk_5361777267052760 of size 3878
+081109 515171 571 INFO dfs.DataNode$PacketResponder: Received block blk_6042114682942669 of size 1472
+081109 746664 673 INFO dfs.DataNode$PacketResponder: Received block blk_5958944393347805 of size 7775
+081109 390567 194 INFO dfs.DataNode$PacketResponder: Received block blk_3273728297643132 of size 8691
+081109 361704 825 INFO dfs.DataNode$PacketResponder: Received block blk_8787597295394089 of size 4630
+081109 860182 49 INFO dfs.DataNode$PacketResponder: Received block blk_8509465007767270 of size 2440
+081109 277048 552 INFO dfs.DataNode$PacketResponder: Received block blk_1241209045303316 of size 1973
+081109 384190 368 INFO dfs.DataNode$PacketResponder: Received block blk_1672453043027774 of size 1196
+081109 425067 65 INFO dfs.DataNode$PacketResponder: Received block blk_6005435432701653 of size 5212
+081109 320348 66 INFO dfs.DataNode$PacketResponder: Received block blk_1094328072523578 of size 8858
+081109 904110 540 INFO dfs.DataNode$PacketResponder: Received block blk_1099335569211015 of size 3170
+081109 930775 947 INFO dfs.DataNode$PacketResponder: Received block blk_3207243007400779 of size 7024
+081109 619039 409 WARN dfs.DataNode$DataXceiver: writeBlock blk_8233495048237839 received exception
+081109 657184 848 WARN dfs.DataNode$DataXceiver: writeBlock blk_7914891616698400 received exception
+081109 941554 787 WARN dfs.DataNode$DataXceiver: writeBlock blk_9431974717883947 received exception
+081109 605501 412 WARN dfs.DataNode$DataXceiver: writeBlock blk_7352436331889226 received exception
+081109 528382 257 WARN dfs.DataNode$DataXceiver: writeBlock blk_9193298223441571 received exception
+081109 754009 25 WARN dfs.DataNode$DataXceiver: writeBlock blk_6195454474990317 received exception
+081109 247620 233 WARN dfs.DataNode$DataXceiver: writeBlock blk_4498393986449445 received exception
+081109 859510 379 WARN dfs.DataNode$DataXceiver: writeBlock blk_6917436315728253 received exception
+081109 390272 831 WARN dfs.DataNode$DataXceiver: writeBlock blk_4284760890123093 received exception
+081109 757359 654 WARN dfs.DataNode$DataXceiver: writeBlock blk_4189002264234143 received exception
+081109 427317 286 WARN dfs.DataNode$DataXceiver: writeBlock blk_9152840351604021 received exception
+081109 785057 330 WARN dfs.DataNode$DataXceiver: writeBlock blk_1848035254730885 received exception
+081109 377482 343 WARN dfs.DataNode$DataXceiver: writeBlock blk_7680036567368610 received exception
+081109 288831 217 WARN dfs.DataNode$DataXceiver: writeBlock blk_7694123344128604 received exception
+081109 237118 560 WARN dfs.DataNode$DataXceiver: writeBlock blk_7126888119612152 received exception
+081109 315990 182 WARN dfs.DataNode$DataXceiver: writeBlock blk_1953166404532568 received exception
+081109 263171 147 WARN dfs.DataNode$DataXceiver: writeBlock blk_4155561318171940 received exception
+081109 291200 442 WARN dfs.DataNode$DataXceiver: writeBlock blk_1085036151948503 received exception
+081109 519143 515 WARN dfs.DataNode$DataXceiver: writeBlock blk_4633078700196741 received exception
+081109 199340 330 WARN dfs.DataNode$DataXceiver: writeBlock blk_5838125828037495 received exception
+081109 980658 976 WARN dfs.DataNode$DataXceiver: writeBlock blk_2843652342127082 received exception
+081109 121820 902 WARN dfs.DataNode$DataXceiver: writeBlock blk_3890359121126198 received exception
+081109 169735 773 WARN dfs.DataNode$DataXceiver: writeBlock blk_1976008078268287 received exception
+081109 706907 330 WARN dfs.DataNode$DataXceiver: writeBlock blk_5263517097791695 received exception
+081109 330299 512 WARN dfs.DataNode$DataXceiver: writeBlock blk_8029359978275869 received exception
+081109 840342 910 WARN dfs.DataNode$DataXceiver: writeBlock blk_8319097482483991 received exception
+081109 386646 72 WARN dfs.DataNode$DataXceiver: writeBlock blk_4513754308180603 received exception
+081109 437877 903 WARN dfs.DataNode$DataXceiver: writeBlock blk_8004723080474235 received exception
+081109 474536 538 WARN dfs.DataNode$DataXceiver: writeBlock blk_1090782678511093 received exception
+081109 255323 748 WARN dfs.DataNode$DataXceiver: writeBlock blk_6967237013662827 received exception
+081109 496484 933 WARN dfs.DataNode$DataXceiver: writeBlock blk_1498115892550783 received exception
+081109 322600 632 WARN dfs.DataNode$DataXceiver: writeBlock blk_4103777943186280 received exception
+081109 560811 877 WARN dfs.DataNode$DataXceiver: writeBlock blk_6662131469557824 received exception
+081109 544588 517 WARN dfs.DataNode$DataXceiver: writeBlock blk_6113708190063419 received exception
+081109 219681 125 WARN dfs.DataNode$DataXceiver: writeBlock blk_7653393269767291 received exception
+081109 823347 763 WARN dfs.DataNode$DataXceiver: writeBlock blk_4928754561086968 received exception
+081109 797777 479 WARN dfs.DataNode$DataXceiver: writeBlock blk_8535474677369089 received exception
+081109 503328 514 WARN dfs.DataNode$DataXceiver: writeBlock blk_4381806697219064 received exception
+081109 729843 555 WARN dfs.DataNode$DataXceiver: writeBlock blk_1383319701230359 received exception
+081109 640259 943 WARN dfs.DataNode$DataXceiver: writeBlock blk_5757715800736894 received exception
+081109 757805 463 WARN dfs.DataNode$DataXceiver: writeBlock blk_3559634923746853 received exception
+081109 722188 48 WARN dfs.DataNode$DataXceiver: writeBlock blk_1491802078861562 received exception
+081109 440510 156 WARN dfs.DataNode$DataXceiver: writeBlock blk_5221525661513427 received exception
+081109 444078 263 WARN dfs.DataNode$DataXceiver: writeBlock blk_6610226890642993 received exception
+081109 428166 193 WARN dfs.DataNode$DataXceiver: writeBlock blk_5223850096864366 received exception
+081109 678493 412 WARN dfs.DataNode$DataXceiver: writeBlock blk_8813507809435890 received exception
+081109 232843 771 WARN dfs.DataNode$DataXceiver: writeBlock blk_9082621602286697 received exception
+081109 614935 114 WARN dfs.DataNode$DataXceiver: writeBlock blk_2683692610080615 received exception
+081109 981031 947 WARN dfs.DataNode$DataXceiver: writeBlock blk_8115037021029295 received exception
+081109 249266 850 WARN dfs.DataNode$DataXceiver: writeBlock blk_8184810763195176 received exception
+081109 209255 524 WARN dfs.DataNode$DataXceiver: writeBlock blk_9950313494274547 received exception
+081109 374188 67 WARN dfs.DataNode$DataXceiver: writeBlock blk_8837139288344724 received exception
+081109 140133 729 WARN dfs.DataNode$DataXceiver: writeBlock blk_3258200785665627 received exception
+081109 642806 827 WARN dfs.DataNode$DataXceiver: writeBlock blk_5089858335778972 received exception
+081109 317502 550 WARN dfs.DataNode$DataXceiver: writeBlock blk_8796173157756633 received exception
+081109 547573 201 WARN dfs.DataNode$DataXceiver: writeBlock blk_3518596692683898 received exception
+081109 774975 245 WARN dfs.DataNode$DataXceiver: writeBlock blk_1966200453765887 received exception
+081109 681956 452 WARN dfs.DataNode$DataXceiver: writeBlock blk_7819002697465670 received exception
+081109 614591 898 WARN dfs.DataNode$DataXceiver: writeBlock blk_1649958439448800 received exception
+081109 938828 509 WARN dfs.DataNode$DataXceiver: writeBlock blk_1503893530539221 received exception
+081109 908245 891 WARN dfs.DataNode$DataXceiver: writeBlock blk_9761400635540489 received exception
+081109 168915 816 WARN dfs.DataNode$DataXceiver: writeBlock blk_2367019120265852 received exception
+081109 951090 375 WARN dfs.DataNode$DataXceiver: writeBlock blk_1903773555026275 received exception
+081109 449961 38 WARN dfs.DataNode$DataXceiver: writeBlock blk_4114581128467469 received exception
+081109 330252 854 WARN dfs.DataNode$DataXceiver: writeBlock blk_2057490906894844 received exception
+081109 536242 187 WARN dfs.DataNode$DataXceiver: writeBlock blk_4500491179279972 received exception
+081109 132669 870 WARN dfs.DataNode$DataXceiver: writeBlock blk_6557944012765162 received exception
+081109 588300 924 WARN dfs.DataNode$DataXceiver: writeBlock blk_1647481305731185 received exception
+081109 192578 665 WARN dfs.DataNode$DataXceiver: writeBlock blk_5794047678693949 received exception
+081109 759774 324 WARN dfs.DataNode$DataXceiver: writeBlock blk_9620136271876084 received exception
+081109 863002 994 WARN dfs.DataNode$DataXceiver: writeBlock blk_6043757035735943 received exception
+081109 800866 442 WARN dfs.DataNode$DataXceiver: writeBlock blk_1138424125413732 received exception
+081109 956207 348 WARN dfs.DataNode$DataXceiver: writeBlock blk_3840247698843655 received exception
+081109 985681 645 WARN dfs.DataNode$DataXceiver: writeBlock blk_3508793244584154 received exception
+081109 790255 618 WARN dfs.DataNode$DataXceiver: writeBlock blk_7258691664085352 received exception
+081109 319764 186 WARN dfs.DataNode$DataXceiver: writeBlock blk_2153189125658834 received exception
+081109 279847 711 WARN dfs.DataNode$DataXceiver: writeBlock blk_5201515595990574 received exception
+081109 143360 133 WARN dfs.DataNode$DataXceiver: writeBlock blk_2045048342501574 received exception
+081109 371152 964 WARN dfs.DataNode$DataXceiver: writeBlock blk_6494600383929015 received exception
+081109 753104 367 WARN dfs.DataNode$DataXceiver: writeBlock blk_2766817721168421 received exception
+081109 108431 71 WARN dfs.DataNode$DataXceiver: writeBlock blk_2851567666910136 received exception
+081109 872019 735 WARN dfs.DataNode$DataXceiver: writeBlock blk_8840301137670666 received exception
+081109 425340 789 WARN dfs.DataNode$DataXceiver: writeBlock blk_2803157873351473 received exception
+081109 253376 74 WARN dfs.DataNode$DataXceiver: writeBlock blk_3394404028952466 received exception
+081109 545352 384 WARN dfs.DataNode$DataXceiver: writeBlock blk_6519019318000870 received exception
+081109 528858 286 WARN dfs.DataNode$DataXceiver: writeBlock blk_2204937856932720 received exception
+081109 631089 127 WARN dfs.DataNode$DataXceiver: writeBlock blk_1856205774833736 received exception
+081109 463177 527 WARN dfs.DataNode$DataXceiver: writeBlock blk_4763777352798185 received exception
+081109 346478 505 WARN dfs.DataNode$DataXceiver: writeBlock blk_2058883725095833 received exception
+081109 398712 127 WARN dfs.DataNode$DataXceiver: writeBlock blk_8897396338323561 received exception
+081109 400406 975 WARN dfs.DataNode$DataXceiver: writeBlock blk_1704039004057754 received exception
+081109 809552 664 WARN dfs.DataNode$DataXceiver: writeBlock blk_3032320348829518 received exception
+081109 600671 397 WARN dfs.DataNode$DataXceiver: writeBlock blk_7694965809754829 received exception
+081109 534149 616 WARN dfs.DataNode$DataXceiver: writeBlock blk_5038910882275311 received exception
+081109 770730 66 WARN dfs.DataNode$DataXceiver: writeBlock blk_4774908462504247 received exception
+081109 449482 289 WARN dfs.DataNode$DataXceiver: writeBlock blk_4971262415382094 received exception
+081109 790486 978 WARN dfs.DataNode$DataXceiver: writeBlock blk_3638708797109829 received exception
+081109 793867 712 WARN dfs.DataNode$DataXceiver: writeBlock blk_7053408565859220 received exception
+081109 740264 251 WARN dfs.DataNode$DataXceiver: writeBlock blk_4706728640112715 received exception
+081109 493040 136 WARN dfs.DataNode$DataXceiver: writeBlock blk_9064765719119386 received exception
+081109 363881 398 WARN dfs.DataNode$DataXceiver: writeBlock blk_3506896907915554 received exception
+081109 458161 105 WARN dfs.DataNode$DataXceiver: writeBlock blk_8927284791862603 received exception
+081109 991576 788 WARN dfs.DataNode$DataXceiver: writeBlock blk_1939990489541640 received exception
+081109 672445 674 WARN dfs.DataNode$DataXceiver: writeBlock blk_5081396179282453 received exception
+081109 319399 91 WARN dfs.DataNode$DataXceiver: writeBlock blk_4274855827078453 received exception
+081109 116938 384 WARN dfs.DataNode$DataXceiver: writeBlock blk_7512806933267468 received exception
+081109 718895 686 WARN dfs.DataNode$DataXceiver: writeBlock blk_4097314365440694 received exception
+081109 955310 973 WARN dfs.DataNode$DataXceiver: writeBlock blk_1209254556703156 received exception
+081109 800418 649 WARN dfs.DataNode$DataXceiver: writeBlock blk_5226080984284934 received exception
+081109 176064 371 WARN dfs.DataNode$DataXceiver: writeBlock blk_5186919535661924 received exception
+081109 630320 324 WARN dfs.DataNode$DataXceiver: writeBlock blk_7042647383343387 received exception
+081109 783588 621 WARN dfs.DataNode$DataXceiver: writeBlock blk_9740645256016098 received exception
+081109 333042 22 WARN dfs.DataNode$DataXceiver: writeBlock blk_8115193114643622 received exception
+081109 514334 444 WARN dfs.DataNode$DataXceiver: writeBlock blk_3071238652703253 received exception
+081109 781532 555 WARN dfs.DataNode$DataXceiver: writeBlock blk_1990916390661940 received exception
+081109 160291 69 WARN dfs.DataNode$DataXceiver: writeBlock blk_5163373791944357 received exception
+081109 788061 411 WARN dfs.DataNode$DataXceiver: writeBlock blk_6909315752668191 received exception
+081109 328660 531 WARN dfs.DataNode$DataXceiver: writeBlock blk_6262855312032112 received exception
+081109 319600 510 WARN dfs.DataNode$DataXceiver: writeBlock blk_8479261932960492 received exception
+081109 249907 528 WARN dfs.DataNode$DataXceiver: writeBlock blk_1863942956506791 received exception
+081109 877839 814 WARN dfs.DataNode$DataXceiver: writeBlock blk_1032487491413832 received exception
+081109 274956 982 WARN dfs.DataNode$DataXceiver: writeBlock blk_7268211202981647 received exception
+081109 753263 806 WARN dfs.DataNode$DataXceiver: writeBlock blk_9161630755337116 received exception
+081109 365716 680 WARN dfs.DataNode$DataXceiver: writeBlock blk_9735984144162400 received exception
+081109 866376 486 WARN dfs.DataNode$DataXceiver: writeBlock blk_8962520512392853 received exception
+081109 225502 444 WARN dfs.DataNode$DataXceiver: writeBlock blk_2403348217129090 received exception
+081109 116567 380 WARN dfs.DataNode$DataXceiver: writeBlock blk_4298272287684740 received exception
+081109 972710 918 WARN dfs.DataNode$DataXceiver: writeBlock blk_1217823054803181 received exception
+081109 214182 360 WARN dfs.DataNode$DataXceiver: writeBlock blk_5826819164811862 received exception
+081109 688338 547 WARN dfs.DataNode$DataXceiver: writeBlock blk_2001826781674462 received exception
+081109 913935 809 WARN dfs.DataNode$DataXceiver: writeBlock blk_3716193557448527 received exception
+081109 631961 578 WARN dfs.DataNode$DataXceiver: writeBlock blk_1610139294215463 received exception
+081109 695459 244 WARN dfs.DataNode$DataXceiver: writeBlock blk_6969004371197018 received exception
+081109 192652 522 WARN dfs.DataNode$DataXceiver: writeBlock blk_3778369299029126 received exception
+081109 408251 362 WARN dfs.DataNode$DataXceiver: writeBlock blk_3214883614046477 received exception
+081109 358762 605 WARN dfs.DataNode$DataXceiver: writeBlock blk_5200677361767910 received exception
+081109 156936 223 WARN dfs.DataNode$DataXceiver: writeBlock blk_5068457544960219 received exception
+081109 278462 572 WARN dfs.DataNode$DataXceiver: writeBlock blk_5137733287109964 received exception
+081109 244339 872 WARN dfs.DataNode$DataXceiver: writeBlock blk_1939858667749670 received exception
+081109 949005 871 WARN dfs.DataNode$DataXceiver: writeBlock blk_2394719778571578 received exception
+081109 250951 994 WARN dfs.DataNode$DataXceiver: writeBlock blk_5728473653891836 received exception
+081109 282071 417 WARN dfs.DataNode$DataXceiver: writeBlock blk_6514246741164603 received exception
+081109 847475 987 WARN dfs.DataNode$DataXceiver: writeBlock blk_4723380674179371 received exception
+081109 962216 11 WARN dfs.DataNode$DataXceiver: writeBlock blk_2384827288297272 received exception
+081109 935852 839 WARN dfs.DataNode$DataXceiver: writeBlock blk_7615220768870706 received exception
+081109 873093 730 WARN dfs.DataNode$DataXceiver: writeBlock blk_2410108100029145 received exception
+081109 408422 544 WARN dfs.DataNode$DataXceiver: writeBlock blk_1257043564678584 received exception
+081109 524627 113 WARN dfs.DataNode$DataXceiver: writeBlock blk_3708975431839740 received exception
+081109 669571 659 WARN dfs.DataNode$DataXceiver: writeBlock blk_8635132277300061 received exception
+081109 913270 48 WARN dfs.DataNode$DataXceiver: writeBlock blk_4748236813114444 received exception
+081109 414031 81 WARN dfs.DataNode$DataXceiver: writeBlock blk_3349309378165864 received exception
+081109 662800 115 WARN dfs.DataNode$DataXceiver: writeBlock blk_9276026844717213 received exception
+081109 539582 337 WARN dfs.DataNode$DataXceiver: writeBlock blk_5404462744055148 received exception
+081109 313562 670 WARN dfs.DataNode$DataXceiver: writeBlock blk_8986538902433800 received exception
+081109 687310 970 WARN dfs.DataNode$DataXceiver: writeBlock blk_6115298051808329 received exception
+081109 625280 950 WARN dfs.DataNode$DataXceiver: writeBlock blk_1875163598163553 received exception
+081109 513607 641 WARN dfs.DataNode$DataXceiver: writeBlock blk_3408683369795234 received exception
+081109 875239 615 WARN dfs.DataNode$DataXceiver: writeBlock blk_2982021142232099 received exception
+081109 485727 87 WARN dfs.DataNode$DataXceiver: writeBlock blk_8130957520015406 received exception
+081109 600036 394 WARN dfs.DataNode$DataXceiver: writeBlock blk_6843128452205283 received exception
+081109 551406 342 WARN dfs.DataNode$DataXceiver: writeBlock blk_2052032700569805 received exception
+081109 151976 319 WARN dfs.DataNode$DataXceiver: writeBlock blk_5783622199257836 received exception
+081109 164735 168 WARN dfs.DataNode$DataXceiver: writeBlock blk_4442285410954370 received exception
+081109 674139 331 WARN dfs.DataNode$DataXceiver: writeBlock blk_8373739009597935 received exception
+081109 333485 692 WARN dfs.DataNode$DataXceiver: writeBlock blk_7423205621561071 received exception
+081109 489998 34 WARN dfs.DataNode$DataXceiver: writeBlock blk_4238982217200625 received exception
+081109 607526 974 WARN dfs.DataNode$DataXceiver: writeBlock blk_5682597673594669 received exception
+081109 885861 540 WARN dfs.DataNode$DataXceiver: writeBlock blk_7603497131117318 received exception
+081109 109394 383 WARN dfs.DataNode$DataXceiver: writeBlock blk_6343864480554672 received exception
+081109 210020 8 WARN dfs.DataNode$DataXceiver: writeBlock blk_6344527112269933 received exception
+081109 474572 984 WARN dfs.DataNode$DataXceiver: writeBlock blk_4293360505572636 received exception
+081109 727109 711 WARN dfs.DataNode$DataXceiver: writeBlock blk_8566784772167992 received exception
+081109 415802 215 WARN dfs.DataNode$DataXceiver: writeBlock blk_7869411964404648 received exception
+081109 718066 58 WARN dfs.DataNode$DataXceiver: writeBlock blk_2654658979104026 received exception
+081109 621805 121 WARN dfs.DataNode$DataXceiver: writeBlock blk_7831598672876752 received exception
+081109 890397 353 WARN dfs.DataNode$DataXceiver: writeBlock blk_8708199508791951 received exception
+081109 197341 219 WARN dfs.DataNode$DataXceiver: writeBlock blk_6309426768608765 received exception
+081109 383241 828 WARN dfs.DataNode$DataXceiver: writeBlock blk_9500344991491954 received exception
+081109 546188 663 WARN dfs.DataNode$DataXceiver: writeBlock blk_4362881482284608 received exception
+081109 521832 92 WARN dfs.DataNode$DataXceiver: writeBlock blk_6153974867480266 received exception
+081109 812915 100 WARN dfs.DataNode$DataXceiver: writeBlock blk_4573018020341097 received exception
+081109 336247 852 WARN dfs.DataNode$DataXceiver: writeBlock blk_3956033791408722 received exception
+081109 134117 325 WARN dfs.DataNode$DataXceiver: writeBlock blk_8380141730509802 received exception
+081109 263471 808 WARN dfs.DataNode$DataXceiver: writeBlock blk_6785055885882263 received exception
+081109 396098 59 WARN dfs.DataNode$DataXceiver: writeBlock blk_7877732993364939 received exception
+081109 614148 50 WARN dfs.DataNode$DataXceiver: writeBlock blk_6626812582100868 received exception
+081109 187864 566 WARN dfs.DataNode$DataXceiver: writeBlock blk_9352522279652592 received exception
+081109 456566 655 WARN dfs.DataNode$DataXceiver: writeBlock blk_1201265249939290 received exception
+081109 746966 957 WARN dfs.DataNode$DataXceiver: writeBlock blk_7780016831477145 received exception
+081109 321787 594 WARN dfs.DataNode$DataXceiver: writeBlock blk_1050253466088438 received exception
+081109 963810 755 WARN dfs.DataNode$DataXceiver: writeBlock blk_4768118600711203 received exception
+081109 451752 696 WARN dfs.DataNode$DataXceiver: writeBlock blk_9860305469434123 received exception
+081109 961132 77 WARN dfs.DataNode$DataXceiver: writeBlock blk_8038185123593157 received exception
+081109 187515 452 WARN dfs.DataNode$DataXceiver: writeBlock blk_7769451222592754 received exception
+081109 246823 387 WARN dfs.DataNode$DataXceiver: writeBlock blk_5032324706866094 received exception
+081109 810080 448 WARN dfs.DataNode$DataXceiver: writeBlock blk_2062655659416478 received exception
+081109 566617 328 WARN dfs.DataNode$DataXceiver: writeBlock blk_7617504779877455 received exception
+081109 863044 74 WARN dfs.DataNode$DataXceiver: writeBlock blk_2043581856796228 received exception
+081109 974530 365 WARN dfs.DataNode$DataXceiver: writeBlock blk_8490803782852658 received exception
+081109 674743 730 WARN dfs.DataNode$DataXceiver: writeBlock blk_7331963396659736 received exception
+081109 224142 407 WARN dfs.DataNode$DataXceiver: writeBlock blk_7223383173784568 received exception
+081109 784479 574 WARN dfs.DataNode$DataXceiver: writeBlock blk_9307042765180147 received exception
+081109 321406 100 WARN dfs.DataNode$DataXceiver: writeBlock blk_3919626060177700 received exception
+081109 662381 144 WARN dfs.DataNode$DataXceiver: writeBlock blk_9533678419981799 received exception
+081109 229352 159 WARN dfs.DataNode$DataXceiver: writeBlock blk_3468244148150991 received exception
+081109 595342 418 WARN dfs.DataNode$DataXceiver: writeBlock blk_9075861501171616 received exception
+081109 552923 953 WARN dfs.DataNode$DataXceiver: writeBlock blk_2804059684477033 received exception
+081109 807123 720 WARN dfs.DataNode$DataXceiver: writeBlock blk_5453434100850252 received exception
+081109 617601 448 WARN dfs.DataNode$DataXceiver: writeBlock blk_8193811189457207 received exception
+081109 506847 524 WARN dfs.DataNode$DataXceiver: writeBlock blk_5338938220215608 received exception
+081109 210336 563 WARN dfs.DataNode$DataXceiver: writeBlock blk_8700548837582308 received exception
+081109 274597 792 WARN dfs.DataNode$DataXceiver: writeBlock blk_3918991139469614 received exception
+081109 311942 16 WARN dfs.DataNode$DataXceiver: writeBlock blk_8415155149569535 received exception
+081109 271814 668 WARN dfs.DataNode$DataXceiver: writeBlock blk_4395757265201621 received exception
+081109 720132 823 WARN dfs.DataNode$DataXceiver: writeBlock blk_7158603083630670 received exception
+081109 507430 464 WARN dfs.DataNode$DataXceiver: writeBlock blk_6303501098021217 received exception
+081109 983214 474 WARN dfs.DataNode$DataXceiver: writeBlock blk_7943451827877782 received exception
+081109 712182 152 WARN dfs.DataNode$DataXceiver: writeBlock blk_7339592835856082 received exception
+081109 515594 336 WARN dfs.DataNode$DataXceiver: writeBlock blk_7281841030267067 received exception
+081109 613287 240 WARN dfs.DataNode$DataXceiver: writeBlock blk_3353253952249413 received exception
+081109 467926 748 WARN dfs.DataNode$DataXceiver: writeBlock blk_6178946344413919 received exception
+081109 147314 264 WARN dfs.DataNode$DataXceiver: writeBlock blk_1578050722157180 received exception
+081109 941677 845 WARN dfs.DataNode$DataXceiver: writeBlock blk_4400863573532158 received exception
+081109 355044 734 WARN dfs.DataNode$DataXceiver: writeBlock blk_4897688032411940 received exception
+081109 747635 67 WARN dfs.DataNode$DataXceiver: writeBlock blk_2618719742450733 received exception
+081109 533860 932 WARN dfs.DataNode$DataXceiver: writeBlock blk_5105325295735652 received exception
+081109 505510 499 WARN dfs.DataNode$DataXceiver: writeBlock blk_3083557859607171 received exception
+081109 295269 772 WARN dfs.DataNode$DataXceiver: writeBlock blk_1921470716117959 received exception
+081109 812439 314 WARN dfs.DataNode$DataXceiver: writeBlock blk_8632996553762930 received exception
+081109 257566 36 WARN dfs.DataNode$DataXceiver: writeBlock blk_7291289541745911 received exception
+081109 469039 582 WARN dfs.DataNode$DataXceiver: writeBlock blk_5967516910288671 received exception
+081109 614034 342 WARN dfs.DataNode$DataXceiver: writeBlock blk_2365097328198788 received exception
+081109 568407 974 WARN dfs.DataNode$DataXceiver: writeBlock blk_7888070855541232 received exception
+081109 474125 826 WARN dfs.DataNode$DataXceiver: writeBlock blk_1879821053756699 received exception
+081109 359059 803 WARN dfs.DataNode$DataXceiver: writeBlock blk_2967971865721648 received exception
+081109 308942 882 WARN dfs.DataNode$DataXceiver: writeBlock blk_7643565085319783 received exception
+081109 739453 353 WARN dfs.DataNode$DataXceiver: writeBlock blk_2469102672396112 received exception
+081109 902041 195 WARN dfs.DataNode$DataXceiver: writeBlock blk_2516843216603679 received exception
+081109 486607 706 WARN dfs.DataNode$DataXceiver: writeBlock blk_4278805197098827 received exception
+081109 214231 974 WARN dfs.DataNode$DataXceiver: writeBlock blk_7472257104680804 received exception
+081109 946099 298 WARN dfs.DataNode$DataXceiver: writeBlock blk_8724694567642809 received exception
+081109 971044 745 WARN dfs.DataNode$DataXceiver: writeBlock blk_3384393966654682 received exception
+081109 215791 256 WARN dfs.DataNode$DataXceiver: writeBlock blk_1183126058261102 received exception
+081109 280872 551 WARN dfs.DataNode$DataXceiver: writeBlock blk_3283921398814930 received exception
+081109 800207 301 WARN dfs.DataNode$DataXceiver: writeBlock blk_3277626682431911 received exception
+081109 688034 135 WARN dfs.DataNode$DataXceiver: writeBlock blk_5367312853072326 received exception
+081109 179434 280 WARN dfs.DataNode$DataXceiver: writeBlock blk_3567484329466590 received exception
+081109 932172 285 WARN dfs.DataNode$DataXceiver: writeBlock blk_5586518023022882 received exception
+081109 259566 895 WARN dfs.DataNode$DataXceiver: writeBlock blk_2442092777798215 received exception
+081109 961840 881 WARN dfs.DataNode$DataXceiver: writeBlock blk_8698782755996913 received exception
+081109 237261 625 WARN dfs.DataNode$DataXceiver: writeBlock blk_5898006857857156 received exception
+081109 939096 752 WARN dfs.DataNode$DataXceiver: writeBlock blk_5814830836593331 received exception
+081109 886835 676 WARN dfs.DataNode$DataXceiver: writeBlock blk_9280017065095946 received exception
+081109 717862 794 WARN dfs.DataNode$DataXceiver: writeBlock blk_3340553760030653 received exception
+081109 421327 56 WARN dfs.DataNode$DataXceiver: writeBlock blk_9436584619165385 received exception
+081109 917833 372 WARN dfs.DataNode$DataXceiver: writeBlock blk_8091217143553296 received exception
+081109 668891 240 WARN dfs.DataNode$DataXceiver: writeBlock blk_5078752118328437 received exception
+081109 819537 380 WARN dfs.DataNode$DataXceiver: writeBlock blk_7568342214927007 received exception
+081109 326665 967 WARN dfs.DataNode$DataXceiver: writeBlock blk_5554450494264475 received exception
+081109 383873 580 WARN dfs.DataNode$DataXceiver: writeBlock blk_4141350791087181 received exception
+081109 343465 78 WARN dfs.DataNode$DataXceiver: writeBlock blk_5953140754041124 received exception
+081109 215613 589 WARN dfs.DataNode$DataXceiver: writeBlock blk_9346237892038701 received exception
+081109 789067 761 WARN dfs.DataNode$DataXceiver: writeBlock blk_3723134128052608 received exception
+081109 102804 105 WARN dfs.DataNode$DataXceiver: writeBlock blk_6092959048931590 received exception
+081109 225537 200 WARN dfs.DataNode$DataXceiver: writeBlock blk_4309435462320247 received exception
+081109 424345 363 WARN dfs.DataNode$DataXceiver: writeBlock blk_2268625415796559 received exception
+081109 164417 972 WARN dfs.DataNode$DataXceiver: writeBlock blk_6987762798217315 received exception
+081109 171175 145 WARN dfs.DataNode$DataXceiver: writeBlock blk_4722628671509467 received exception
+081109 698656 147 WARN dfs.DataNode$DataXceiver: writeBlock blk_9124549041849698 received exception
+081109 818416 998 WARN dfs.DataNode$DataXceiver: writeBlock blk_9778766502723023 received exception
+081109 922944 942 WARN dfs.DataNode$DataXceiver: writeBlock blk_5884947717098214 received exception
+081109 180942 448 WARN dfs.DataNode$DataXceiver: writeBlock blk_7119961293051834 received exception
+081109 293536 89 WARN dfs.DataNode$DataXceiver: writeBlock blk_7256498302131674 received exception
+081109 471441 628 WARN dfs.DataNode$DataXceiver: writeBlock blk_9334218677330981 received exception
+081109 307111 901 WARN dfs.DataNode$DataXceiver: writeBlock blk_1916377250457100 received exception
+081109 537544 143 WARN dfs.DataNode$DataXceiver: writeBlock blk_2737475271927737 received exception
+081109 182516 711 WARN dfs.DataNode$DataXceiver: writeBlock blk_1266105380195006 received exception
+081109 684657 963 WARN dfs.DataNode$DataXceiver: writeBlock blk_9093436254645994 received exception
+081109 688725 92 WARN dfs.DataNode$DataXceiver: writeBlock blk_9101039044062654 received exception
+081109 414799 263 WARN dfs.DataNode$DataXceiver: writeBlock blk_2976291988067570 received exception
+081109 836189 280 WARN dfs.DataNode$DataXceiver: writeBlock blk_2361315391798355 received exception
+081109 667508 973 WARN dfs.DataNode$DataXceiver: writeBlock blk_9334722792689009 received exception
+081109 262248 880 WARN dfs.DataNode$DataXceiver: writeBlock blk_9421406207065576 received exception
+081109 932636 21 WARN dfs.DataNode$DataXceiver: writeBlock blk_5410736459858459 received exception
+081109 934092 605 WARN dfs.DataNode$DataXceiver: writeBlock blk_7176420654839881 received exception
+081109 699173 628 WARN dfs.DataNode$DataXceiver: writeBlock blk_6522678965984087 received exception
+081109 431582 956 WARN dfs.DataNode$DataXceiver: writeBlock blk_1778218737354697 received exception
+081109 906605 532 WARN dfs.DataNode$DataXceiver: writeBlock blk_9642179249053460 received exception
+081109 133395 112 WARN dfs.DataNode$DataXceiver: writeBlock blk_3683397262201187 received exception
+081109 415406 981 WARN dfs.DataNode$DataXceiver: writeBlock blk_1216741175161348 received exception
+081109 534323 33 WARN dfs.DataNode$DataXceiver: writeBlock blk_8473686117125435 received exception
+081109 295438 705 WARN dfs.DataNode$DataXceiver: writeBlock blk_5681637208903099 received exception
+081109 987729 594 WARN dfs.DataNode$DataXceiver: writeBlock blk_7821837288004429 received exception
+081109 803437 828 WARN dfs.DataNode$DataXceiver: writeBlock blk_1006129275045746 received exception
+081109 489262 70 WARN dfs.DataNode$DataXceiver: writeBlock blk_8153220607239113 received exception
+081109 326682 999 WARN dfs.DataNode$DataXceiver: writeBlock blk_8506457775466752 received exception
+081109 343305 418 WARN dfs.DataNode$DataXceiver: writeBlock blk_4022301272435540 received exception
+081109 329978 356 WARN dfs.DataNode$DataXceiver: writeBlock blk_1134666088102235 received exception
+081109 907614 248 WARN dfs.DataNode$DataXceiver: writeBlock blk_1430670382085169 received exception
+081109 714084 379 WARN dfs.DataNode$DataXceiver: writeBlock blk_7511073896132622 received exception
+081109 451672 534 WARN dfs.DataNode$DataXceiver: writeBlock blk_4169589978877907 received exception
+081109 576999 668 WARN dfs.DataNode$DataXceiver: writeBlock blk_9385821572907205 received exception
+081109 534317 180 WARN dfs.DataNode$DataXceiver: writeBlock blk_2350780961963917 received exception
+081109 321706 260 WARN dfs.DataNode$DataXceiver: writeBlock blk_5314425436410588 received exception
+081109 331675 803 WARN dfs.DataNode$DataXceiver: writeBlock blk_3998346385169846 received exception
+081109 293801 244 WARN dfs.DataNode$DataXceiver: writeBlock blk_6893874863570491 received exception
+081109 739887 267 WARN dfs.DataNode$DataXceiver: writeBlock blk_5708575204338234 received exception
+081109 702156 262 WARN dfs.DataNode$DataXceiver: writeBlock blk_8899379327921619 received exception
+081109 123434 189 WARN dfs.DataNode$DataXceiver: writeBlock blk_3091620343435754 received exception
+081109 168972 309 WARN dfs.DataNode$DataXceiver: writeBlock blk_3968623454653110 received exception
+081109 875287 744 WARN dfs.DataNode$DataXceiver: writeBlock blk_7072002302581172 received exception
+081109 136127 810 WARN dfs.DataNode$DataXceiver: writeBlock blk_5864644232843246 received exception
+081109 197087 81 WARN dfs.DataNode$DataXceiver: writeBlock blk_7876726618110578 received exception
+081109 628104 251 WARN dfs.DataNode$DataXceiver: writeBlock blk_2962110461240839 received exception
+081109 147102 425 WARN dfs.DataNode$DataXceiver: writeBlock blk_9915353771930539 received exception
+081109 244763 380 WARN dfs.DataNode$DataXceiver: writeBlock blk_4210709973669188 received exception
+081109 173289 933 WARN dfs.DataNode$DataXceiver: writeBlock blk_9921205733768314 received exception
+081109 975918 397 WARN dfs.DataNode$DataXceiver: writeBlock blk_2220986187711804 received exception
+081109 539461 809 WARN dfs.DataNode$DataXceiver: writeBlock blk_8046360585176744 received exception
+081109 343804 347 WARN dfs.DataNode$DataXceiver: writeBlock blk_8119573981143267 received exception
+081109 316981 389 WARN dfs.DataNode$DataXceiver: writeBlock blk_3585672990714357 received exception
+081109 689553 608 WARN dfs.DataNode$DataXceiver: writeBlock blk_7678875767983865 received exception
+081109 171480 488 WARN dfs.DataNode$DataXceiver: writeBlock blk_8370928274021699 received exception
+081109 114511 54 WARN dfs.DataNode$DataXceiver: writeBlock blk_1296359181460683 received exception
+081109 498877 978 WARN dfs.DataNode$DataXceiver: writeBlock blk_4826725946052877 received exception
+081109 266197 147 WARN dfs.DataNode$DataXceiver: writeBlock blk_2851749670398677 received exception
+081109 267606 900 WARN dfs.DataNode$DataXceiver: writeBlock blk_9651324676218733 received exception
+081109 337096 954 WARN dfs.DataNode$DataXceiver: writeBlock blk_4079686192473730 received exception
+081109 245285 954 WARN dfs.DataNode$DataXceiver: writeBlock blk_2276838527792919 received exception
+081109 942611 732 WARN dfs.DataNode$DataXceiver: writeBlock blk_9517226462728481 received exception
+081109 144869 198 WARN dfs.DataNode$DataXceiver: writeBlock blk_2222262812304326 received exception
+081109 835723 695 WARN dfs.DataNode$DataXceiver: writeBlock blk_8949117899334406 received exception
+081109 990361 744 WARN dfs.DataNode$DataXceiver: writeBlock blk_9550197063402275 received exception
+081109 800760 465 WARN dfs.DataNode$DataXceiver: writeBlock blk_4353499157578374 received exception
+081109 862118 124 WARN dfs.DataNode$DataXceiver: writeBlock blk_3459005888481253 received exception
+081109 253555 962 WARN dfs.DataNode$DataXceiver: writeBlock blk_1645408475286644 received exception
+081109 293813 743 WARN dfs.DataNode$DataXceiver: writeBlock blk_7092000285132749 received exception
+081109 151642 127 WARN dfs.DataNode$DataXceiver: writeBlock blk_3893804253539328 received exception
+081109 291722 597 WARN dfs.DataNode$DataXceiver: writeBlock blk_3466926662952109 received exception
+081109 652499 535 WARN dfs.DataNode$DataXceiver: writeBlock blk_8350697113832926 received exception
+081109 695280 454 WARN dfs.DataNode$DataXceiver: writeBlock blk_8237190671434724 received exception
+081109 652324 269 WARN dfs.DataNode$DataXceiver: writeBlock blk_1829890533713154 received exception
+081109 185442 670 WARN dfs.DataNode$DataXceiver: writeBlock blk_1148748559888320 received exception
+081109 180418 944 WARN dfs.DataNode$DataXceiver: writeBlock blk_9786774272071542 received exception
+081109 897629 957 WARN dfs.DataNode$DataXceiver: writeBlock blk_7098732975630237 received exception
+081109 628267 191 WARN dfs.DataNode$DataXceiver: writeBlock blk_9693169114549808 received exception
+081109 446467 654 WARN dfs.DataNode$DataXceiver: writeBlock blk_1944259591376877 received exception
+081109 408731 496 WARN dfs.DataNode$DataXceiver: writeBlock blk_9044988251547468 received exception
+081109 726701 471 WARN dfs.DataNode$DataXceiver: writeBlock blk_6432276140497907 received exception
+081109 987101 501 WARN dfs.DataNode$DataXceiver: writeBlock blk_1351364681907764 received exception
+081109 300059 151 WARN dfs.DataNode$DataXceiver: writeBlock blk_5225195312040516 received exception
+081109 811436 26 WARN dfs.DataNode$DataXceiver: writeBlock blk_7869810664958132 received exception
+081109 712805 411 WARN dfs.DataNode$DataXceiver: writeBlock blk_1467393559762958 received exception
+081109 395447 167 WARN dfs.DataNode$DataXceiver: writeBlock blk_2558545042898516 received exception
+081109 520680 755 WARN dfs.DataNode$DataXceiver: writeBlock blk_2905878090758998 received exception
+081109 120563 25 WARN dfs.DataNode$DataXceiver: writeBlock blk_4819691453755398 received exception
+081109 937981 985 WARN dfs.DataNode$DataXceiver: writeBlock blk_6514168921359347 received exception
+081109 784508 65 WARN dfs.DataNode$DataXceiver: writeBlock blk_1221806993627408 received exception
+081109 291432 351 WARN dfs.DataNode$DataXceiver: writeBlock blk_2498179147337655 received exception
+081109 419092 996 WARN dfs.DataNode$DataXceiver: writeBlock blk_4031847657449347 received exception
+081109 373236 869 WARN dfs.DataNode$DataXceiver: writeBlock blk_6061372507779371 received exception
+081109 487317 705 WARN dfs.DataNode$DataXceiver: writeBlock blk_3258592188210915 received exception
+081109 754216 761 WARN dfs.DataNode$DataXceiver: writeBlock blk_2498459616943122 received exception
+081109 473895 148 WARN dfs.DataNode$DataXceiver: writeBlock blk_6218097003129234 received exception
+081109 709192 628 WARN dfs.DataNode$DataXceiver: writeBlock blk_4869668540287567 received exception
+081109 666357 601 WARN dfs.DataNode$DataXceiver: writeBlock blk_3309315697892910 received exception
+081109 448582 973 WARN dfs.DataNode$DataXceiver: writeBlock blk_5427041464680901 received exception
+081109 344676 694 WARN dfs.DataNode$DataXceiver: writeBlock blk_6601354338013041 received exception
+081109 994413 913 WARN dfs.DataNode$DataXceiver: writeBlock blk_6927307764679914 received exception
+081109 270515 480 WARN dfs.DataNode$DataXceiver: writeBlock blk_6056772125761194 received exception
+081109 402675 784 WARN dfs.DataNode$DataXceiver: writeBlock blk_9411256096826392 received exception
+081109 858532 322 WARN dfs.DataNode$DataXceiver: writeBlock blk_5998526898579404 received exception
+081109 711980 414 WARN dfs.DataNode$DataXceiver: writeBlock blk_7323644235599777 received exception
+081109 456240 291 WARN dfs.DataNode$DataXceiver: writeBlock blk_1873109465882834 received exception
+081109 764644 704 WARN dfs.DataNode$DataXceiver: writeBlock blk_4126444147470619 received exception
+081109 602760 573 WARN dfs.DataNode$DataXceiver: writeBlock blk_5478594809133402 received exception
+081109 881436 945 WARN dfs.DataNode$DataXceiver: writeBlock blk_5631541551441503 received exception
+081109 782202 389 WARN dfs.DataNode$DataXceiver: writeBlock blk_1014829171804446 received exception
+081109 794940 509 WARN dfs.DataNode$DataXceiver: writeBlock blk_3423625997203797 received exception
+081109 621916 588 WARN dfs.DataNode$DataXceiver: writeBlock blk_6691535384045556 received exception
+081109 696289 474 WARN dfs.DataNode$DataXceiver: writeBlock blk_1810095498604334 received exception
+081109 435017 510 WARN dfs.DataNode$DataXceiver: writeBlock blk_5339590456511294 received exception
+081109 164744 657 WARN dfs.DataNode$DataXceiver: writeBlock blk_9738111578016319 received exception
+081109 128511 287 WARN dfs.DataNode$DataXceiver: writeBlock blk_4987810727708759 received exception
+081109 152721 87 WARN dfs.DataNode$DataXceiver: writeBlock blk_8205191094754432 received exception
+081109 153007 241 WARN dfs.DataNode$DataXceiver: writeBlock blk_8467533293491741 received exception
+081109 517962 818 WARN dfs.DataNode$DataXceiver: writeBlock blk_3293658744115066 received exception
+081109 304372 925 WARN dfs.DataNode$DataXceiver: writeBlock blk_5539186150928228 received exception
+081109 207312 437 WARN dfs.DataNode$DataXceiver: writeBlock blk_6000554629841872 received exception
+081109 161004 969 WARN dfs.DataNode$DataXceiver: writeBlock blk_5412409192970932 received exception
+081109 605629 156 WARN dfs.DataNode$DataXceiver: writeBlock blk_3846413514192741 received exception
+081109 982005 682 WARN dfs.DataNode$DataXceiver: writeBlock blk_5530127505862289 received exception
+081109 459119 949 WARN dfs.DataNode$DataXceiver: writeBlock blk_6824144000990871 received exception
+081109 325635 707 WARN dfs.DataNode$DataXceiver: writeBlock blk_5018070042104241 received exception
+081109 942517 306 WARN dfs.DataNode$DataXceiver: writeBlock blk_7016304197314646 received exception
+081109 234155 702 WARN dfs.DataNode$DataXceiver: writeBlock blk_8182586538342937 received exception
+081109 864704 729 WARN dfs.DataNode$DataXceiver: writeBlock blk_8292408966529739 received exception
+081109 412155 821 WARN dfs.DataNode$DataXceiver: writeBlock blk_2587281962497573 received exception
+081109 223356 835 WARN dfs.DataNode$DataXceiver: writeBlock blk_3731871826258633 received exception
+081109 849053 250 WARN dfs.DataNode$DataXceiver: writeBlock blk_9282496727793868 received exception
+081109 947980 24 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 789878 352 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 930217 660 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 808202 933 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 775574 887 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 799620 164 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 372292 295 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 425719 261 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 740017 711 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 842542 638 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 231362 768 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 801627 60 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 527362 788 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 923509 770 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 696794 271 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 770168 947 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 335901 394 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 470551 41 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 268850 512 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 342053 670 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 912935 121 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 260743 529 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 431317 478 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 824421 192 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 779309 274 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 909141 965 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 446645 337 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 127921 298 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 708890 635 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 586698 793 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 449467 112 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 328067 536 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 169067 37 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 839358 549 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 596007 775 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 651729 256 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 308915 956 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 481935 248 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 443410 408 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 456324 54 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 409966 540 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 657319 425 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 526529 943 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 928015 486 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 227874 440 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 599110 703 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 899455 645 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 947922 657 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 363374 601 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 540055 13 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 191527 194 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 903284 59 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 257622 189 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 385812 807 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 713056 745 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 381187 786 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 143509 723 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 578813 63 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 211754 975 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 303261 978 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 158812 564 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 102221 276 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 828212 630 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 234057 436 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 701019 804 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 356689 413 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 351613 698 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 528713 48 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 845016 578 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 357133 57 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 596673 413 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 501773 75 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 509985 748 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 749138 109 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 357104 873 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 610290 602 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 769049 123 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 418941 23 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 975863 887 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 633531 591 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 875043 409 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 369926 35 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 842480 275 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 317101 375 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 558073 210 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 556316 324 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 754142 24 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 418465 637 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 577235 753 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 755915 901 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 576749 676 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 810788 920 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 939472 805 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 803770 77 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 337814 304 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 859173 619 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 787624 685 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 556243 218 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 412911 232 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 907790 88 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 715320 745 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 690637 729 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 117544 861 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 461222 785 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 372077 93 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 498222 227 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 414237 979 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 883730 935 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 162684 511 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 154122 841 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 978006 668 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 169820 605 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 846906 780 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 882912 374 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 601408 258 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 839473 698 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 527393 558 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 126482 140 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 440543 830 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 633734 974 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 387772 776 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 459880 541 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 442923 172 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 931950 915 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 795492 500 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 945182 991 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 808846 149 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 735274 50 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 585317 543 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 560998 584 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 404332 362 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 895786 54 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 109487 308 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 825536 173 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 481100 849 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 498640 723 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 253585 368 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 663428 526 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 665706 384 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 789170 415 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 926573 319 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 974925 956 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 361858 212 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 126666 121 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 767949 814 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 874893 196 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 121926 501 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 829162 597 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 797883 839 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 446709 217 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 837615 372 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 437232 346 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 986843 486 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 428949 29 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 951764 808 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 395092 624 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 476584 229 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 333547 617 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 435013 154 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 457819 807 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 552112 180 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 721440 694 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 596099 364 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 840707 357 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 907264 904 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 995530 232 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 481970 61 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 616887 736 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 149396 871 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 881698 65 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 669632 964 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 125607 98 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 146397 608 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 898687 504 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 659191 883 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 165692 813 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 537904 22 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 744435 181 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 385908 45 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 260097 713 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 438065 56 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 917373 296 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 688601 22 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 361780 369 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 360968 946 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 414284 268 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 117018 373 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 536705 607 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 381720 178 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 270368 867 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 591867 694 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 299158 320 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 890674 894 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 938460 676 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 826015 736 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 356043 424 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 479854 517 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 591369 455 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 703261 546 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 398866 23 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 415661 402 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 779382 816 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 750494 468 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 647177 196 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 976736 571 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 585307 709 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 880711 967 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 194905 407 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 679725 233 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 786317 940 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 177997 113 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 660307 995 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 669910 437 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 683136 318 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 403452 530 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 179221 545 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 114038 888 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 937359 399 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 770575 769 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 569405 576 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 720266 781 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 720645 58 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 844041 178 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 586525 763 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 806934 512 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 568680 668 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 951873 345 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 762252 630 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 112878 226 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 788590 947 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 733343 75 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 898899 319 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 285859 981 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 648570 104 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 292923 269 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 953987 816 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 334654 777 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 159998 353 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 861448 818 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 247333 810 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 765152 31 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 271454 908 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 776294 982 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 944123 266 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 293393 328 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 220768 630 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 817352 45 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 418824 393 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 364547 397 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 779326 190 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 619152 671 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 351584 606 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 383589 940 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 807227 85 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 363949 191 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 348702 391 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 985626 682 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 225941 649 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 782776 643 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 501727 958 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 435485 506 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 161741 421 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 716728 394 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 656752 260 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 222579 29 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 738674 381 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 446054 399 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 721277 659 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 289130 209 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 111916 512 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 903025 660 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 757149 245 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 298874 497 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 144955 80 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 135080 134 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 502168 480 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 984999 447 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 493938 764 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 897992 373 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 154129 360 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 254903 284 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 745028 39 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 353260 898 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 499480 149 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 847892 48 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 987493 351 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 942382 39 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 218025 236 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 288684 196 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 217601 448 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 177242 656 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 276271 73 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 966625 549 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 529674 154 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 695730 765 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 201075 398 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 597335 315 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 744942 29 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 945647 344 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 543358 910 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 993141 402 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 668170 293 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 238493 165 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 938896 726 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 841113 111 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 142847 271 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 411386 300 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 886670 804 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 833442 752 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 294726 644 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 994346 350 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 218156 571 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 876456 426 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 479692 605 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 809540 982 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 705125 911 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 345526 860 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 787708 277 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 250711 266 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 620814 578 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 238012 796 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 165166 445 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 706889 287 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 438509 979 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 508252 197 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 569249 684 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 375312 192 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 630733 711 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 298980 556 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 308344 390 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 737255 348 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 101147 118 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 821026 3 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 444162 657 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 591896 520 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 128347 67 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 850804 942 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 940233 494 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 857720 475 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 804909 432 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 433152 576 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 353145 321 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 877681 801 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 664596 702 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 259347 937 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 312865 129 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 728083 166 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 137042 432 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 985592 188 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 866200 200 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 806005 691 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 777650 60 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 203137 956 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 245835 471 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 964527 263 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 368042 561 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 997759 857 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 218447 59 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 779597 27 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 340502 104 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 714748 166 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 268043 545 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 234319 96 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 834634 844 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 226181 382 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 781263 747 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 546835 568 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 710331 247 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 810097 553 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 400935 455 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 763576 435 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 321637 12 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 599572 873 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 605497 616 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 264432 523 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 161622 552 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 476894 622 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 815169 100 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 404163 76 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 738028 518 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 943047 287 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 818774 496 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 815333 492 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 184627 121 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 835677 410 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 183293 986 ERROR dfs.DataNode$DataXceiver: TimeoutException: Connection reset by peer
+081109 257981 455 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 696483 434 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 731317 236 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 566090 666 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 425913 377 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 323593 746 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 103407 908 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 606397 146 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 270219 140 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 885514 752 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 693950 692 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 324228 341 ERROR dfs.DataNode$DataXceiver: BrokenPipe: Connection reset by peer
+081109 292048 620 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 394965 958 ERROR dfs.DataNode$DataXceiver: IOException: Connection reset by peer
+081109 250906 435 INFO dfs.DataNode$PacketResponder: Received block blk_7350823551379883 of size 7391
+081109 679648 39 INFO dfs.DataNode$PacketResponder: Received block blk_1983023847611444 of size 8993
+081109 592907 412 INFO dfs.DataNode$PacketResponder: Received block blk_3993208458490295 of size 8377
+081109 900528 212 INFO dfs.DataNode$PacketResponder: Received block blk_8121811349366020 of size 7787
+081109 732705 183 INFO dfs.DataNode$PacketResponder: Received block blk_9207674106716521 of size 4853
+081109 421768 939 INFO dfs.DataNode$PacketResponder: Received block blk_3712351281815268 of size 4423
+081109 774508 981 INFO dfs.DataNode$PacketResponder: Received block blk_7975590424773237 of size 1602
+081109 264903 972 INFO dfs.DataNode$PacketResponder: Received block blk_9318825171884997 of size 4750
+081109 435922 62 INFO dfs.DataNode$PacketResponder: Received block blk_2626987805835028 of size 6930
+081109 933527 998 INFO dfs.DataNode$PacketResponder: Received block blk_9137861009212441 of size 1333
+081109 350190 144 INFO dfs.DataNode$PacketResponder: Received block blk_5540376644295255 of size 7915
+081109 673095 886 INFO dfs.DataNode$PacketResponder: Received block blk_5638249198661619 of size 3322
+081109 678732 530 INFO dfs.DataNode$PacketResponder: Received block blk_2543620904737105 of size 3600
+081109 723879 762 INFO dfs.DataNode$PacketResponder: Received block blk_2517158004462619 of size 3150
+081109 453064 691 INFO dfs.DataNode$PacketResponder: Received block blk_3184015606187801 of size 4442
+081109 862921 230 INFO dfs.DataNode$PacketResponder: Received block blk_7273258733343866 of size 4797
+081109 634136 98 INFO dfs.DataNode$PacketResponder: Received block blk_2064911640181149 of size 2893
+081109 966522 432 INFO dfs.DataNode$PacketResponder: Received block blk_3192749036572919 of size 5065
+081109 609447 374 INFO dfs.DataNode$PacketResponder: Received block blk_6804875274037000 of size 2625
+081109 284576 231 INFO dfs.DataNode$PacketResponder: Received block blk_1694416191953617 of size 8984
+081109 359870 132 INFO dfs.DataNode$PacketResponder: Received block blk_6454112854869620 of size 1736
+081109 726960 532 INFO dfs.DataNode$PacketResponder: Received block blk_5553651899189966 of size 6023
+081109 970237 623 INFO dfs.DataNode$PacketResponder: Received block blk_7934684169955350 of size 7498
+081109 553301 417 INFO dfs.DataNode$PacketResponder: Received block blk_8046404419657554 of size 2936
+081109 492545 933 INFO dfs.DataNode$PacketResponder: Received block blk_9821964394870151 of size 4363
+081109 229305 663 INFO dfs.DataNode$PacketResponder: Received block blk_4297893996242457 of size 3050
+081109 469085 575 INFO dfs.DataNode$PacketResponder: Received block blk_5193852394948188 of size 7936
+081109 821801 693 INFO dfs.DataNode$PacketResponder: Received block blk_8203382862318300 of size 2260
+081109 504817 698 INFO dfs.DataNode$PacketResponder: Received block blk_3589692809158588 of size 6264
+081109 503155 323 INFO dfs.DataNode$PacketResponder: Received block blk_3262941150670103 of size 5659
+081109 937282 178 INFO dfs.DataNode$PacketResponder: Received block blk_9731896578295537 of size 8547
+081109 720368 388 INFO dfs.DataNode$PacketResponder: Received block blk_3726659606289276 of size 6211
+081109 249110 654 INFO dfs.DataNode$PacketResponder: Received block blk_7302946613923647 of size 5349
+081109 188039 547 INFO dfs.DataNode$PacketResponder: Received block blk_6671121598529836 of size 3085
+081109 613419 232 INFO dfs.DataNode$PacketResponder: Received block blk_7837342166432310 of size 1773
+081109 469939 717 INFO dfs.DataNode$PacketResponder: Received block blk_1606865468679106 of size 4878
+081109 939384 298 INFO dfs.DataNode$PacketResponder: Received block blk_2816337127399372 of size 8640
+081109 391726 313 INFO dfs.DataNode$PacketResponder: Received block blk_8260137231132234 of size 6972
+081109 319619 655 INFO dfs.DataNode$PacketResponder: Received block blk_1271903554699802 of size 5666
+081109 441962 509 INFO dfs.DataNode$PacketResponder: Received block blk_8015020776184904 of size 2568
+081109 539695 80 INFO dfs.DataNode$PacketResponder: Received block blk_2080021117295493 of size 1677
+081109 732329 568 INFO dfs.DataNode$PacketResponder: Received block blk_7743621748038681 of size 1123
+081109 590076 614 INFO dfs.DataNode$PacketResponder: Received block blk_5082921505750753 of size 4996
+081109 136528 529 INFO dfs.DataNode$PacketResponder: Received block blk_3869769669873351 of size 4448
+081109 370354 996 INFO dfs.DataNode$PacketResponder: Received block blk_4184818916821287 of size 2091
+081109 893672 889 INFO dfs.DataNode$PacketResponder: Received block blk_6603705505706368 of size 6603
+081109 232085 350 INFO dfs.DataNode$PacketResponder: Received block blk_2111741866489097 of size 7617
+081109 284820 571 INFO dfs.DataNode$PacketResponder: Received block blk_1812103709903967 of size 6375
+081109 197085 184 INFO dfs.DataNode$PacketResponder: Received block blk_5538775827305439 of size 4363
+081109 413725 325 INFO dfs.DataNode$PacketResponder: Received block blk_2407871454307251 of size 5734
+081109 408938 980 INFO dfs.DataNode$PacketResponder: Received block blk_9080819029881352 of size 1641
+081109 777124 37 INFO dfs.DataNode$PacketResponder: Received block blk_5085311722718490 of size 4874
+081109 427844 686 INFO dfs.DataNode$PacketResponder: Received block blk_8005285503665709 of size 1979
+081109 655793 893 INFO dfs.DataNode$PacketResponder: Received block blk_5675519256904718 of size 4387
+081109 881128 731 INFO dfs.DataNode$PacketResponder: Received block blk_5642914647686295 of size 8336
+081109 697439 842 INFO dfs.DataNode$PacketResponder: Received block blk_6476541528323275 of size 7462
+081109 566435 95 INFO dfs.DataNode$PacketResponder: Received block blk_8432847918220570 of size 7702
+081109 149466 883 INFO dfs.DataNode$PacketResponder: Received block blk_7714821213128740 of size 2314
+081109 915942 317 INFO dfs.DataNode$PacketResponder: Received block blk_9637707351300403 of size 1932
+081109 587948 173 INFO dfs.DataNode$PacketResponder: Received block blk_2262211169417554 of size 5623
+081109 758948 798 INFO dfs.DataNode$PacketResponder: Received block blk_3517299977798768 of size 5995
+081109 986680 343 INFO dfs.DataNode$PacketResponder: Received block blk_1932692227552182 of size 7582
+081109 616285 561 INFO dfs.DataNode$PacketResponder: Received block blk_1010288245222148 of size 4098
+081109 321938 72 INFO dfs.DataNode$PacketResponder: Received block blk_9150083096069055 of size 3850
+081109 906098 684 INFO dfs.DataNode$PacketResponder: Received block blk_6836964782208087 of size 5840
+081109 290700 423 INFO dfs.DataNode$PacketResponder: Received block blk_7007447029403941 of size 3690
+081109 313147 439 INFO dfs.DataNode$PacketResponder: Received block blk_6893311546163684 of size 4787
+081109 162348 692 INFO dfs.DataNode$PacketResponder: Received block blk_3317225229298310 of size 4815
+081109 244227 611 INFO dfs.DataNode$PacketResponder: Received block blk_5934587169008572 of size 2618
+081109 665484 596 INFO dfs.DataNode$PacketResponder: Received block blk_5799967690961223 of size 5011
+081109 324051 856 INFO dfs.DataNode$PacketResponder: Received block blk_9657305461815539 of size 6334
+081109 266545 488 INFO dfs.DataNode$PacketResponder: Received block blk_6644104054374273 of size 7765
+081109 561506 183 INFO dfs.DataNode$PacketResponder: Received block blk_9799557601651863 of size 6758
+081109 957718 507 INFO dfs.DataNode$PacketResponder: Received block blk_8858869980821219 of size 8677
+081109 777239 124 INFO dfs.DataNode$PacketResponder: Received block blk_2879123722108091 of size 3994
+081109 342491 933 INFO dfs.DataNode$PacketResponder: Received block blk_4851061657759122 of size 8373
+081109 105460 486 INFO dfs.DataNode$PacketResponder: Received block blk_9195824488118054 of size 7903
+081109 469668 93 INFO dfs.DataNode$PacketResponder: Received block blk_9179353445964556 of size 2975
+081109 988015 738 INFO dfs.DataNode$PacketResponder: Received block blk_6840005694145763 of size 5404
+081109 558268 984 INFO dfs.DataNode$PacketResponder: Received block blk_4134118278619348 of size 4742
+081109 914875 380 INFO dfs.DataNode$PacketResponder: Received block blk_5214333697101701 of size 7502
+081109 818553 975 INFO dfs.DataNode$PacketResponder: Received block blk_5554793297228853 of size 6826
+081109 694384 715 INFO dfs.DataNode$PacketResponder: Received block blk_3939831566842368 of size 2188
+081109 651351 397 INFO dfs.DataNode$PacketResponder: Received block blk_1407249460740582 of size 5608
+081109 134083 564 INFO dfs.DataNode$PacketResponder: Received block blk_9363999380441609 of size 1651
+081109 801124 965 INFO dfs.DataNode$PacketResponder: Received block blk_4835001617297497 of size 2838
+081109 131665 84 INFO dfs.DataNode$PacketResponder: Received block blk_4159214036307163 of size 3594
+081109 219653 319 INFO dfs.DataNode$PacketResponder: Received block blk_4320856789763787 of size 7433
+081109 719045 704 INFO dfs.DataNode$PacketResponder: Received block blk_1530398985060333 of size 7873
+081109 452786 181 INFO dfs.DataNode$PacketResponder: Received block blk_4438025192458564 of size 2509
+081109 115895 455 INFO dfs.DataNode$PacketResponder: Received block blk_4073375969970695 of size 7269
+081109 295390 742 INFO dfs.DataNode$PacketResponder: Received block blk_3078849065732794 of size 7698
+081109 187474 205 INFO dfs.DataNode$PacketResponder: Received block blk_9489783645937973 of size 2547
+081109 592912 788 INFO dfs.DataNode$PacketResponder: Received block blk_3840783189135241 of size 1742
+081109 417573 46 INFO dfs.DataNode$PacketResponder: Received block blk_8578168015805719 of size 4702
+081109 193433 484 INFO dfs.DataNode$PacketResponder: Received block blk_4198391231324845 of size 1821
+081109 374434 957 INFO dfs.DataNode$PacketResponder: Received block blk_9725590247506009 of size 7639
+081109 412400 616 INFO dfs.DataNode$PacketResponder: Received block blk_9286589916906575 of size 3811
+081109 199944 176 INFO dfs.DataNode$PacketResponder: Received block blk_5781187483297507 of size 7981
+081109 310298 953 INFO dfs.DataNode$PacketResponder: Received block blk_3963797980512548 of size 7591
+081109 581267 310 INFO dfs.DataNode$PacketResponder: Received block blk_2091936265508442 of size 8403
+081109 979962 602 INFO dfs.DataNode$PacketResponder: Received block blk_1679573099379446 of size 6576
+081109 191720 920 INFO dfs.DataNode$PacketResponder: Received block blk_2836018284800866 of size 4404
+081109 634652 35 INFO dfs.DataNode$PacketResponder: Received block blk_8293678524293548 of size 1414
+081109 406654 826 INFO dfs.DataNode$PacketResponder: Received block blk_3572987328221759 of size 4430
+081109 180782 610 INFO dfs.DataNode$PacketResponder: Received block blk_9490099789146716 of size 8013
+081109 174759 422 INFO dfs.DataNode$PacketResponder: Received block blk_4743578619763843 of size 3011
+081109 726937 349 INFO dfs.DataNode$PacketResponder: Received block blk_7586737809287762 of size 4585
+081109 166094 794 INFO dfs.DataNode$PacketResponder: Received block blk_5502544042356815 of size 1416
+081109 383566 560 INFO dfs.DataNode$PacketResponder: Received block blk_4714108648884082 of size 3391
+081109 692470 552 INFO dfs.DataNode$PacketResponder: Received block blk_9332517444631886 of size 3383
+081109 578209 691 INFO dfs.DataNode$PacketResponder: Received block blk_1151536621499064 of size 1371
+081109 615311 816 INFO dfs.DataNode$PacketResponder: Received block blk_6238233750371956 of size 4094
+081109 752802 54 INFO dfs.DataNode$PacketResponder: Received block blk_3431669147491396 of size 1061
+081109 412480 161 INFO dfs.DataNode$PacketResponder: Received block blk_7830343599203856 of size 1941
+081109 942938 493 INFO dfs.DataNode$PacketResponder: Received block blk_1266009820080536 of size 5874
+081109 129895 369 INFO dfs.DataNode$PacketResponder: Received block blk_7610371364351973 of size 1061
+081109 651191 167 INFO dfs.DataNode$PacketResponder: Received block blk_5827639635864306 of size 1197
+081109 521363 805 INFO dfs.DataNode$PacketResponder: Received block blk_1913726027740351 of size 7834
+081109 617236 100 INFO dfs.DataNode$PacketResponder: Received block blk_6887169897225014 of size 3816
+081109 382733 516 INFO dfs.DataNode$PacketResponder: Received block blk_7766417690790400 of size 4198
+081109 976283 715 INFO dfs.DataNode$PacketResponder: Received block blk_9724701183866998 of size 8322
+081109 248605 691 INFO dfs.DataNode$PacketResponder: Received block blk_7538141903510290 of size 3463
+081109 659300 919 INFO dfs.DataNode$PacketResponder: Received block blk_9630704404042533 of size 5743
+081109 640924 839 INFO dfs.DataNode$PacketResponder: Received block blk_5731008852759710 of size 8029
+081109 973510 771 INFO dfs.DataNode$PacketResponder: Received block blk_1469203365071635 of size 7769
+081109 727433 573 INFO dfs.DataNode$PacketResponder: Received block blk_5837046355065454 of size 8440
+081109 728388 487 INFO dfs.DataNode$PacketResponder: Received block blk_1446603104780046 of size 2086
+081109 709119 169 INFO dfs.DataNode$PacketResponder: Received block blk_1065559993011583 of size 8352
+081109 251341 919 INFO dfs.DataNode$PacketResponder: Received block blk_3431220195703373 of size 7175
+081109 217951 754 INFO dfs.DataNode$PacketResponder: Received block blk_5405286795154913 of size 6192
+081109 552376 8 INFO dfs.DataNode$PacketResponder: Received block blk_8382418740387803 of size 3688
+081109 869015 388 INFO dfs.DataNode$PacketResponder: Received block blk_9053927933203381 of size 8199
+081109 914373 282 INFO dfs.DataNode$PacketResponder: Received block blk_8000975761617123 of size 8869
+081109 843801 473 INFO dfs.DataNode$PacketResponder: Received block blk_4687311375658186 of size 6992
+081109 717129 958 INFO dfs.DataNode$PacketResponder: Received block blk_1545696770936001 of size 6739
+081109 135136 453 INFO dfs.DataNode$PacketResponder: Received block blk_1693738269580529 of size 4928
+081109 279037 107 INFO dfs.DataNode$PacketResponder: Received block blk_4045996169375799 of size 5749
+081109 584991 128 INFO dfs.DataNode$PacketResponder: Received block blk_4436441495773556 of size 7608
+081109 386680 566 INFO dfs.DataNode$PacketResponder: Received block blk_2131468098408333 of size 6507
+081109 290915 342 INFO dfs.DataNode$PacketResponder: Received block blk_1988969912536978 of size 4149
+081109 595751 538 INFO dfs.DataNode$PacketResponder: Received block blk_5639000233645669 of size 4565
+081109 426599 963 INFO dfs.DataNode$PacketResponder: Received block blk_6368619497522829 of size 1155
+081109 998861 849 INFO dfs.DataNode$PacketResponder: Received block blk_7626760581298174 of size 5341
+081109 356315 203 INFO dfs.DataNode$PacketResponder: Received block blk_7373990146092692 of size 4766
+081109 605633 621 INFO dfs.DataNode$PacketResponder: Received block blk_6794430200355860 of size 6762
+081109 408807 320 INFO dfs.DataNode$PacketResponder: Received block blk_6912986057065316 of size 6349
+081109 195198 955 INFO dfs.DataNode$PacketResponder: Received block blk_2166564740475638 of size 2715
+081109 981608 967 INFO dfs.DataNode$PacketResponder: Received block blk_7582956462572948 of size 1341
+081109 204545 249 INFO dfs.DataNode$PacketResponder: Received block blk_3134580098898667 of size 1969
+081109 376118 562 INFO dfs.DataNode$PacketResponder: Received block blk_1730122048674846 of size 1838
+081109 391557 995 INFO dfs.DataNode$PacketResponder: Received block blk_9708666576983421 of size 8424
+081109 595599 132 INFO dfs.DataNode$PacketResponder: Received block blk_6229095695961521 of size 7117
+081109 634079 782 INFO dfs.DataNode$PacketResponder: Received block blk_7911806478514645 of size 3222
+081109 731865 679 INFO dfs.DataNode$PacketResponder: Received block blk_5730077357693997 of size 6737
+081109 770349 140 INFO dfs.DataNode$PacketResponder: Received block blk_7682137281787158 of size 2202
+081109 321668 179 INFO dfs.DataNode$PacketResponder: Received block blk_9744537340183755 of size 2853
+081109 221351 973 INFO dfs.DataNode$PacketResponder: Received block blk_9649607768607660 of size 1305
+081109 982021 420 INFO dfs.DataNode$PacketResponder: Received block blk_7317467074646342 of size 7951
+081109 450475 581 INFO dfs.DataNode$PacketResponder: Received block blk_8396151247874609 of size 6575
+081109 867288 958 INFO dfs.DataNode$PacketResponder: Received block blk_8948223847322366 of size 7846
+081109 161790 45 INFO dfs.DataNode$PacketResponder: Received block blk_8546329454232275 of size 4221
+081109 866107 770 INFO dfs.DataNode$PacketResponder: Received block blk_5610742144851004 of size 4997
+081109 713344 704 INFO dfs.DataNode$PacketResponder: Received block blk_9049331557360687 of size 4661
+081109 309046 682 INFO dfs.DataNode$PacketResponder: Received block blk_7084477680213342 of size 3597
+081109 485449 61 INFO dfs.DataNode$PacketResponder: Received block blk_4919083327517518 of size 6238
+081109 898227 922 INFO dfs.DataNode$PacketResponder: Received block blk_1610830184892298 of size 4102
+081109 941573 415 INFO dfs.DataNode$PacketResponder: Received block blk_7445056801746312 of size 4786
+081109 257251 463 INFO dfs.DataNode$PacketResponder: Received block blk_2847544362928526 of size 4622
+081109 674800 734 INFO dfs.DataNode$PacketResponder: Received block blk_8404118519469142 of size 1890
+081109 517103 942 INFO dfs.DataNode$PacketResponder: Received block blk_1033625970273635 of size 3005
+081109 243851 227 INFO dfs.DataNode$PacketResponder: Received block blk_3042389386242031 of size 8932
+081109 828952 606 INFO dfs.DataNode$PacketResponder: Received block blk_8387689131971077 of size 8479
+081109 944128 22 INFO dfs.DataNode$PacketResponder: Received block blk_7095027319855028 of size 6489
+081109 738497 178 INFO dfs.DataNode$PacketResponder: Received block blk_7360927601119690 of size 6994
+081109 283606 363 INFO dfs.DataNode$PacketResponder: Received block blk_6527366528930947 of size 1681
+081109 174828 358 INFO dfs.DataNode$PacketResponder: Received block blk_6758332830234940 of size 6439
+081109 990739 698 INFO dfs.DataNode$PacketResponder: Received block blk_1486563913140746 of size 5501
+081109 800340 479 INFO dfs.DataNode$PacketResponder: Received block blk_1473614251744771 of size 5966
+081109 177237 983 INFO dfs.DataNode$PacketResponder: Received block blk_8278558604996491 of size 8548
+081109 584003 471 INFO dfs.DataNode$PacketResponder: Received block blk_8410003191657826 of size 7361
+081109 744171 617 INFO dfs.DataNode$PacketResponder: Received block blk_6415700419989800 of size 6230
+081109 977676 627 INFO dfs.DataNode$PacketResponder: Received block blk_8773706852081513 of size 3997
+081109 104928 661 INFO dfs.DataNode$PacketResponder: Received block blk_1561615779157074 of size 7804
+081109 615338 497 INFO dfs.DataNode$PacketResponder: Received block blk_6626760735340569 of size 5861
+081109 136138 791 INFO dfs.DataNode$PacketResponder: Received block blk_8680622146048326 of size 5915
+081109 584749 922 INFO dfs.DataNode$PacketResponder: Received block blk_2888565800225784 of size 8349
+081109 842980 12 INFO dfs.DataNode$PacketResponder: Received block blk_4573857895133694 of size 5539
+081109 468352 63 INFO dfs.DataNode$PacketResponder: Received block blk_9263969448449661 of size 5668
+081109 388069 67 INFO dfs.DataNode$PacketResponder: Received block blk_3849115496448125 of size 6658
+081109 703730 313 INFO dfs.DataNode$PacketResponder: Received block blk_1876207153613266 of size 7096
+081109 230375 94 INFO dfs.DataNode$PacketResponder: Received block blk_7701920204847479 of size 5898
+081109 474235 822 INFO dfs.DataNode$PacketResponder: Received block blk_4809689720765260 of size 1374
+081109 816926 201 INFO dfs.DataNode$PacketResponder: Received block blk_6599436221148075 of size 5722
+081109 337253 333 INFO dfs.DataNode$PacketResponder: Received block blk_3710191068118649 of size 1116
+081109 536811 918 INFO dfs.DataNode$PacketResponder: Received block blk_3716685027140701 of size 6637
+081109 612154 876 INFO dfs.DataNode$PacketResponder: Received block blk_4052967085346674 of size 5292
+081109 831575 548 INFO dfs.DataNode$PacketResponder: Received block blk_3396233600056322 of size 3931
+081109 466352 916 INFO dfs.DataNode$PacketResponder: Received block blk_4675942530511102 of size 3331
+081109 913652 789 INFO dfs.DataNode$PacketResponder: Received block blk_8344874906460401 of size 7578
+081109 723798 137 INFO dfs.DataNode$PacketResponder: Received block blk_9967340673148667 of size 8098
+081109 495803 57 INFO dfs.DataNode$PacketResponder: Received block blk_7674655389948875 of size 3839
+081109 884218 99 INFO dfs.DataNode$PacketResponder: Received block blk_3231845955801200 of size 7880
+081109 660745 794 INFO dfs.DataNode$PacketResponder: Received block blk_9910991260137590 of size 6054
+081109 694697 112 INFO dfs.DataNode$PacketResponder: Received block blk_8439622768830916 of size 6114
+081109 586047 138 INFO dfs.DataNode$PacketResponder: Received block blk_6446488565176633 of size 4139
+081109 635168 988 INFO dfs.DataNode$PacketResponder: Received block blk_3814788286277843 of size 3201
+081109 561694 395 INFO dfs.DataNode$PacketResponder: Received block blk_9835628451230178 of size 7734
+081109 801636 24 INFO dfs.DataNode$PacketResponder: Received block blk_7618652277864794 of size 3127
+081109 278823 310 INFO dfs.DataNode$PacketResponder: Received block blk_2964819097644771 of size 4718
+081109 435351 868 INFO dfs.DataNode$PacketResponder: Received block blk_4849869557782930 of size 6444
+081109 689434 215 INFO dfs.DataNode$PacketResponder: Received block blk_9154368971445332 of size 8282
+081109 851170 260 INFO dfs.DataNode$PacketResponder: Received block blk_9299666724433588 of size 8389
+081109 194127 615 INFO dfs.DataNode$PacketResponder: Received block blk_4221443759470188 of size 5765
+081109 605711 102 INFO dfs.DataNode$PacketResponder: Received block blk_1680601177802337 of size 5198
+081109 233000 230 INFO dfs.DataNode$PacketResponder: Received block blk_7201451518951496 of size 6875
+081109 713191 2 INFO dfs.DataNode$PacketResponder: Received block blk_5747990661884963 of size 7759
+081109 163677 866 INFO dfs.DataNode$PacketResponder: Received block blk_2182678486173500 of size 8263
+081109 869459 509 INFO dfs.DataNode$PacketResponder: Received block blk_8372744165536618 of size 8022
+081109 129214 460 INFO dfs.DataNode$PacketResponder: Received block blk_5461751382877954 of size 6734
+081109 781164 539 INFO dfs.DataNode$PacketResponder: Received block blk_1352222832382013 of size 1034
+081109 811003 120 INFO dfs.DataNode$PacketResponder: Received block blk_5210098421729841 of size 3688
+081109 835697 425 INFO dfs.DataNode$PacketResponder: Received block blk_2588282002913228 of size 3697
+081109 981879 593 INFO dfs.DataNode$PacketResponder: Received block blk_7949582297756228 of size 2032
+081109 651356 855 INFO dfs.DataNode$PacketResponder: Received block blk_5642947322472480 of size 3258
+081109 821579 911 INFO dfs.DataNode$PacketResponder: Received block blk_3586579043595891 of size 3402
+081109 908674 406 INFO dfs.DataNode$PacketResponder: Received block blk_1771394807373680 of size 4005
+081109 101469 103 INFO dfs.DataNode$PacketResponder: Received block blk_2714118032693211 of size 8892
+081109 914273 604 INFO dfs.DataNode$PacketResponder: Received block blk_7769955476594046 of size 4994
+081109 271230 929 INFO dfs.DataNode$PacketResponder: Received block blk_5255733037727806 of size 1403
+081109 450330 637 INFO dfs.DataNode$PacketResponder: Received block blk_6514899953552090 of size 4192
+081109 410413 279 INFO dfs.DataNode$PacketResponder: Received block blk_9972620282142494 of size 2911
+081109 118961 151 INFO dfs.DataNode$PacketResponder: Received block blk_2992298252661323 of size 7944
+081109 617700 595 INFO dfs.DataNode$PacketResponder: Received block blk_2439552901263437 of size 4440
+081109 674597 975 INFO dfs.DataNode$PacketResponder: Received block blk_4314990680560961 of size 8215
+081109 967320 194 INFO dfs.DataNode$PacketResponder: Received block blk_3760278044365750 of size 5361
+081109 585883 31 INFO dfs.DataNode$PacketResponder: Received block blk_1926181481387360 of size 3912
+081109 639691 52 INFO dfs.DataNode$PacketResponder: Received block blk_6580170156982626 of size 2997
+081109 343770 331 INFO dfs.DataNode$PacketResponder: Received block blk_2132641725844992 of size 6629
+081109 946680 745 INFO dfs.DataNode$PacketResponder: Received block blk_8503509088257446 of size 2661
+081109 263619 516 INFO dfs.DataNode$PacketResponder: Received block blk_3660995283364736 of size 8922
+081109 212069 946 INFO dfs.DataNode$PacketResponder: Received block blk_9247829693930809 of size 2771
+081109 153825 840 INFO dfs.DataNode$PacketResponder: Received block blk_5437721447936449 of size 4021
+081109 326624 69 INFO dfs.DataNode$PacketResponder: Received block blk_9196798413536438 of size 2397
+081109 144350 3 INFO dfs.DataNode$PacketResponder: Received block blk_7148397276370154 of size 8212
+081109 186257 888 INFO dfs.DataNode$PacketResponder: Received block blk_4185284830307139 of size 3917
+081109 554409 245 INFO dfs.DataNode$PacketResponder: Received block blk_2835072220852688 of size 6047
+081109 336412 99 INFO dfs.DataNode$PacketResponder: Received block blk_6926560316398612 of size 3943
+081109 158852 129 INFO dfs.DataNode$PacketResponder: Received block blk_3688175081111822 of size 4617
+081109 875356 269 INFO dfs.DataNode$PacketResponder: Received block blk_8277500387177779 of size 4606
+081109 355929 591 INFO dfs.DataNode$PacketResponder: Received block blk_2123777430661084 of size 4221
+081109 378150 4 INFO dfs.DataNode$PacketResponder: Received block blk_8137728083124025 of size 5460
+081109 662656 247 INFO dfs.DataNode$PacketResponder: Received block blk_4383796658756913 of size 6855
+081109 248920 712 INFO dfs.DataNode$PacketResponder: Received block blk_9538023250445597 of size 4978
+081109 308718 128 INFO dfs.DataNode$PacketResponder: Received block blk_9813733413049390 of size 4946
+081109 334308 567 INFO dfs.DataNode$PacketResponder: Received block blk_3534408018031149 of size 1734
+081109 460618 427 INFO dfs.DataNode$PacketResponder: Received block blk_7250098726168704 of size 8049
+081109 226497 53 INFO dfs.DataNode$PacketResponder: Received block blk_5763342284218025 of size 8660
+081109 585151 903 INFO dfs.DataNode$PacketResponder: Received block blk_8648390277129056 of size 6898
+081109 347709 175 INFO dfs.DataNode$PacketResponder: Received block blk_9842643551676287 of size 1513
+081109 688522 214 INFO dfs.DataNode$PacketResponder: Received block blk_5060074357910883 of size 1034
+081109 593703 86 INFO dfs.DataNode$PacketResponder: Received block blk_2138618345482418 of size 3837
+081109 735577 852 INFO dfs.DataNode$PacketResponder: Received block blk_8632611307820556 of size 4902
+081109 773692 15 INFO dfs.DataNode$PacketResponder: Received block blk_2031605687716578 of size 2121
+081109 125271 609 INFO dfs.DataNode$PacketResponder: Received block blk_2203854780569868 of size 3094
+081109 939792 847 INFO dfs.DataNode$PacketResponder: Received block blk_9159564452888949 of size 5893
+081109 418784 463 INFO dfs.DataNode$PacketResponder: Received block blk_6271952685991332 of size 2178
+081109 646865 30 INFO dfs.DataNode$PacketResponder: Received block blk_5424251823751927 of size 6181
+081109 814789 911 INFO dfs.DataNode$PacketResponder: Received block blk_2437366071641632 of size 7623
+081109 296220 855 INFO dfs.DataNode$PacketResponder: Received block blk_5398783797162997 of size 5037
+081109 945051 852 INFO dfs.DataNode$PacketResponder: Received block blk_7572802467357051 of size 2769
+081109 311304 58 INFO dfs.DataNode$PacketResponder: Received block blk_4110824699451040 of size 4646
+081109 596418 450 INFO dfs.DataNode$PacketResponder: Received block blk_5131323734943820 of size 2110
+081109 552067 788 INFO dfs.DataNode$PacketResponder: Received block blk_3465230867130589 of size 8097
+081109 407135 776 INFO dfs.DataNode$PacketResponder: Received block blk_9726836528666645 of size 2576
+081109 384840 310 INFO dfs.DataNode$PacketResponder: Received block blk_7927390901926636 of size 6052
+081109 809529 910 INFO dfs.DataNode$PacketResponder: Received block blk_1572714783386322 of size 8802
+081109 749851 150 INFO dfs.DataNode$PacketResponder: Received block blk_5555811698333154 of size 5547
+081109 168635 376 INFO dfs.DataNode$PacketResponder: Received block blk_5819286463279986 of size 4781
+081109 892619 428 INFO dfs.DataNode$PacketResponder: Received block blk_1721636077955215 of size 4931
+081109 875300 88 INFO dfs.DataNode$PacketResponder: Received block blk_2877608595653026 of size 7991
+081109 629263 452 INFO dfs.DataNode$PacketResponder: Received block blk_5119798679940032 of size 7518
+081109 927399 126 INFO dfs.DataNode$PacketResponder: Received block blk_9529861120735656 of size 5667
+081109 963287 149 INFO dfs.DataNode$PacketResponder: Received block blk_4674364371295641 of size 6568
+081109 165949 141 INFO dfs.DataNode$PacketResponder: Received block blk_7491510029878354 of size 1982
+081109 785846 436 INFO dfs.DataNode$PacketResponder: Received block blk_1714190821568684 of size 1888
+081109 967501 80 INFO dfs.DataNode$PacketResponder: Received block blk_1950652945746748 of size 5996
+081109 566850 567 INFO dfs.DataNode$PacketResponder: Received block blk_8808426953193407 of size 6574
+081109 389790 939 INFO dfs.DataNode$PacketResponder: Received block blk_8400907941602276 of size 7877
+081109 777634 585 INFO dfs.DataNode$PacketResponder: Received block blk_6268372735670406 of size 6181
+081109 123569 205 INFO dfs.DataNode$PacketResponder: Received block blk_1432887799286586 of size 3844
+081109 985229 768 INFO dfs.DataNode$PacketResponder: Received block blk_1863676826856186 of size 8728
+081109 169695 266 INFO dfs.DataNode$PacketResponder: Received block blk_6324454360219322 of size 2299
+081109 685959 353 INFO dfs.DataNode$PacketResponder: Received block blk_2958767279882670 of size 4351
+081109 637053 212 INFO dfs.DataNode$PacketResponder: Received block blk_9383517797481945 of size 4845
+081109 116638 422 INFO dfs.DataNode$PacketResponder: Received block blk_2909835397227144 of size 1234
+081109 968222 893 INFO dfs.DataNode$PacketResponder: Received block blk_8272715765370481 of size 4281
+081109 116110 360 INFO dfs.DataNode$PacketResponder: Received block blk_6826604833833197 of size 5720
+081109 294879 630 INFO dfs.DataNode$PacketResponder: Received block blk_3219992762067998 of size 2640
+081109 883407 542 INFO dfs.DataNode$PacketResponder: Received block blk_9807555911127219 of size 3293
+081109 688954 297 INFO dfs.DataNode$PacketResponder: Received block blk_6464043340778949 of size 3152
+081109 370688 762 INFO dfs.DataNode$PacketResponder: Received block blk_2777003031363622 of size 8122
+081109 321770 914 INFO dfs.DataNode$PacketResponder: Received block blk_7109933761585781 of size 5506
+081109 683674 597 INFO dfs.DataNode$PacketResponder: Received block blk_2519582388953893 of size 1216
+081109 778272 39 INFO dfs.DataNode$PacketResponder: Received block blk_8177136269690224 of size 3543
+081109 908688 41 INFO dfs.DataNode$PacketResponder: Received block blk_2020873928928895 of size 5769
+081109 353649 69 INFO dfs.DataNode$PacketResponder: Received block blk_3231470060298669 of size 1819
+081109 804619 146 INFO dfs.DataNode$PacketResponder: Received block blk_7995557652270963 of size 8337
+081109 386253 194 INFO dfs.DataNode$PacketResponder: Received block blk_5211420539256852 of size 3976
+081109 101116 849 INFO dfs.DataNode$PacketResponder: Received block blk_9399542493190251 of size 6144
+081109 281265 619 INFO dfs.DataNode$PacketResponder: Received block blk_7535809937759113 of size 5756
+081109 752739 238 INFO dfs.DataNode$PacketResponder: Received block blk_3188470242781197 of size 5769
+081109 204978 389 INFO dfs.DataNode$PacketResponder: Received block blk_3916985523172081 of size 5948
+081109 359098 658 INFO dfs.DataNode$PacketResponder: Received block blk_3557118601017076 of size 4215
+081109 855359 894 INFO dfs.DataNode$PacketResponder: Received block blk_2496847058239242 of size 2843
+081109 354627 376 INFO dfs.DataNode$PacketResponder: Received block blk_1249768089423089 of size 1961
+081109 987633 825 INFO dfs.DataNode$PacketResponder: Received block blk_2223973054551847 of size 5481
+081109 735174 841 INFO dfs.DataNode$PacketResponder: Received block blk_5664992881165591 of size 5530
+081109 280204 572 INFO dfs.DataNode$PacketResponder: Received block blk_7108268280035281 of size 7443
+081109 347426 300 INFO dfs.DataNode$PacketResponder: Received block blk_6369987099001356 of size 2011
+081109 427391 908 INFO dfs.DataNode$PacketResponder: Received block blk_4959966613573857 of size 1871
+081109 407442 22 INFO dfs.DataNode$PacketResponder: Received block blk_9436496656513899 of size 5708
+081109 576101 483 INFO dfs.DataNode$PacketResponder: Received block blk_5669017700621546 of size 2460
+081109 741202 88 INFO dfs.DataNode$PacketResponder: Received block blk_8108222228089033 of size 6684
+081109 392198 846 INFO dfs.DataNode$PacketResponder: Received block blk_7145820006752744 of size 2663
+081109 793292 82 INFO dfs.DataNode$PacketResponder: Received block blk_2741961457871513 of size 2467
+081109 280322 600 INFO dfs.DataNode$PacketResponder: Received block blk_7452902847983524 of size 6264
+081109 934177 640 INFO dfs.DataNode$PacketResponder: Received block blk_6406134109752845 of size 7423
+081109 742198 145 INFO dfs.DataNode$PacketResponder: Received block blk_5243786234172505 of size 3421
+081109 650525 706 INFO dfs.DataNode$PacketResponder: Received block blk_5179035420051037 of size 5310
+081109 868949 103 INFO dfs.DataNode$PacketResponder: Received block blk_3487779126709044 of size 5796
+081109 414002 632 INFO dfs.DataNode$PacketResponder: Received block blk_9779213508740769 of size 3205
+081109 905495 214 INFO dfs.DataNode$PacketResponder: Received block blk_7793231870307988 of size 3362
+081109 899887 443 INFO dfs.DataNode$PacketResponder: Received block blk_4355599142904635 of size 5037
+081109 854154 563 INFO dfs.DataNode$PacketResponder: Received block blk_9029019313005750 of size 2517
+081109 253475 517 INFO dfs.DataNode$PacketResponder: Received block blk_9592891058823965 of size 5058
+081109 455061 637 INFO dfs.DataNode$PacketResponder: Received block blk_9966695645761737 of size 2284
+081109 191186 123 INFO dfs.DataNode$PacketResponder: Received block blk_4951616377319826 of size 1142
+081109 889247 736 INFO dfs.DataNode$PacketResponder: Received block blk_6325558945093288 of size 7980
+081109 920838 785 INFO dfs.DataNode$PacketResponder: Received block blk_3069906298713273 of size 4573
+081109 609929 619 INFO dfs.DataNode$PacketResponder: Received block blk_7683828074936526 of size 7863
+081109 675002 371 INFO dfs.DataNode$PacketResponder: Received block blk_7051942356442416 of size 6464
+081109 381758 93 INFO dfs.DataNode$PacketResponder: Received block blk_6044206503331408 of size 8046
+081109 837844 52 INFO dfs.DataNode$PacketResponder: Received block blk_5938455080217893 of size 4505
+081109 862460 493 INFO dfs.DataNode$PacketResponder: Received block blk_9736175995292583 of size 7097
+081109 636210 636 INFO dfs.DataNode$PacketResponder: Received block blk_4527611973482163 of size 3933
+081109 128597 910 INFO dfs.DataNode$PacketResponder: Received block blk_2490333457205051 of size 2259
+081109 846868 187 INFO dfs.DataNode$PacketResponder: Received block blk_8302325632654566 of size 2393
+081109 332703 300 INFO dfs.DataNode$PacketResponder: Received block blk_5657181500844817 of size 1727
+081109 574103 7 INFO dfs.DataNode$PacketResponder: Received block blk_8736651941569455 of size 5496
+081109 570164 80 INFO dfs.DataNode$PacketResponder: Received block blk_2800385769178779 of size 6223
+081109 271700 876 INFO dfs.DataNode$PacketResponder: Received block blk_5142271696559625 of size 3914
+081109 399852 891 INFO dfs.DataNode$PacketResponder: Received block blk_4973219997355186 of size 7432
+081109 665332 483 INFO dfs.DataNode$PacketResponder: Received block blk_6524720002068244 of size 7697
+081109 930800 579 INFO dfs.DataNode$PacketResponder: Received block blk_1031969815941987 of size 5909
+081109 297577 978 INFO dfs.DataNode$PacketResponder: Received block blk_3912694025520733 of size 5906
+081109 457763 561 INFO dfs.DataNode$PacketResponder: Received block blk_3443083409687144 of size 5217
+081109 148676 942 INFO dfs.DataNode$PacketResponder: Received block blk_6309833138610905 of size 6307
+081109 461155 295 INFO dfs.DataNode$PacketResponder: Received block blk_5391652326308393 of size 5044
+081109 343040 214 INFO dfs.DataNode$PacketResponder: Received block blk_4991150584064094 of size 4584
+081109 467073 616 INFO dfs.DataNode$PacketResponder: Received block blk_4800523062319368 of size 8276
+081109 750133 654 INFO dfs.DataNode$PacketResponder: Received block blk_5199036067681741 of size 4878
+081109 943522 182 INFO dfs.DataNode$PacketResponder: Received block blk_8166224381461141 of size 2942
+081109 814594 560 INFO dfs.DataNode$PacketResponder: Received block blk_9798951835520888 of size 6794
+081109 366949 445 INFO dfs.DataNode$PacketResponder: Received block blk_4249595169794485 of size 6839
+081109 620900 701 INFO dfs.DataNode$PacketResponder: Received block blk_4933958059275387 of size 3096
+081109 752822 271 INFO dfs.DataNode$PacketResponder: Received block blk_8748304000461673 of size 4135
+081109 559766 404 INFO dfs.DataNode$PacketResponder: Received block blk_9993660959992640 of size 4285
+081109 251240 536 INFO dfs.DataNode$PacketResponder: Received block blk_6202439866631190 of size 8490
+081109 687830 240 INFO dfs.DataNode$PacketResponder: Received block blk_4916299562802347 of size 8782
+081109 303648 95 INFO dfs.DataNode$PacketResponder: Received block blk_7690808081265459 of size 3918
+081109 116266 540 INFO dfs.DataNode$PacketResponder: Received block blk_2110631245967736 of size 1432
+081109 388963 993 INFO dfs.DataNode$PacketResponder: Received block blk_8371992993546378 of size 1240
+081109 619287 108 INFO dfs.DataNode$PacketResponder: Received block blk_2585353126648208 of size 7911
+081109 273370 335 INFO dfs.DataNode$PacketResponder: Received block blk_1178509411620665 of size 1104
+081109 510293 323 INFO dfs.DataNode$PacketResponder: Received block blk_1481924040153272 of size 4881
+081109 746977 664 INFO dfs.DataNode$PacketResponder: Received block blk_8396494138199565 of size 6973
+081109 719469 110 INFO dfs.DataNode$PacketResponder: Received block blk_3163194014247847 of size 8457
+081109 727794 246 INFO dfs.DataNode$PacketResponder: Received block blk_7064214795689309 of size 4894
+081109 602950 739 INFO dfs.DataNode$PacketResponder: Received block blk_4255823032673232 of size 1900
+081109 548448 495 INFO dfs.DataNode$PacketResponder: Received block blk_9324180975977688 of size 2836
+081109 615475 771 INFO dfs.DataNode$PacketResponder: Received block blk_2426080326121795 of size 7596
+081109 343556 602 INFO dfs.DataNode$PacketResponder: Received block blk_3462603191704043 of size 1475
+081109 353098 57 INFO dfs.DataNode$PacketResponder: Received block blk_6526841619117842 of size 2535
+081109 516992 705 INFO dfs.DataNode$PacketResponder: Received block blk_5552731179243582 of size 1833
+081109 822220 954 INFO dfs.DataNode$PacketResponder: Received block blk_1098686440014860 of size 5800
+081109 133762 342 INFO dfs.DataNode$PacketResponder: Received block blk_7762839454360880 of size 2976
+081109 577319 201 INFO dfs.DataNode$PacketResponder: Received block blk_5343878368049668 of size 5175
+081109 363446 87 INFO dfs.DataNode$PacketResponder: Received block blk_2599903780097844 of size 7087
+081109 208018 876 INFO dfs.DataNode$PacketResponder: Received block blk_9926525361058612 of size 1284
+081109 145738 556 INFO dfs.DataNode$PacketResponder: Received block blk_1758156688170083 of size 1241
+081109 376119 815 INFO dfs.DataNode$PacketResponder: Received block blk_9042580506451242 of size 7283
+081109 443739 151 INFO dfs.DataNode$PacketResponder: Received block blk_5020456990765104 of size 4786
+081109 681379 637 INFO dfs.DataNode$PacketResponder: Received block blk_8773507176765786 of size 2901
+081109 664340 204 INFO dfs.DataNode$PacketResponder: Received block blk_7460938394701600 of size 6756
+081109 550886 805 INFO dfs.DataNode$PacketResponder: Received block blk_8549756863740267 of size 5333
+081109 917969 833 INFO dfs.DataNode$PacketResponder: Received block blk_1170614347012789 of size 1849
+081109 186440 520 INFO dfs.DataNode$PacketResponder: Received block blk_2155693487834700 of size 2825
+081109 688545 260 INFO dfs.DataNode$PacketResponder: Received block blk_6621640536788648 of size 3326
+081109 488915 444 INFO dfs.DataNode$PacketResponder: Received block blk_9497524108781786 of size 8539
+081109 811572 464 INFO dfs.DataNode$PacketResponder: Received block blk_7604864340381438 of size 3118
+081109 616146 409 INFO dfs.DataNode$PacketResponder: Received block blk_1089046563028104 of size 3161
+081109 790572 791 INFO dfs.DataNode$PacketResponder: Received block blk_4649073467899457 of size 8550
+081109 527057 325 INFO dfs.DataNode$PacketResponder: Received block blk_7195242617054068 of size 1560
+081109 473775 866 INFO dfs.DataNode$PacketResponder: Received block blk_8542295539662464 of size 4205
+081109 471280 7 INFO dfs.DataNode$PacketResponder: Received block blk_7960485069787904 of size 7479
+081109 636746 849 INFO dfs.DataNode$PacketResponder: Received block blk_3702262346945701 of size 2204
+081109 711443 260 INFO dfs.DataNode$PacketResponder: Received block blk_7594761042268960 of size 8218
+081109 359870 328 INFO dfs.DataNode$PacketResponder: Received block blk_1158421601204720 of size 5894
+081109 849273 701 INFO dfs.DataNode$PacketResponder: Received block blk_4880041331969448 of size 5434
+081109 921696 378 INFO dfs.DataNode$PacketResponder: Received block blk_5686141858494119 of size 5514
+081109 615841 504 INFO dfs.DataNode$PacketResponder: Received block blk_1945763455972941 of size 5953
+081109 412400 440 INFO dfs.DataNode$PacketResponder: Received block blk_7804891435725103 of size 8766
+081109 182277 757 INFO dfs.DataNode$PacketResponder: Received block blk_5322921501478177 of size 3909
+081109 760163 926 INFO dfs.DataNode$PacketResponder: Received block blk_6162972266558858 of size 1968
+081109 986700 131 INFO dfs.DataNode$PacketResponder: Received block blk_2995748446686012 of size 7141
+081109 684440 988 INFO dfs.DataNode$PacketResponder: Received block blk_2229975660892385 of size 3477
+081109 113274 784 INFO dfs.DataNode$PacketResponder: Received block blk_7557557647586775 of size 7012
+081109 279121 47 INFO dfs.DataNode$PacketResponder: Received block blk_6970328793245810 of size 5491
+081109 170778 462 INFO dfs.DataNode$PacketResponder: Received block blk_5219550962863426 of size 2909
+081109 628958 786 INFO dfs.DataNode$PacketResponder: Received block blk_8014055341111019 of size 7628
+081109 632950 18 INFO dfs.DataNode$PacketResponder: Received block blk_5198718084391813 of size 7556
+081109 294235 538 INFO dfs.DataNode$PacketResponder: Received block blk_6437005841955245 of size 5276
+081109 171293 789 INFO dfs.DataNode$PacketResponder: Received block blk_3014327571103198 of size 2539
+081109 926618 611 INFO dfs.DataNode$PacketResponder: Received block blk_5723674986227038 of size 5052
+081109 766974 652 INFO dfs.DataNode$PacketResponder: Received block blk_4758287339486870 of size 5620
+081109 601818 421 INFO dfs.DataNode$PacketResponder: Received block blk_6814804088640525 of size 4780
+081109 657343 375 INFO dfs.DataNode$PacketResponder: Received block blk_8472920294018442 of size 8212
+081109 187429 848 INFO dfs.DataNode$PacketResponder: Received block blk_9880455628371416 of size 8074
+081109 823530 928 INFO dfs.DataNode$PacketResponder: Received block blk_9051933124940805 of size 5524
+081109 714118 105 INFO dfs.DataNode$PacketResponder: Received block blk_3230202690138340 of size 1568
+081109 360238 652 INFO dfs.DataNode$PacketResponder: Received block blk_3589782219158700 of size 6016
+081109 557670 622 INFO dfs.DataNode$PacketResponder: Received block blk_5948047785950204 of size 3893
+081109 351075 177 INFO dfs.DataNode$PacketResponder: Received block blk_9111842151155349 of size 3487
+081109 107096 908 INFO dfs.DataNode$PacketResponder: Received block blk_7276321188520438 of size 2132
+081109 428985 519 INFO dfs.DataNode$PacketResponder: Received block blk_5209971262494124 of size 4668
+081109 702551 648 INFO dfs.DataNode$PacketResponder: Received block blk_4865947593937000 of size 8367
+081109 904999 567 INFO dfs.DataNode$PacketResponder: Received block blk_1191464298755093 of size 7627
+081109 712422 996 INFO dfs.DataNode$PacketResponder: Received block blk_7534233924263811 of size 4334
+081109 568378 529 INFO dfs.DataNode$PacketResponder: Received block blk_7104043807765247 of size 6336
+081109 318375 850 INFO dfs.DataNode$PacketResponder: Received block blk_3827180619371070 of size 3197
+081109 683947 823 INFO dfs.DataNode$PacketResponder: Received block blk_3094717474383439 of size 5257
+081109 394774 11 INFO dfs.DataNode$PacketResponder: Received block blk_4279982467419596 of size 7634
+081109 599301 552 INFO dfs.DataNode$PacketResponder: Received block blk_6876852190859897 of size 8792
+081109 178786 925 INFO dfs.DataNode$PacketResponder: Received block blk_2234737753628530 of size 8968
+081109 814290 287 INFO dfs.DataNode$PacketResponder: Received block blk_8125918010404647 of size 7513
+081109 262383 71 INFO dfs.DataNode$PacketResponder: Received block blk_6895697394738519 of size 8730
+081109 772983 690 INFO dfs.DataNode$PacketResponder: Received block blk_4128635848215713 of size 5286
+081109 974152 976 INFO dfs.DataNode$PacketResponder: Received block blk_6580102358286772 of size 2459
+081109 199083 774 INFO dfs.DataNode$PacketResponder: Received block blk_5543611119496376 of size 4103
+081109 449303 837 INFO dfs.DataNode$PacketResponder: Received block blk_5465822062113731 of size 7056
+081109 798797 953 INFO dfs.DataNode$PacketResponder: Received block blk_6978393854794191 of size 2155
+081109 904235 61 INFO dfs.DataNode$PacketResponder: Received block blk_3310810311143776 of size 5758
+081109 789035 731 INFO dfs.DataNode$PacketResponder: Received block blk_6280239673245041 of size 5817
+081109 497949 740 INFO dfs.DataNode$PacketResponder: Received block blk_5319072455243042 of size 1563
+081109 288483 535 INFO dfs.DataNode$PacketResponder: Received block blk_6139386077302808 of size 3393
+081109 166983 614 INFO dfs.DataNode$PacketResponder: Received block blk_5967180139761462 of size 8106
+081109 812147 507 INFO dfs.DataNode$PacketResponder: Received block blk_4315705971021775 of size 1381
+081109 459280 479 INFO dfs.DataNode$PacketResponder: Received block blk_9505452562778748 of size 2879
+081109 899293 531 INFO dfs.DataNode$PacketResponder: Received block blk_8827166462994080 of size 6146
+081109 727442 565 INFO dfs.DataNode$PacketResponder: Received block blk_8697733026747992 of size 3189
+081109 593313 248 INFO dfs.DataNode$PacketResponder: Received block blk_6236665742964962 of size 4819
+081109 678385 595 INFO dfs.DataNode$PacketResponder: Received block blk_4170141315754748 of size 4428
+081109 365357 196 INFO dfs.DataNode$PacketResponder: Received block blk_7740672639029549 of size 1970
+081109 771018 538 INFO dfs.DataNode$PacketResponder: Received block blk_1244106136847840 of size 4723
+081109 522167 841 INFO dfs.DataNode$PacketResponder: Received block blk_7329762759820325 of size 8390
+081109 493061 675 INFO dfs.DataNode$PacketResponder: Received block blk_6480082518757652 of size 3676
+081109 464823 762 INFO dfs.DataNode$PacketResponder: Received block blk_7131758533966562 of size 7923
+081109 304949 975 INFO dfs.DataNode$PacketResponder: Received block blk_3198519493712970 of size 4547
+081109 287079 92 INFO dfs.DataNode$PacketResponder: Received block blk_4619870090169542 of size 6993
+081109 415947 395 INFO dfs.DataNode$PacketResponder: Received block blk_2400889953388566 of size 4018
+081109 450991 311 INFO dfs.DataNode$PacketResponder: Received block blk_3216591297574104 of size 3964
+081109 265360 410 INFO dfs.DataNode$PacketResponder: Received block blk_2446730712377829 of size 6411
+081109 934350 805 INFO dfs.DataNode$PacketResponder: Received block blk_3614166605751395 of size 3898
+081109 285121 439 INFO dfs.DataNode$PacketResponder: Received block blk_7414582033963380 of size 8563
+081109 209477 723 INFO dfs.DataNode$PacketResponder: Received block blk_2863689279688567 of size 5061
+081109 502445 953 INFO dfs.DataNode$PacketResponder: Received block blk_3431668065974913 of size 4710
+081109 721706 470 INFO dfs.DataNode$PacketResponder: Received block blk_2518032195264804 of size 1566
+081109 694140 336 INFO dfs.DataNode$PacketResponder: Received block blk_4282055213088247 of size 4276
+081109 107824 993 INFO dfs.DataNode$PacketResponder: Received block blk_4237999991544771 of size 7178
+081109 933591 433 INFO dfs.DataNode$PacketResponder: Received block blk_1670343413180639 of size 1080
+081109 982843 54 INFO dfs.DataNode$PacketResponder: Received block blk_7528532761556597 of size 6180
+081109 798783 327 INFO dfs.DataNode$PacketResponder: Received block blk_2330181783341265 of size 2925
+081109 262924 424 INFO dfs.DataNode$PacketResponder: Received block blk_6558326287896302 of size 5725
+081109 570855 249 INFO dfs.DataNode$PacketResponder: Received block blk_7720313663696381 of size 3226
+081109 993896 981 INFO dfs.DataNode$PacketResponder: Received block blk_3793053859013047 of size 3724
+081109 354608 63 INFO dfs.DataNode$PacketResponder: Received block blk_3913492561715840 of size 5383
+081109 789470 964 INFO dfs.DataNode$PacketResponder: Received block blk_7035037826196919 of size 8461
+081109 445392 649 INFO dfs.DataNode$PacketResponder: Received block blk_8421154074076573 of size 6923
+081109 962343 708 INFO dfs.DataNode$PacketResponder: Received block blk_5461387744547735 of size 6845
+081109 196884 638 INFO dfs.DataNode$PacketResponder: Received block blk_8614511761276348 of size 1411
+081109 494884 312 INFO dfs.DataNode$PacketResponder: Received block blk_2596824290510552 of size 2909
+081109 400823 713 INFO dfs.DataNode$PacketResponder: Received block blk_4776312122918596 of size 1936
+081109 811075 538 INFO dfs.DataNode$PacketResponder: Received block blk_1235258432760556 of size 7184
+081109 267237 690 INFO dfs.DataNode$PacketResponder: Received block blk_9273093814642131 of size 1771
+081109 608313 82 INFO dfs.DataNode$PacketResponder: Received block blk_7559376798327842 of size 5365
+081109 614418 164 INFO dfs.DataNode$PacketResponder: Received block blk_7090208392783783 of size 3434
+081109 640044 519 INFO dfs.DataNode$PacketResponder: Received block blk_8070389922264048 of size 6639
+081109 492313 289 INFO dfs.DataNode$PacketResponder: Received block blk_3781981414366947 of size 1226
+081109 136823 399 INFO dfs.DataNode$PacketResponder: Received block blk_8393247993354029 of size 2573

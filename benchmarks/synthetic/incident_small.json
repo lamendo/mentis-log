@@ -1,0 +1,8 @@
+{
+  "expected_line_boundaries": [
+    800,
+    1550
+  ],
+  "tolerance_lines": 150,
+  "notes": "2 clear regime transitions in a ~2.1k-line log"
+}

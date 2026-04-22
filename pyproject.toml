@@ -1,0 +1,88 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mentis-log"
+version = "0.1.0"
+description = "Detect structural change boundaries in large log streams."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [
+    { name = "Jan Reinhard", email = "jan.reinhard55@gmail.com" },
+]
+keywords = [
+    "log-analysis",
+    "segmentation",
+    "change-point-detection",
+    "observability",
+    "jensen-shannon",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: System :: Logging",
+    "Topic :: System :: Monitoring",
+]
+dependencies = [
+    "numpy>=1.22",
+]
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.5"]
+dev = [
+    "pytest>=7.0",
+    "matplotlib>=3.5",
+]
+
+[project.urls]
+Homepage = "https://github.com/lamendo/mentis-log"
+Repository = "https://github.com/lamendo/mentis-log"
+Issues = "https://github.com/lamendo/mentis-log/issues"
+Changelog = "https://github.com/lamendo/mentis-log/blob/main/CHANGELOG.md"
+
+[project.scripts]
+mentis-log = "mentis_log_cli:main"
+
+[tool.setuptools]
+# Flat layout: modules + packages at repo root.
+py-modules = [
+    "mentis_log_cli",
+    "runtime",
+    "plot",
+    "interpretation",
+    "refine",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["primitives*", "benchmarks*"]
+exclude = ["tests*", "tools*"]
+
+[tool.setuptools.package-data]
+benchmarks = [
+    "synthetic/*.log",
+    "synthetic/*.json",
+    "datasets/public/*/README.md",
+    "datasets/public/*/BGL_smoke.log",
+    "datasets/public/*/HDFS_smoke.log",
+    "results/*.json",
+    "results/*.md",
+    "README.md",
+    "real/README.md",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-q"

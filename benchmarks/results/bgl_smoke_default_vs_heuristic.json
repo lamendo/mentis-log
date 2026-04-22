@@ -1,0 +1,75 @@
+{
+  "mode": "dataset",
+  "dataset": "bgl",
+  "source_path": "benchmarks\\datasets\\public\\bgl\\BGL_smoke.log",
+  "n_lines": 4000,
+  "tolerance_lines": 200,
+  "strategies": [
+    "auto",
+    "heuristic"
+  ],
+  "target_metadata": {
+    "target_type": "derived_from_label_transitions",
+    "source": "BGL per-line label: '-' = normal, any other token = alert. Phases are runs of identical binary states with min_run = 500; transitions are merged within 100 lines.",
+    "min_run": 500,
+    "merge_window": 100,
+    "alert_fraction": 0.3,
+    "disclaimer": "Not a manual segmentation ground truth. These boundaries are an honest but mechanical derivation from the anomaly-label stream."
+  },
+  "per_file": [
+    {
+      "file": "BGL_smoke.log",
+      "n_lines": 4000,
+      "expected_boundaries": [
+        1000,
+        1600,
+        2600,
+        3200
+      ],
+      "annotated": true,
+      "results": {
+        "auto": {
+          "strategy": "auto",
+          "runtime_seconds": 0.178,
+          "n_lines": 4000,
+          "n_boundaries": 0,
+          "boundaries": [],
+          "route": "Q_JSD",
+          "precision": 1.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "heuristic": {
+          "strategy": "heuristic",
+          "runtime_seconds": 0.635,
+          "n_lines": 4000,
+          "n_boundaries": 2,
+          "boundaries": [
+            1001,
+            2601
+          ],
+          "route": "HGB",
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6667
+        }
+      }
+    }
+  ],
+  "summary": {
+    "auto": {
+      "total_runtime_seconds": 0.178,
+      "mean_precision": 1.0,
+      "mean_recall": 0.0,
+      "mean_f1": 0.0,
+      "annotated_files": 1
+    },
+    "heuristic": {
+      "total_runtime_seconds": 0.635,
+      "mean_precision": 1.0,
+      "mean_recall": 0.5,
+      "mean_f1": 0.6667,
+      "annotated_files": 1
+    }
+  }
+}

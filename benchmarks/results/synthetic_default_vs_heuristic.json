@@ -1,0 +1,153 @@
+{
+  "mode": "directory",
+  "input_dir": "benchmarks\\synthetic",
+  "tolerance_lines": 100,
+  "strategies": [
+    "auto",
+    "heuristic"
+  ],
+  "per_file": [
+    {
+      "file": "incident_medium.log",
+      "n_lines": 4350,
+      "expected_boundaries": [
+        1000,
+        1750,
+        2650,
+        3150,
+        3550
+      ],
+      "annotated": true,
+      "results": {
+        "auto": {
+          "strategy": "auto",
+          "runtime_seconds": 0.231,
+          "n_lines": 4350,
+          "n_boundaries": 3,
+          "boundaries": [
+            1719,
+            2649,
+            3550
+          ],
+          "route": "Q_JSD",
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1": 0.75
+        },
+        "heuristic": {
+          "strategy": "heuristic",
+          "runtime_seconds": 0.288,
+          "n_lines": 4350,
+          "n_boundaries": 3,
+          "boundaries": [
+            999,
+            1689,
+            3150
+          ],
+          "route": "HGB",
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1": 0.75
+        }
+      }
+    },
+    {
+      "file": "incident_noisy.log",
+      "n_lines": 3225,
+      "expected_boundaries": [
+        700,
+        1325,
+        1925,
+        2425
+      ],
+      "annotated": true,
+      "results": {
+        "auto": {
+          "strategy": "auto",
+          "runtime_seconds": 0.166,
+          "n_lines": 3225,
+          "n_boundaries": 3,
+          "boundaries": [
+            699,
+            1289,
+            2450
+          ],
+          "route": "Q_JSD",
+          "precision": 1.0,
+          "recall": 0.75,
+          "f1": 0.8571
+        },
+        "heuristic": {
+          "strategy": "heuristic",
+          "runtime_seconds": 0.188,
+          "n_lines": 3225,
+          "n_boundaries": 3,
+          "boundaries": [
+            699,
+            1274,
+            2450
+          ],
+          "route": "HGB",
+          "precision": 1.0,
+          "recall": 0.75,
+          "f1": 0.8571
+        }
+      }
+    },
+    {
+      "file": "incident_small.log",
+      "n_lines": 2250,
+      "expected_boundaries": [
+        800,
+        1550
+      ],
+      "annotated": true,
+      "results": {
+        "auto": {
+          "strategy": "auto",
+          "runtime_seconds": 0.115,
+          "n_lines": 2250,
+          "n_boundaries": 2,
+          "boundaries": [
+            799,
+            1514
+          ],
+          "route": "Q_JSD",
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "heuristic": {
+          "strategy": "heuristic",
+          "runtime_seconds": 0.112,
+          "n_lines": 2250,
+          "n_boundaries": 2,
+          "boundaries": [
+            799,
+            1489
+          ],
+          "route": "HGB",
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      }
+    }
+  ],
+  "summary": {
+    "auto": {
+      "total_runtime_seconds": 0.512,
+      "mean_precision": 1.0,
+      "mean_recall": 0.7833,
+      "mean_f1": 0.869,
+      "annotated_files": 3
+    },
+    "heuristic": {
+      "total_runtime_seconds": 0.588,
+      "mean_precision": 1.0,
+      "mean_recall": 0.7833,
+      "mean_f1": 0.869,
+      "annotated_files": 3
+    }
+  }
+}

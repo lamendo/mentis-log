@@ -1,0 +1,52 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Coverage / test artefacts
+.coverage
+htmlcov/
+.tox/
+coverage.xml
+
+# Local runtime artefacts (regenerable by tools/)
+large_log.log
+core*.log
+core*.json
+core*.png
+mode_timing.json
+bench_results.json
+parity_report_*.json
+lm_demo.json
+
+# User-downloaded public datasets (not committed; see
+# benchmarks/datasets/public/<name>/README.md for instructions)
+benchmarks/datasets/public/bgl/BGL.log
+benchmarks/datasets/public/hdfs/HDFS.log
+
+# PyPI / build
+*.whl
+*.tar.gz

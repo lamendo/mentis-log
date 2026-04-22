@@ -1,0 +1,13 @@
+# Normalise line endings across Windows / macOS / Linux. All text
+# files are stored with LF in the repository and converted to the
+# platform's native endings on checkout only when needed.
+* text=auto eol=lf
+
+# Ensure shell scripts keep LF even on Windows checkouts.
+*.sh text eol=lf
+
+# Binary assets — never normalise.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary

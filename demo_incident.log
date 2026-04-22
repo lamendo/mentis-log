@@ -1,0 +1,78 @@
+INFO checkout request_id=7a1 user=alice product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=7a2 user=bob product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=7a3 user=carol product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=7a4 user=dave product=sku_7712 amount=15.20 status=200
+INFO checkout request_id=7a5 user=erin product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=7a6 user=frank product=sku_3301 amount=61.00 status=200
+INFO checkout request_id=7a7 user=grace product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=7a8 user=hank product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=7a9 user=ivy product=sku_9908 amount=27.40 status=200
+INFO checkout request_id=7aa user=jake product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=7ab user=karen product=sku_3301 amount=61.00 status=200
+INFO checkout request_id=7ac user=liam product=sku_7712 amount=15.20 status=200
+INFO checkout request_id=7ad user=mia product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=7ae user=noah product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=7af user=olivia product=sku_9908 amount=27.40 status=200
+INFO checkout request_id=7b0 user=peter product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=7b1 user=quinn product=sku_3301 amount=61.00 status=200
+INFO checkout request_id=7b2 user=ryan product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=7b3 user=sara product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=7b4 user=tom product=sku_9908 amount=27.40 status=200
+ERROR database connection refused pool exhausted retry_attempt=1 trace_id=9f2
+ERROR database connection refused pool exhausted retry_attempt=2 trace_id=9f2
+ERROR database connection refused pool exhausted retry_attempt=3 trace_id=9f2
+WARN circuit_breaker open route=/checkout latency_ms=30000 requests_dropped=47
+ERROR database connection refused pool exhausted retry_attempt=1 trace_id=9f3
+ERROR database connection refused pool exhausted retry_attempt=2 trace_id=9f3
+ERROR database connection refused pool exhausted retry_attempt=3 trace_id=9f3
+WARN circuit_breaker open route=/checkout latency_ms=30000 requests_dropped=62
+ERROR database connection refused pool exhausted retry_attempt=1 trace_id=9f4
+ERROR database connection refused pool exhausted retry_attempt=2 trace_id=9f4
+ERROR database connection refused pool exhausted retry_attempt=3 trace_id=9f4
+WARN circuit_breaker open route=/checkout latency_ms=30000 requests_dropped=83
+ERROR database connection refused pool exhausted retry_attempt=1 trace_id=9f5
+ERROR database connection refused pool exhausted retry_attempt=2 trace_id=9f5
+ERROR database connection refused pool exhausted retry_attempt=3 trace_id=9f5
+WARN circuit_breaker open route=/checkout latency_ms=30000 requests_dropped=104
+INFO rollback deployment_id=dep_883a commit=abc123 rolled_back_to=dep_881f author=sre
+INFO checkout request_id=8a1 user=alice product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=8a2 user=bob product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=8a3 user=carol product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=8a4 user=dave product=sku_7712 amount=15.20 status=200
+INFO checkout request_id=8a5 user=erin product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=8a6 user=frank product=sku_3301 amount=61.00 status=200
+INFO checkout request_id=8a7 user=grace product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=8a8 user=hank product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=8a9 user=ivy product=sku_9908 amount=27.40 status=200
+INFO checkout request_id=8aa user=jake product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=8ab user=karen product=sku_3301 amount=61.00 status=200
+INFO checkout request_id=8ac user=liam product=sku_7712 amount=15.20 status=200
+INFO checkout request_id=8ad user=mia product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=8ae user=noah product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=8af user=olivia product=sku_9908 amount=27.40 status=200
+INFO checkout request_id=8b0 user=peter product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=8b1 user=quinn product=sku_3301 amount=61.00 status=200
+FATAL out_of_memory heap=95% gc_pause_ms=8200 threads_blocked=142 node=node_07
+FATAL out_of_memory heap=97% gc_pause_ms=9100 threads_blocked=168 node=node_07
+FATAL out_of_memory heap=98% gc_pause_ms=11400 threads_blocked=201 node=node_07
+FATAL out_of_memory heap=99% gc_pause_ms=14200 threads_blocked=238 node=node_07
+FATAL out_of_memory heap=99% gc_pause_ms=17800 threads_blocked=284 node=node_07
+FATAL out_of_memory heap=99% gc_pause_ms=21500 threads_blocked=329 node=node_07
+INFO pod_evicted name=checkout_abcd reason=memory_pressure node=node_07 rescheduled=true
+INFO pod_evicted name=checkout_efgh reason=memory_pressure node=node_07 rescheduled=true
+INFO pod_evicted name=checkout_ijkl reason=memory_pressure node=node_07 rescheduled=true
+INFO autoscaler scale_up replicas_from=4 replicas_to=8 reason=cpu_saturation target=70%
+INFO autoscaler scale_up replicas_from=8 replicas_to=12 reason=cpu_saturation target=70%
+INFO checkout request_id=9a1 user=alice product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=9a2 user=bob product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=9a3 user=carol product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=9a4 user=dave product=sku_7712 amount=15.20 status=200
+INFO checkout request_id=9a5 user=erin product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=9a6 user=frank product=sku_3301 amount=61.00 status=200
+INFO checkout request_id=9a7 user=grace product=sku_2388 amount=88.75 status=200
+INFO checkout request_id=9a8 user=hank product=sku_1193 amount=19.00 status=200
+INFO checkout request_id=9a9 user=ivy product=sku_9908 amount=27.40 status=200
+INFO checkout request_id=9aa user=jake product=sku_4421 amount=42.50 status=200
+INFO checkout request_id=9ab user=karen product=sku_3301 amount=61.00 status=200
+INFO checkout request_id=9ac user=liam product=sku_7712 amount=15.20 status=200
+INFO checkout request_id=9ad user=mia product=sku_2388 amount=88.75 status=200

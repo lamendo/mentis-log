@@ -1,0 +1,2250 @@
+INFO checkout request_id=0 user=bob product=sku_9908 status=200
+INFO checkout request_id=1 user=grace product=sku_4421 status=200
+INFO checkout request_id=2 user=carol product=sku_4421 status=200
+INFO checkout request_id=3 user=dave product=sku_7712 status=200
+INFO checkout request_id=4 user=dave product=sku_3301 status=200
+INFO checkout request_id=5 user=dave product=sku_1193 status=200
+INFO checkout request_id=6 user=alice product=sku_7712 status=200
+INFO checkout request_id=7 user=alice product=sku_7712 status=200
+INFO checkout request_id=8 user=dave product=sku_9908 status=200
+INFO checkout request_id=9 user=grace product=sku_4421 status=200
+INFO checkout request_id=a user=frank product=sku_7712 status=200
+INFO checkout request_id=b user=carol product=sku_3301 status=200
+INFO checkout request_id=c user=grace product=sku_1193 status=200
+INFO checkout request_id=d user=erin product=sku_4421 status=200
+INFO checkout request_id=e user=carol product=sku_4421 status=200
+INFO checkout request_id=f user=alice product=sku_4421 status=200
+INFO checkout request_id=10 user=frank product=sku_9908 status=200
+INFO checkout request_id=11 user=alice product=sku_7712 status=200
+INFO checkout request_id=12 user=frank product=sku_1193 status=200
+INFO checkout request_id=13 user=dave product=sku_3301 status=200
+INFO checkout request_id=14 user=alice product=sku_9908 status=200
+INFO checkout request_id=15 user=bob product=sku_7712 status=200
+INFO checkout request_id=16 user=dave product=sku_9908 status=200
+INFO checkout request_id=17 user=bob product=sku_2388 status=200
+INFO checkout request_id=18 user=bob product=sku_3301 status=200
+INFO checkout request_id=19 user=bob product=sku_7712 status=200
+INFO checkout request_id=1a user=carol product=sku_4421 status=200
+INFO checkout request_id=1b user=dave product=sku_9908 status=200
+INFO checkout request_id=1c user=frank product=sku_4421 status=200
+INFO checkout request_id=1d user=bob product=sku_3301 status=200
+INFO checkout request_id=1e user=frank product=sku_2388 status=200
+INFO checkout request_id=1f user=alice product=sku_3301 status=200
+INFO checkout request_id=20 user=carol product=sku_3301 status=200
+INFO checkout request_id=21 user=frank product=sku_9908 status=200
+INFO checkout request_id=22 user=dave product=sku_9908 status=200
+INFO checkout request_id=23 user=grace product=sku_3301 status=200
+INFO checkout request_id=24 user=bob product=sku_2388 status=200
+INFO checkout request_id=25 user=carol product=sku_9908 status=200
+INFO checkout request_id=26 user=dave product=sku_9908 status=200
+INFO checkout request_id=27 user=dave product=sku_9908 status=200
+INFO checkout request_id=28 user=grace product=sku_4421 status=200
+INFO checkout request_id=29 user=dave product=sku_1193 status=200
+INFO checkout request_id=2a user=frank product=sku_7712 status=200
+INFO checkout request_id=2b user=dave product=sku_3301 status=200
+INFO checkout request_id=2c user=bob product=sku_2388 status=200
+INFO checkout request_id=2d user=erin product=sku_3301 status=200
+INFO checkout request_id=2e user=grace product=sku_3301 status=200
+INFO checkout request_id=2f user=frank product=sku_2388 status=200
+INFO checkout request_id=30 user=alice product=sku_7712 status=200
+INFO checkout request_id=31 user=frank product=sku_9908 status=200
+INFO checkout request_id=32 user=alice product=sku_1193 status=200
+INFO checkout request_id=33 user=erin product=sku_7712 status=200
+INFO checkout request_id=34 user=carol product=sku_7712 status=200
+INFO checkout request_id=35 user=frank product=sku_4421 status=200
+INFO checkout request_id=36 user=dave product=sku_4421 status=200
+INFO checkout request_id=37 user=carol product=sku_3301 status=200
+INFO checkout request_id=38 user=grace product=sku_9908 status=200
+INFO checkout request_id=39 user=erin product=sku_9908 status=200
+INFO checkout request_id=3a user=dave product=sku_3301 status=200
+INFO checkout request_id=3b user=bob product=sku_1193 status=200
+INFO checkout request_id=3c user=erin product=sku_1193 status=200
+INFO checkout request_id=3d user=alice product=sku_1193 status=200
+INFO checkout request_id=3e user=erin product=sku_9908 status=200
+INFO checkout request_id=3f user=bob product=sku_7712 status=200
+INFO checkout request_id=40 user=erin product=sku_2388 status=200
+INFO checkout request_id=41 user=grace product=sku_9908 status=200
+INFO checkout request_id=42 user=carol product=sku_7712 status=200
+INFO checkout request_id=43 user=carol product=sku_3301 status=200
+INFO checkout request_id=44 user=erin product=sku_9908 status=200
+INFO checkout request_id=45 user=frank product=sku_4421 status=200
+INFO checkout request_id=46 user=dave product=sku_3301 status=200
+INFO checkout request_id=47 user=erin product=sku_1193 status=200
+INFO checkout request_id=48 user=erin product=sku_9908 status=200
+INFO checkout request_id=49 user=bob product=sku_7712 status=200
+INFO checkout request_id=4a user=alice product=sku_7712 status=200
+INFO checkout request_id=4b user=grace product=sku_2388 status=200
+INFO checkout request_id=4c user=erin product=sku_9908 status=200
+INFO checkout request_id=4d user=bob product=sku_9908 status=200
+INFO checkout request_id=4e user=dave product=sku_7712 status=200
+INFO checkout request_id=4f user=grace product=sku_2388 status=200
+INFO checkout request_id=50 user=dave product=sku_2388 status=200
+INFO checkout request_id=51 user=alice product=sku_9908 status=200
+INFO checkout request_id=52 user=erin product=sku_9908 status=200
+INFO checkout request_id=53 user=grace product=sku_9908 status=200
+INFO checkout request_id=54 user=carol product=sku_7712 status=200
+INFO checkout request_id=55 user=erin product=sku_4421 status=200
+INFO checkout request_id=56 user=grace product=sku_1193 status=200
+INFO checkout request_id=57 user=frank product=sku_1193 status=200
+INFO checkout request_id=58 user=erin product=sku_9908 status=200
+INFO checkout request_id=59 user=bob product=sku_4421 status=200
+INFO checkout request_id=5a user=grace product=sku_9908 status=200
+INFO checkout request_id=5b user=grace product=sku_2388 status=200
+INFO checkout request_id=5c user=alice product=sku_3301 status=200
+INFO checkout request_id=5d user=alice product=sku_4421 status=200
+INFO checkout request_id=5e user=grace product=sku_4421 status=200
+INFO checkout request_id=5f user=dave product=sku_4421 status=200
+INFO checkout request_id=60 user=grace product=sku_2388 status=200
+INFO checkout request_id=61 user=bob product=sku_2388 status=200
+INFO checkout request_id=62 user=alice product=sku_9908 status=200
+INFO checkout request_id=63 user=bob product=sku_2388 status=200
+INFO checkout request_id=64 user=carol product=sku_4421 status=200
+INFO checkout request_id=65 user=bob product=sku_1193 status=200
+INFO checkout request_id=66 user=carol product=sku_9908 status=200
+INFO checkout request_id=67 user=bob product=sku_3301 status=200
+INFO checkout request_id=68 user=carol product=sku_3301 status=200
+INFO checkout request_id=69 user=frank product=sku_2388 status=200
+INFO checkout request_id=6a user=dave product=sku_3301 status=200
+INFO checkout request_id=6b user=carol product=sku_7712 status=200
+INFO checkout request_id=6c user=dave product=sku_4421 status=200
+INFO checkout request_id=6d user=alice product=sku_2388 status=200
+INFO checkout request_id=6e user=dave product=sku_2388 status=200
+INFO checkout request_id=6f user=dave product=sku_1193 status=200
+INFO checkout request_id=70 user=carol product=sku_4421 status=200
+INFO checkout request_id=71 user=carol product=sku_3301 status=200
+INFO checkout request_id=72 user=erin product=sku_1193 status=200
+INFO checkout request_id=73 user=erin product=sku_7712 status=200
+INFO checkout request_id=74 user=grace product=sku_4421 status=200
+INFO checkout request_id=75 user=bob product=sku_4421 status=200
+INFO checkout request_id=76 user=dave product=sku_1193 status=200
+INFO checkout request_id=77 user=alice product=sku_3301 status=200
+INFO checkout request_id=78 user=bob product=sku_7712 status=200
+INFO checkout request_id=79 user=frank product=sku_9908 status=200
+INFO checkout request_id=7a user=frank product=sku_7712 status=200
+INFO checkout request_id=7b user=erin product=sku_1193 status=200
+INFO checkout request_id=7c user=frank product=sku_3301 status=200
+INFO checkout request_id=7d user=erin product=sku_7712 status=200
+INFO checkout request_id=7e user=bob product=sku_9908 status=200
+INFO checkout request_id=7f user=frank product=sku_4421 status=200
+INFO checkout request_id=80 user=dave product=sku_3301 status=200
+INFO checkout request_id=81 user=erin product=sku_2388 status=200
+INFO checkout request_id=82 user=frank product=sku_3301 status=200
+INFO checkout request_id=83 user=dave product=sku_4421 status=200
+INFO checkout request_id=84 user=frank product=sku_2388 status=200
+INFO checkout request_id=85 user=bob product=sku_1193 status=200
+INFO checkout request_id=86 user=alice product=sku_2388 status=200
+INFO checkout request_id=87 user=alice product=sku_4421 status=200
+INFO checkout request_id=88 user=carol product=sku_2388 status=200
+INFO checkout request_id=89 user=frank product=sku_1193 status=200
+INFO checkout request_id=8a user=dave product=sku_9908 status=200
+INFO checkout request_id=8b user=carol product=sku_1193 status=200
+INFO checkout request_id=8c user=alice product=sku_9908 status=200
+INFO checkout request_id=8d user=grace product=sku_4421 status=200
+INFO checkout request_id=8e user=erin product=sku_1193 status=200
+INFO checkout request_id=8f user=erin product=sku_7712 status=200
+INFO checkout request_id=90 user=bob product=sku_3301 status=200
+INFO checkout request_id=91 user=erin product=sku_9908 status=200
+INFO checkout request_id=92 user=alice product=sku_7712 status=200
+INFO checkout request_id=93 user=bob product=sku_2388 status=200
+INFO checkout request_id=94 user=alice product=sku_1193 status=200
+INFO checkout request_id=95 user=erin product=sku_3301 status=200
+INFO checkout request_id=96 user=dave product=sku_9908 status=200
+INFO checkout request_id=97 user=bob product=sku_7712 status=200
+INFO checkout request_id=98 user=alice product=sku_3301 status=200
+INFO checkout request_id=99 user=dave product=sku_2388 status=200
+INFO checkout request_id=9a user=erin product=sku_7712 status=200
+INFO checkout request_id=9b user=alice product=sku_2388 status=200
+INFO checkout request_id=9c user=erin product=sku_7712 status=200
+INFO checkout request_id=9d user=carol product=sku_4421 status=200
+INFO checkout request_id=9e user=bob product=sku_1193 status=200
+INFO checkout request_id=9f user=grace product=sku_2388 status=200
+INFO checkout request_id=a0 user=grace product=sku_9908 status=200
+INFO checkout request_id=a1 user=grace product=sku_1193 status=200
+INFO checkout request_id=a2 user=carol product=sku_7712 status=200
+INFO checkout request_id=a3 user=bob product=sku_2388 status=200
+INFO checkout request_id=a4 user=frank product=sku_4421 status=200
+INFO checkout request_id=a5 user=grace product=sku_7712 status=200
+INFO checkout request_id=a6 user=erin product=sku_2388 status=200
+INFO checkout request_id=a7 user=grace product=sku_3301 status=200
+INFO checkout request_id=a8 user=erin product=sku_7712 status=200
+INFO checkout request_id=a9 user=grace product=sku_9908 status=200
+INFO checkout request_id=aa user=bob product=sku_4421 status=200
+INFO checkout request_id=ab user=frank product=sku_4421 status=200
+INFO checkout request_id=ac user=alice product=sku_1193 status=200
+INFO checkout request_id=ad user=bob product=sku_1193 status=200
+INFO checkout request_id=ae user=erin product=sku_1193 status=200
+INFO checkout request_id=af user=carol product=sku_2388 status=200
+INFO checkout request_id=b0 user=erin product=sku_9908 status=200
+INFO checkout request_id=b1 user=grace product=sku_2388 status=200
+INFO checkout request_id=b2 user=carol product=sku_2388 status=200
+INFO checkout request_id=b3 user=carol product=sku_4421 status=200
+INFO checkout request_id=b4 user=carol product=sku_1193 status=200
+INFO checkout request_id=b5 user=grace product=sku_9908 status=200
+INFO checkout request_id=b6 user=grace product=sku_3301 status=200
+INFO checkout request_id=b7 user=dave product=sku_1193 status=200
+INFO checkout request_id=b8 user=erin product=sku_9908 status=200
+INFO checkout request_id=b9 user=grace product=sku_4421 status=200
+INFO checkout request_id=ba user=carol product=sku_4421 status=200
+INFO checkout request_id=bb user=dave product=sku_4421 status=200
+INFO checkout request_id=bc user=dave product=sku_1193 status=200
+INFO checkout request_id=bd user=grace product=sku_1193 status=200
+INFO checkout request_id=be user=carol product=sku_4421 status=200
+INFO checkout request_id=bf user=erin product=sku_9908 status=200
+INFO checkout request_id=c0 user=grace product=sku_7712 status=200
+INFO checkout request_id=c1 user=alice product=sku_9908 status=200
+INFO checkout request_id=c2 user=erin product=sku_1193 status=200
+INFO checkout request_id=c3 user=erin product=sku_4421 status=200
+INFO checkout request_id=c4 user=carol product=sku_2388 status=200
+INFO checkout request_id=c5 user=carol product=sku_9908 status=200
+INFO checkout request_id=c6 user=erin product=sku_4421 status=200
+INFO checkout request_id=c7 user=dave product=sku_2388 status=200
+INFO checkout request_id=c8 user=alice product=sku_4421 status=200
+INFO checkout request_id=c9 user=grace product=sku_2388 status=200
+INFO checkout request_id=ca user=alice product=sku_9908 status=200
+INFO checkout request_id=cb user=frank product=sku_4421 status=200
+INFO checkout request_id=cc user=alice product=sku_7712 status=200
+INFO checkout request_id=cd user=alice product=sku_4421 status=200
+INFO checkout request_id=ce user=bob product=sku_1193 status=200
+INFO checkout request_id=cf user=grace product=sku_9908 status=200
+INFO checkout request_id=d0 user=dave product=sku_1193 status=200
+INFO checkout request_id=d1 user=alice product=sku_7712 status=200
+INFO checkout request_id=d2 user=bob product=sku_3301 status=200
+INFO checkout request_id=d3 user=bob product=sku_1193 status=200
+INFO checkout request_id=d4 user=frank product=sku_4421 status=200
+INFO checkout request_id=d5 user=dave product=sku_7712 status=200
+INFO checkout request_id=d6 user=grace product=sku_9908 status=200
+INFO checkout request_id=d7 user=grace product=sku_2388 status=200
+INFO checkout request_id=d8 user=erin product=sku_2388 status=200
+INFO checkout request_id=d9 user=frank product=sku_7712 status=200
+INFO checkout request_id=da user=carol product=sku_4421 status=200
+INFO checkout request_id=db user=bob product=sku_3301 status=200
+INFO checkout request_id=dc user=carol product=sku_4421 status=200
+INFO checkout request_id=dd user=alice product=sku_4421 status=200
+INFO checkout request_id=de user=grace product=sku_2388 status=200
+INFO checkout request_id=df user=frank product=sku_9908 status=200
+INFO checkout request_id=e0 user=carol product=sku_7712 status=200
+INFO checkout request_id=e1 user=dave product=sku_2388 status=200
+INFO checkout request_id=e2 user=dave product=sku_4421 status=200
+INFO checkout request_id=e3 user=alice product=sku_2388 status=200
+INFO checkout request_id=e4 user=erin product=sku_7712 status=200
+INFO checkout request_id=e5 user=alice product=sku_2388 status=200
+INFO checkout request_id=e6 user=bob product=sku_9908 status=200
+INFO checkout request_id=e7 user=grace product=sku_9908 status=200
+INFO checkout request_id=e8 user=grace product=sku_3301 status=200
+INFO checkout request_id=e9 user=dave product=sku_3301 status=200
+INFO checkout request_id=ea user=carol product=sku_2388 status=200
+INFO checkout request_id=eb user=bob product=sku_9908 status=200
+INFO checkout request_id=ec user=bob product=sku_2388 status=200
+INFO checkout request_id=ed user=bob product=sku_1193 status=200
+INFO checkout request_id=ee user=carol product=sku_4421 status=200
+INFO checkout request_id=ef user=grace product=sku_2388 status=200
+INFO checkout request_id=f0 user=alice product=sku_7712 status=200
+INFO checkout request_id=f1 user=alice product=sku_3301 status=200
+INFO checkout request_id=f2 user=erin product=sku_3301 status=200
+INFO checkout request_id=f3 user=carol product=sku_1193 status=200
+INFO checkout request_id=f4 user=dave product=sku_2388 status=200
+INFO checkout request_id=f5 user=alice product=sku_2388 status=200
+INFO checkout request_id=f6 user=bob product=sku_2388 status=200
+INFO checkout request_id=f7 user=grace product=sku_9908 status=200
+INFO checkout request_id=f8 user=carol product=sku_1193 status=200
+INFO checkout request_id=f9 user=carol product=sku_4421 status=200
+INFO checkout request_id=fa user=erin product=sku_9908 status=200
+INFO checkout request_id=fb user=erin product=sku_9908 status=200
+INFO checkout request_id=fc user=alice product=sku_1193 status=200
+INFO checkout request_id=fd user=bob product=sku_4421 status=200
+INFO checkout request_id=fe user=grace product=sku_1193 status=200
+INFO checkout request_id=ff user=dave product=sku_4421 status=200
+INFO checkout request_id=100 user=carol product=sku_9908 status=200
+INFO checkout request_id=101 user=grace product=sku_4421 status=200
+INFO checkout request_id=102 user=frank product=sku_4421 status=200
+INFO checkout request_id=103 user=alice product=sku_3301 status=200
+INFO checkout request_id=104 user=alice product=sku_2388 status=200
+INFO checkout request_id=105 user=grace product=sku_2388 status=200
+INFO checkout request_id=106 user=dave product=sku_7712 status=200
+INFO checkout request_id=107 user=grace product=sku_1193 status=200
+INFO checkout request_id=108 user=alice product=sku_9908 status=200
+INFO checkout request_id=109 user=grace product=sku_2388 status=200
+INFO checkout request_id=10a user=alice product=sku_9908 status=200
+INFO checkout request_id=10b user=frank product=sku_1193 status=200
+INFO checkout request_id=10c user=bob product=sku_1193 status=200
+INFO checkout request_id=10d user=bob product=sku_2388 status=200
+INFO checkout request_id=10e user=carol product=sku_4421 status=200
+INFO checkout request_id=10f user=frank product=sku_9908 status=200
+INFO checkout request_id=110 user=grace product=sku_9908 status=200
+INFO checkout request_id=111 user=carol product=sku_1193 status=200
+INFO checkout request_id=112 user=bob product=sku_1193 status=200
+INFO checkout request_id=113 user=erin product=sku_3301 status=200
+INFO checkout request_id=114 user=alice product=sku_2388 status=200
+INFO checkout request_id=115 user=grace product=sku_9908 status=200
+INFO checkout request_id=116 user=grace product=sku_3301 status=200
+INFO checkout request_id=117 user=erin product=sku_3301 status=200
+INFO checkout request_id=118 user=frank product=sku_1193 status=200
+INFO checkout request_id=119 user=bob product=sku_2388 status=200
+INFO checkout request_id=11a user=dave product=sku_9908 status=200
+INFO checkout request_id=11b user=bob product=sku_4421 status=200
+INFO checkout request_id=11c user=frank product=sku_3301 status=200
+INFO checkout request_id=11d user=bob product=sku_2388 status=200
+INFO checkout request_id=11e user=grace product=sku_4421 status=200
+INFO checkout request_id=11f user=frank product=sku_7712 status=200
+INFO checkout request_id=120 user=grace product=sku_7712 status=200
+INFO checkout request_id=121 user=erin product=sku_2388 status=200
+INFO checkout request_id=122 user=erin product=sku_7712 status=200
+INFO checkout request_id=123 user=grace product=sku_9908 status=200
+INFO checkout request_id=124 user=dave product=sku_4421 status=200
+INFO checkout request_id=125 user=dave product=sku_2388 status=200
+INFO checkout request_id=126 user=bob product=sku_2388 status=200
+INFO checkout request_id=127 user=dave product=sku_4421 status=200
+INFO checkout request_id=128 user=grace product=sku_3301 status=200
+INFO checkout request_id=129 user=dave product=sku_9908 status=200
+INFO checkout request_id=12a user=alice product=sku_4421 status=200
+INFO checkout request_id=12b user=frank product=sku_2388 status=200
+INFO checkout request_id=12c user=erin product=sku_1193 status=200
+INFO checkout request_id=12d user=erin product=sku_1193 status=200
+INFO checkout request_id=12e user=bob product=sku_2388 status=200
+INFO checkout request_id=12f user=grace product=sku_2388 status=200
+INFO checkout request_id=130 user=dave product=sku_9908 status=200
+INFO checkout request_id=131 user=dave product=sku_1193 status=200
+INFO checkout request_id=132 user=erin product=sku_4421 status=200
+INFO checkout request_id=133 user=bob product=sku_7712 status=200
+INFO checkout request_id=134 user=alice product=sku_1193 status=200
+INFO checkout request_id=135 user=erin product=sku_2388 status=200
+INFO checkout request_id=136 user=erin product=sku_3301 status=200
+INFO checkout request_id=137 user=dave product=sku_3301 status=200
+INFO checkout request_id=138 user=frank product=sku_3301 status=200
+INFO checkout request_id=139 user=bob product=sku_1193 status=200
+INFO checkout request_id=13a user=carol product=sku_7712 status=200
+INFO checkout request_id=13b user=frank product=sku_7712 status=200
+INFO checkout request_id=13c user=bob product=sku_3301 status=200
+INFO checkout request_id=13d user=dave product=sku_2388 status=200
+INFO checkout request_id=13e user=erin product=sku_9908 status=200
+INFO checkout request_id=13f user=frank product=sku_3301 status=200
+INFO checkout request_id=140 user=carol product=sku_3301 status=200
+INFO checkout request_id=141 user=bob product=sku_4421 status=200
+INFO checkout request_id=142 user=alice product=sku_9908 status=200
+INFO checkout request_id=143 user=frank product=sku_2388 status=200
+INFO checkout request_id=144 user=bob product=sku_9908 status=200
+INFO checkout request_id=145 user=grace product=sku_1193 status=200
+INFO checkout request_id=146 user=carol product=sku_2388 status=200
+INFO checkout request_id=147 user=frank product=sku_2388 status=200
+INFO checkout request_id=148 user=grace product=sku_9908 status=200
+INFO checkout request_id=149 user=carol product=sku_1193 status=200
+INFO checkout request_id=14a user=frank product=sku_3301 status=200
+INFO checkout request_id=14b user=frank product=sku_7712 status=200
+INFO checkout request_id=14c user=erin product=sku_4421 status=200
+INFO checkout request_id=14d user=grace product=sku_4421 status=200
+INFO checkout request_id=14e user=erin product=sku_9908 status=200
+INFO checkout request_id=14f user=erin product=sku_7712 status=200
+INFO checkout request_id=150 user=bob product=sku_1193 status=200
+INFO checkout request_id=151 user=carol product=sku_7712 status=200
+INFO checkout request_id=152 user=bob product=sku_9908 status=200
+INFO checkout request_id=153 user=frank product=sku_4421 status=200
+INFO checkout request_id=154 user=dave product=sku_3301 status=200
+INFO checkout request_id=155 user=dave product=sku_3301 status=200
+INFO checkout request_id=156 user=frank product=sku_2388 status=200
+INFO checkout request_id=157 user=dave product=sku_9908 status=200
+INFO checkout request_id=158 user=grace product=sku_1193 status=200
+INFO checkout request_id=159 user=erin product=sku_3301 status=200
+INFO checkout request_id=15a user=alice product=sku_9908 status=200
+INFO checkout request_id=15b user=alice product=sku_2388 status=200
+INFO checkout request_id=15c user=frank product=sku_4421 status=200
+INFO checkout request_id=15d user=carol product=sku_3301 status=200
+INFO checkout request_id=15e user=alice product=sku_1193 status=200
+INFO checkout request_id=15f user=grace product=sku_9908 status=200
+INFO checkout request_id=160 user=grace product=sku_3301 status=200
+INFO checkout request_id=161 user=frank product=sku_3301 status=200
+INFO checkout request_id=162 user=alice product=sku_7712 status=200
+INFO checkout request_id=163 user=grace product=sku_1193 status=200
+INFO checkout request_id=164 user=grace product=sku_7712 status=200
+INFO checkout request_id=165 user=grace product=sku_7712 status=200
+INFO checkout request_id=166 user=dave product=sku_1193 status=200
+INFO checkout request_id=167 user=carol product=sku_7712 status=200
+INFO checkout request_id=168 user=bob product=sku_9908 status=200
+INFO checkout request_id=169 user=dave product=sku_1193 status=200
+INFO checkout request_id=16a user=alice product=sku_7712 status=200
+INFO checkout request_id=16b user=erin product=sku_9908 status=200
+INFO checkout request_id=16c user=dave product=sku_4421 status=200
+INFO checkout request_id=16d user=frank product=sku_2388 status=200
+INFO checkout request_id=16e user=carol product=sku_1193 status=200
+INFO checkout request_id=16f user=dave product=sku_3301 status=200
+INFO checkout request_id=170 user=erin product=sku_4421 status=200
+INFO checkout request_id=171 user=bob product=sku_9908 status=200
+INFO checkout request_id=172 user=dave product=sku_9908 status=200
+INFO checkout request_id=173 user=alice product=sku_4421 status=200
+INFO checkout request_id=174 user=frank product=sku_9908 status=200
+INFO checkout request_id=175 user=bob product=sku_2388 status=200
+INFO checkout request_id=176 user=bob product=sku_1193 status=200
+INFO checkout request_id=177 user=carol product=sku_1193 status=200
+INFO checkout request_id=178 user=erin product=sku_1193 status=200
+INFO checkout request_id=179 user=carol product=sku_2388 status=200
+INFO checkout request_id=17a user=erin product=sku_2388 status=200
+INFO checkout request_id=17b user=grace product=sku_3301 status=200
+INFO checkout request_id=17c user=dave product=sku_1193 status=200
+INFO checkout request_id=17d user=erin product=sku_2388 status=200
+INFO checkout request_id=17e user=dave product=sku_7712 status=200
+INFO checkout request_id=17f user=grace product=sku_4421 status=200
+INFO checkout request_id=180 user=grace product=sku_1193 status=200
+INFO checkout request_id=181 user=erin product=sku_7712 status=200
+INFO checkout request_id=182 user=bob product=sku_2388 status=200
+INFO checkout request_id=183 user=grace product=sku_4421 status=200
+INFO checkout request_id=184 user=grace product=sku_4421 status=200
+INFO checkout request_id=185 user=alice product=sku_9908 status=200
+INFO checkout request_id=186 user=frank product=sku_4421 status=200
+INFO checkout request_id=187 user=erin product=sku_2388 status=200
+INFO checkout request_id=188 user=frank product=sku_3301 status=200
+INFO checkout request_id=189 user=frank product=sku_1193 status=200
+INFO checkout request_id=18a user=alice product=sku_9908 status=200
+INFO checkout request_id=18b user=carol product=sku_9908 status=200
+INFO checkout request_id=18c user=grace product=sku_2388 status=200
+INFO checkout request_id=18d user=dave product=sku_9908 status=200
+INFO checkout request_id=18e user=frank product=sku_2388 status=200
+INFO checkout request_id=18f user=grace product=sku_9908 status=200
+INFO checkout request_id=190 user=carol product=sku_4421 status=200
+INFO checkout request_id=191 user=alice product=sku_7712 status=200
+INFO checkout request_id=192 user=frank product=sku_7712 status=200
+INFO checkout request_id=193 user=carol product=sku_2388 status=200
+INFO checkout request_id=194 user=erin product=sku_7712 status=200
+INFO checkout request_id=195 user=carol product=sku_3301 status=200
+INFO checkout request_id=196 user=frank product=sku_9908 status=200
+INFO checkout request_id=197 user=dave product=sku_4421 status=200
+INFO checkout request_id=198 user=frank product=sku_7712 status=200
+INFO checkout request_id=199 user=dave product=sku_1193 status=200
+INFO checkout request_id=19a user=erin product=sku_4421 status=200
+INFO checkout request_id=19b user=carol product=sku_3301 status=200
+INFO checkout request_id=19c user=erin product=sku_3301 status=200
+INFO checkout request_id=19d user=frank product=sku_3301 status=200
+INFO checkout request_id=19e user=erin product=sku_1193 status=200
+INFO checkout request_id=19f user=dave product=sku_9908 status=200
+INFO checkout request_id=1a0 user=grace product=sku_9908 status=200
+INFO checkout request_id=1a1 user=dave product=sku_3301 status=200
+INFO checkout request_id=1a2 user=frank product=sku_2388 status=200
+INFO checkout request_id=1a3 user=frank product=sku_1193 status=200
+INFO checkout request_id=1a4 user=dave product=sku_9908 status=200
+INFO checkout request_id=1a5 user=frank product=sku_9908 status=200
+INFO checkout request_id=1a6 user=bob product=sku_2388 status=200
+INFO checkout request_id=1a7 user=erin product=sku_4421 status=200
+INFO checkout request_id=1a8 user=frank product=sku_7712 status=200
+INFO checkout request_id=1a9 user=erin product=sku_7712 status=200
+INFO checkout request_id=1aa user=dave product=sku_2388 status=200
+INFO checkout request_id=1ab user=grace product=sku_9908 status=200
+INFO checkout request_id=1ac user=erin product=sku_3301 status=200
+INFO checkout request_id=1ad user=frank product=sku_3301 status=200
+INFO checkout request_id=1ae user=alice product=sku_7712 status=200
+INFO checkout request_id=1af user=frank product=sku_1193 status=200
+INFO checkout request_id=1b0 user=frank product=sku_3301 status=200
+INFO checkout request_id=1b1 user=carol product=sku_3301 status=200
+INFO checkout request_id=1b2 user=alice product=sku_7712 status=200
+INFO checkout request_id=1b3 user=frank product=sku_3301 status=200
+INFO checkout request_id=1b4 user=bob product=sku_3301 status=200
+INFO checkout request_id=1b5 user=grace product=sku_7712 status=200
+INFO checkout request_id=1b6 user=grace product=sku_2388 status=200
+INFO checkout request_id=1b7 user=grace product=sku_1193 status=200
+INFO checkout request_id=1b8 user=grace product=sku_4421 status=200
+INFO checkout request_id=1b9 user=grace product=sku_9908 status=200
+INFO checkout request_id=1ba user=alice product=sku_2388 status=200
+INFO checkout request_id=1bb user=carol product=sku_3301 status=200
+INFO checkout request_id=1bc user=dave product=sku_3301 status=200
+INFO checkout request_id=1bd user=erin product=sku_2388 status=200
+INFO checkout request_id=1be user=bob product=sku_7712 status=200
+INFO checkout request_id=1bf user=grace product=sku_2388 status=200
+INFO checkout request_id=1c0 user=dave product=sku_1193 status=200
+INFO checkout request_id=1c1 user=dave product=sku_9908 status=200
+INFO checkout request_id=1c2 user=alice product=sku_2388 status=200
+INFO checkout request_id=1c3 user=erin product=sku_4421 status=200
+INFO checkout request_id=1c4 user=frank product=sku_9908 status=200
+INFO checkout request_id=1c5 user=dave product=sku_4421 status=200
+INFO checkout request_id=1c6 user=carol product=sku_4421 status=200
+INFO checkout request_id=1c7 user=frank product=sku_7712 status=200
+INFO checkout request_id=1c8 user=alice product=sku_1193 status=200
+INFO checkout request_id=1c9 user=erin product=sku_3301 status=200
+INFO checkout request_id=1ca user=bob product=sku_3301 status=200
+INFO checkout request_id=1cb user=alice product=sku_7712 status=200
+INFO checkout request_id=1cc user=frank product=sku_3301 status=200
+INFO checkout request_id=1cd user=carol product=sku_9908 status=200
+INFO checkout request_id=1ce user=carol product=sku_1193 status=200
+INFO checkout request_id=1cf user=erin product=sku_1193 status=200
+INFO checkout request_id=1d0 user=bob product=sku_2388 status=200
+INFO checkout request_id=1d1 user=carol product=sku_4421 status=200
+INFO checkout request_id=1d2 user=alice product=sku_3301 status=200
+INFO checkout request_id=1d3 user=grace product=sku_9908 status=200
+INFO checkout request_id=1d4 user=frank product=sku_2388 status=200
+INFO checkout request_id=1d5 user=dave product=sku_9908 status=200
+INFO checkout request_id=1d6 user=erin product=sku_3301 status=200
+INFO checkout request_id=1d7 user=alice product=sku_1193 status=200
+INFO checkout request_id=1d8 user=carol product=sku_3301 status=200
+INFO checkout request_id=1d9 user=frank product=sku_3301 status=200
+INFO checkout request_id=1da user=grace product=sku_9908 status=200
+INFO checkout request_id=1db user=carol product=sku_2388 status=200
+INFO checkout request_id=1dc user=erin product=sku_3301 status=200
+INFO checkout request_id=1dd user=bob product=sku_7712 status=200
+INFO checkout request_id=1de user=erin product=sku_7712 status=200
+INFO checkout request_id=1df user=bob product=sku_7712 status=200
+INFO checkout request_id=1e0 user=grace product=sku_2388 status=200
+INFO checkout request_id=1e1 user=grace product=sku_9908 status=200
+INFO checkout request_id=1e2 user=carol product=sku_3301 status=200
+INFO checkout request_id=1e3 user=bob product=sku_2388 status=200
+INFO checkout request_id=1e4 user=erin product=sku_3301 status=200
+INFO checkout request_id=1e5 user=bob product=sku_3301 status=200
+INFO checkout request_id=1e6 user=alice product=sku_9908 status=200
+INFO checkout request_id=1e7 user=dave product=sku_2388 status=200
+INFO checkout request_id=1e8 user=dave product=sku_1193 status=200
+INFO checkout request_id=1e9 user=grace product=sku_2388 status=200
+INFO checkout request_id=1ea user=bob product=sku_4421 status=200
+INFO checkout request_id=1eb user=frank product=sku_3301 status=200
+INFO checkout request_id=1ec user=bob product=sku_9908 status=200
+INFO checkout request_id=1ed user=dave product=sku_9908 status=200
+INFO checkout request_id=1ee user=frank product=sku_1193 status=200
+INFO checkout request_id=1ef user=erin product=sku_2388 status=200
+INFO checkout request_id=1f0 user=dave product=sku_9908 status=200
+INFO checkout request_id=1f1 user=bob product=sku_1193 status=200
+INFO checkout request_id=1f2 user=grace product=sku_1193 status=200
+INFO checkout request_id=1f3 user=frank product=sku_7712 status=200
+INFO checkout request_id=1f4 user=carol product=sku_2388 status=200
+INFO checkout request_id=1f5 user=grace product=sku_7712 status=200
+INFO checkout request_id=1f6 user=bob product=sku_4421 status=200
+INFO checkout request_id=1f7 user=frank product=sku_1193 status=200
+INFO checkout request_id=1f8 user=frank product=sku_3301 status=200
+INFO checkout request_id=1f9 user=carol product=sku_4421 status=200
+INFO checkout request_id=1fa user=alice product=sku_1193 status=200
+INFO checkout request_id=1fb user=dave product=sku_2388 status=200
+INFO checkout request_id=1fc user=dave product=sku_4421 status=200
+INFO checkout request_id=1fd user=bob product=sku_4421 status=200
+INFO checkout request_id=1fe user=alice product=sku_9908 status=200
+INFO checkout request_id=1ff user=alice product=sku_1193 status=200
+INFO checkout request_id=200 user=frank product=sku_4421 status=200
+INFO checkout request_id=201 user=dave product=sku_3301 status=200
+INFO checkout request_id=202 user=erin product=sku_3301 status=200
+INFO checkout request_id=203 user=erin product=sku_7712 status=200
+INFO checkout request_id=204 user=carol product=sku_3301 status=200
+INFO checkout request_id=205 user=grace product=sku_2388 status=200
+INFO checkout request_id=206 user=alice product=sku_9908 status=200
+INFO checkout request_id=207 user=frank product=sku_1193 status=200
+INFO checkout request_id=208 user=alice product=sku_1193 status=200
+INFO checkout request_id=209 user=dave product=sku_1193 status=200
+INFO checkout request_id=20a user=dave product=sku_7712 status=200
+INFO checkout request_id=20b user=dave product=sku_1193 status=200
+INFO checkout request_id=20c user=bob product=sku_1193 status=200
+INFO checkout request_id=20d user=grace product=sku_2388 status=200
+INFO checkout request_id=20e user=dave product=sku_9908 status=200
+INFO checkout request_id=20f user=erin product=sku_7712 status=200
+INFO checkout request_id=210 user=bob product=sku_7712 status=200
+INFO checkout request_id=211 user=frank product=sku_2388 status=200
+INFO checkout request_id=212 user=carol product=sku_7712 status=200
+INFO checkout request_id=213 user=erin product=sku_4421 status=200
+INFO checkout request_id=214 user=bob product=sku_4421 status=200
+INFO checkout request_id=215 user=alice product=sku_4421 status=200
+INFO checkout request_id=216 user=grace product=sku_4421 status=200
+INFO checkout request_id=217 user=grace product=sku_7712 status=200
+INFO checkout request_id=218 user=carol product=sku_7712 status=200
+INFO checkout request_id=219 user=grace product=sku_9908 status=200
+INFO checkout request_id=21a user=carol product=sku_1193 status=200
+INFO checkout request_id=21b user=dave product=sku_1193 status=200
+INFO checkout request_id=21c user=grace product=sku_3301 status=200
+INFO checkout request_id=21d user=bob product=sku_4421 status=200
+INFO checkout request_id=21e user=alice product=sku_7712 status=200
+INFO checkout request_id=21f user=bob product=sku_3301 status=200
+INFO checkout request_id=220 user=erin product=sku_4421 status=200
+INFO checkout request_id=221 user=erin product=sku_7712 status=200
+INFO checkout request_id=222 user=carol product=sku_1193 status=200
+INFO checkout request_id=223 user=alice product=sku_7712 status=200
+INFO checkout request_id=224 user=frank product=sku_2388 status=200
+INFO checkout request_id=225 user=alice product=sku_4421 status=200
+INFO checkout request_id=226 user=erin product=sku_4421 status=200
+INFO checkout request_id=227 user=erin product=sku_1193 status=200
+INFO checkout request_id=228 user=alice product=sku_2388 status=200
+INFO checkout request_id=229 user=grace product=sku_4421 status=200
+INFO checkout request_id=22a user=dave product=sku_4421 status=200
+INFO checkout request_id=22b user=bob product=sku_4421 status=200
+INFO checkout request_id=22c user=dave product=sku_3301 status=200
+INFO checkout request_id=22d user=bob product=sku_3301 status=200
+INFO checkout request_id=22e user=carol product=sku_3301 status=200
+INFO checkout request_id=22f user=grace product=sku_1193 status=200
+INFO checkout request_id=230 user=frank product=sku_7712 status=200
+INFO checkout request_id=231 user=dave product=sku_2388 status=200
+INFO checkout request_id=232 user=frank product=sku_2388 status=200
+INFO checkout request_id=233 user=carol product=sku_3301 status=200
+INFO checkout request_id=234 user=frank product=sku_1193 status=200
+INFO checkout request_id=235 user=bob product=sku_4421 status=200
+INFO checkout request_id=236 user=erin product=sku_9908 status=200
+INFO checkout request_id=237 user=bob product=sku_2388 status=200
+INFO checkout request_id=238 user=dave product=sku_9908 status=200
+INFO checkout request_id=239 user=frank product=sku_9908 status=200
+INFO checkout request_id=23a user=frank product=sku_9908 status=200
+INFO checkout request_id=23b user=alice product=sku_2388 status=200
+INFO checkout request_id=23c user=erin product=sku_7712 status=200
+INFO checkout request_id=23d user=erin product=sku_1193 status=200
+INFO checkout request_id=23e user=frank product=sku_9908 status=200
+INFO checkout request_id=23f user=dave product=sku_3301 status=200
+INFO checkout request_id=240 user=alice product=sku_3301 status=200
+INFO checkout request_id=241 user=carol product=sku_3301 status=200
+INFO checkout request_id=242 user=erin product=sku_3301 status=200
+INFO checkout request_id=243 user=grace product=sku_4421 status=200
+INFO checkout request_id=244 user=carol product=sku_1193 status=200
+INFO checkout request_id=245 user=alice product=sku_1193 status=200
+INFO checkout request_id=246 user=alice product=sku_1193 status=200
+INFO checkout request_id=247 user=grace product=sku_7712 status=200
+INFO checkout request_id=248 user=grace product=sku_4421 status=200
+INFO checkout request_id=249 user=alice product=sku_3301 status=200
+INFO checkout request_id=24a user=alice product=sku_9908 status=200
+INFO checkout request_id=24b user=dave product=sku_9908 status=200
+INFO checkout request_id=24c user=carol product=sku_4421 status=200
+INFO checkout request_id=24d user=carol product=sku_4421 status=200
+INFO checkout request_id=24e user=bob product=sku_9908 status=200
+INFO checkout request_id=24f user=alice product=sku_7712 status=200
+INFO checkout request_id=250 user=frank product=sku_1193 status=200
+INFO checkout request_id=251 user=dave product=sku_3301 status=200
+INFO checkout request_id=252 user=dave product=sku_4421 status=200
+INFO checkout request_id=253 user=frank product=sku_9908 status=200
+INFO checkout request_id=254 user=carol product=sku_4421 status=200
+INFO checkout request_id=255 user=carol product=sku_2388 status=200
+INFO checkout request_id=256 user=alice product=sku_2388 status=200
+INFO checkout request_id=257 user=alice product=sku_7712 status=200
+INFO checkout request_id=258 user=alice product=sku_3301 status=200
+INFO checkout request_id=259 user=carol product=sku_2388 status=200
+INFO checkout request_id=25a user=frank product=sku_1193 status=200
+INFO checkout request_id=25b user=carol product=sku_7712 status=200
+INFO checkout request_id=25c user=grace product=sku_4421 status=200
+INFO checkout request_id=25d user=grace product=sku_3301 status=200
+INFO checkout request_id=25e user=carol product=sku_4421 status=200
+INFO checkout request_id=25f user=dave product=sku_1193 status=200
+INFO checkout request_id=260 user=erin product=sku_9908 status=200
+INFO checkout request_id=261 user=bob product=sku_2388 status=200
+INFO checkout request_id=262 user=carol product=sku_9908 status=200
+INFO checkout request_id=263 user=grace product=sku_7712 status=200
+INFO checkout request_id=264 user=erin product=sku_7712 status=200
+INFO checkout request_id=265 user=alice product=sku_1193 status=200
+INFO checkout request_id=266 user=frank product=sku_7712 status=200
+INFO checkout request_id=267 user=erin product=sku_9908 status=200
+INFO checkout request_id=268 user=frank product=sku_9908 status=200
+INFO checkout request_id=269 user=frank product=sku_9908 status=200
+INFO checkout request_id=26a user=erin product=sku_4421 status=200
+INFO checkout request_id=26b user=grace product=sku_2388 status=200
+INFO checkout request_id=26c user=frank product=sku_1193 status=200
+INFO checkout request_id=26d user=bob product=sku_2388 status=200
+INFO checkout request_id=26e user=dave product=sku_9908 status=200
+INFO checkout request_id=26f user=carol product=sku_4421 status=200
+INFO checkout request_id=270 user=dave product=sku_2388 status=200
+INFO checkout request_id=271 user=bob product=sku_9908 status=200
+INFO checkout request_id=272 user=alice product=sku_4421 status=200
+INFO checkout request_id=273 user=carol product=sku_3301 status=200
+INFO checkout request_id=274 user=erin product=sku_2388 status=200
+INFO checkout request_id=275 user=dave product=sku_2388 status=200
+INFO checkout request_id=276 user=carol product=sku_2388 status=200
+INFO checkout request_id=277 user=carol product=sku_2388 status=200
+INFO checkout request_id=278 user=frank product=sku_3301 status=200
+INFO checkout request_id=279 user=erin product=sku_9908 status=200
+INFO checkout request_id=27a user=alice product=sku_9908 status=200
+INFO checkout request_id=27b user=alice product=sku_1193 status=200
+INFO checkout request_id=27c user=carol product=sku_3301 status=200
+INFO checkout request_id=27d user=carol product=sku_2388 status=200
+INFO checkout request_id=27e user=erin product=sku_4421 status=200
+INFO checkout request_id=27f user=dave product=sku_2388 status=200
+INFO checkout request_id=280 user=dave product=sku_7712 status=200
+INFO checkout request_id=281 user=carol product=sku_3301 status=200
+INFO checkout request_id=282 user=dave product=sku_4421 status=200
+INFO checkout request_id=283 user=erin product=sku_4421 status=200
+INFO checkout request_id=284 user=bob product=sku_4421 status=200
+INFO checkout request_id=285 user=erin product=sku_7712 status=200
+INFO checkout request_id=286 user=erin product=sku_2388 status=200
+INFO checkout request_id=287 user=grace product=sku_1193 status=200
+INFO checkout request_id=288 user=frank product=sku_9908 status=200
+INFO checkout request_id=289 user=frank product=sku_2388 status=200
+INFO checkout request_id=28a user=carol product=sku_3301 status=200
+INFO checkout request_id=28b user=carol product=sku_7712 status=200
+INFO checkout request_id=28c user=carol product=sku_7712 status=200
+INFO checkout request_id=28d user=erin product=sku_2388 status=200
+INFO checkout request_id=28e user=erin product=sku_9908 status=200
+INFO checkout request_id=28f user=bob product=sku_4421 status=200
+INFO checkout request_id=290 user=bob product=sku_2388 status=200
+INFO checkout request_id=291 user=frank product=sku_1193 status=200
+INFO checkout request_id=292 user=erin product=sku_1193 status=200
+INFO checkout request_id=293 user=alice product=sku_1193 status=200
+INFO checkout request_id=294 user=grace product=sku_7712 status=200
+INFO checkout request_id=295 user=frank product=sku_9908 status=200
+INFO checkout request_id=296 user=alice product=sku_4421 status=200
+INFO checkout request_id=297 user=erin product=sku_3301 status=200
+INFO checkout request_id=298 user=carol product=sku_3301 status=200
+INFO checkout request_id=299 user=alice product=sku_1193 status=200
+INFO checkout request_id=29a user=carol product=sku_4421 status=200
+INFO checkout request_id=29b user=frank product=sku_9908 status=200
+INFO checkout request_id=29c user=erin product=sku_3301 status=200
+INFO checkout request_id=29d user=alice product=sku_4421 status=200
+INFO checkout request_id=29e user=grace product=sku_1193 status=200
+INFO checkout request_id=29f user=frank product=sku_1193 status=200
+INFO checkout request_id=2a0 user=erin product=sku_7712 status=200
+INFO checkout request_id=2a1 user=alice product=sku_9908 status=200
+INFO checkout request_id=2a2 user=carol product=sku_7712 status=200
+INFO checkout request_id=2a3 user=frank product=sku_2388 status=200
+INFO checkout request_id=2a4 user=bob product=sku_1193 status=200
+INFO checkout request_id=2a5 user=erin product=sku_7712 status=200
+INFO checkout request_id=2a6 user=grace product=sku_1193 status=200
+INFO checkout request_id=2a7 user=dave product=sku_7712 status=200
+INFO checkout request_id=2a8 user=frank product=sku_2388 status=200
+INFO checkout request_id=2a9 user=erin product=sku_1193 status=200
+INFO checkout request_id=2aa user=grace product=sku_7712 status=200
+INFO checkout request_id=2ab user=frank product=sku_4421 status=200
+INFO checkout request_id=2ac user=grace product=sku_2388 status=200
+INFO checkout request_id=2ad user=dave product=sku_1193 status=200
+INFO checkout request_id=2ae user=alice product=sku_3301 status=200
+INFO checkout request_id=2af user=erin product=sku_7712 status=200
+INFO checkout request_id=2b0 user=erin product=sku_7712 status=200
+INFO checkout request_id=2b1 user=alice product=sku_7712 status=200
+INFO checkout request_id=2b2 user=erin product=sku_9908 status=200
+INFO checkout request_id=2b3 user=grace product=sku_9908 status=200
+INFO checkout request_id=2b4 user=erin product=sku_7712 status=200
+INFO checkout request_id=2b5 user=alice product=sku_2388 status=200
+INFO checkout request_id=2b6 user=grace product=sku_7712 status=200
+INFO checkout request_id=2b7 user=alice product=sku_1193 status=200
+INFO checkout request_id=2b8 user=carol product=sku_3301 status=200
+INFO checkout request_id=2b9 user=frank product=sku_3301 status=200
+INFO checkout request_id=2ba user=alice product=sku_9908 status=200
+INFO checkout request_id=2bb user=alice product=sku_2388 status=200
+INFO checkout request_id=2bc user=erin product=sku_3301 status=200
+INFO checkout request_id=2bd user=carol product=sku_9908 status=200
+INFO checkout request_id=2be user=frank product=sku_9908 status=200
+INFO checkout request_id=2bf user=erin product=sku_2388 status=200
+INFO checkout request_id=2c0 user=erin product=sku_7712 status=200
+INFO checkout request_id=2c1 user=erin product=sku_9908 status=200
+INFO checkout request_id=2c2 user=dave product=sku_9908 status=200
+INFO checkout request_id=2c3 user=frank product=sku_9908 status=200
+INFO checkout request_id=2c4 user=carol product=sku_7712 status=200
+INFO checkout request_id=2c5 user=carol product=sku_1193 status=200
+INFO checkout request_id=2c6 user=erin product=sku_7712 status=200
+INFO checkout request_id=2c7 user=erin product=sku_1193 status=200
+INFO checkout request_id=2c8 user=erin product=sku_1193 status=200
+INFO checkout request_id=2c9 user=carol product=sku_3301 status=200
+INFO checkout request_id=2ca user=alice product=sku_7712 status=200
+INFO checkout request_id=2cb user=frank product=sku_3301 status=200
+INFO checkout request_id=2cc user=erin product=sku_4421 status=200
+INFO checkout request_id=2cd user=carol product=sku_7712 status=200
+INFO checkout request_id=2ce user=dave product=sku_2388 status=200
+INFO checkout request_id=2cf user=frank product=sku_3301 status=200
+INFO checkout request_id=2d0 user=alice product=sku_4421 status=200
+INFO checkout request_id=2d1 user=alice product=sku_4421 status=200
+INFO checkout request_id=2d2 user=dave product=sku_2388 status=200
+INFO checkout request_id=2d3 user=dave product=sku_2388 status=200
+INFO checkout request_id=2d4 user=grace product=sku_2388 status=200
+INFO checkout request_id=2d5 user=frank product=sku_3301 status=200
+INFO checkout request_id=2d6 user=grace product=sku_7712 status=200
+INFO checkout request_id=2d7 user=grace product=sku_2388 status=200
+INFO checkout request_id=2d8 user=dave product=sku_7712 status=200
+INFO checkout request_id=2d9 user=grace product=sku_4421 status=200
+INFO checkout request_id=2da user=dave product=sku_2388 status=200
+INFO checkout request_id=2db user=bob product=sku_7712 status=200
+INFO checkout request_id=2dc user=bob product=sku_4421 status=200
+INFO checkout request_id=2dd user=bob product=sku_2388 status=200
+INFO checkout request_id=2de user=carol product=sku_1193 status=200
+INFO checkout request_id=2df user=erin product=sku_2388 status=200
+INFO checkout request_id=2e0 user=dave product=sku_2388 status=200
+INFO checkout request_id=2e1 user=erin product=sku_2388 status=200
+INFO checkout request_id=2e2 user=frank product=sku_7712 status=200
+INFO checkout request_id=2e3 user=frank product=sku_2388 status=200
+INFO checkout request_id=2e4 user=dave product=sku_2388 status=200
+INFO checkout request_id=2e5 user=grace product=sku_7712 status=200
+INFO checkout request_id=2e6 user=bob product=sku_3301 status=200
+INFO checkout request_id=2e7 user=grace product=sku_7712 status=200
+INFO checkout request_id=2e8 user=dave product=sku_3301 status=200
+INFO checkout request_id=2e9 user=dave product=sku_4421 status=200
+INFO checkout request_id=2ea user=alice product=sku_1193 status=200
+INFO checkout request_id=2eb user=bob product=sku_1193 status=200
+INFO checkout request_id=2ec user=bob product=sku_3301 status=200
+INFO checkout request_id=2ed user=alice product=sku_4421 status=200
+INFO checkout request_id=2ee user=carol product=sku_1193 status=200
+INFO checkout request_id=2ef user=dave product=sku_4421 status=200
+INFO checkout request_id=2f0 user=dave product=sku_3301 status=200
+INFO checkout request_id=2f1 user=frank product=sku_1193 status=200
+INFO checkout request_id=2f2 user=grace product=sku_4421 status=200
+INFO checkout request_id=2f3 user=alice product=sku_7712 status=200
+INFO checkout request_id=2f4 user=erin product=sku_4421 status=200
+INFO checkout request_id=2f5 user=erin product=sku_1193 status=200
+INFO checkout request_id=2f6 user=erin product=sku_7712 status=200
+INFO checkout request_id=2f7 user=carol product=sku_4421 status=200
+INFO checkout request_id=2f8 user=frank product=sku_4421 status=200
+INFO checkout request_id=2f9 user=frank product=sku_9908 status=200
+INFO checkout request_id=2fa user=frank product=sku_7712 status=200
+INFO checkout request_id=2fb user=grace product=sku_3301 status=200
+INFO checkout request_id=2fc user=frank product=sku_4421 status=200
+INFO checkout request_id=2fd user=carol product=sku_3301 status=200
+INFO checkout request_id=2fe user=carol product=sku_1193 status=200
+INFO checkout request_id=2ff user=dave product=sku_3301 status=200
+INFO checkout request_id=300 user=grace product=sku_4421 status=200
+INFO checkout request_id=301 user=grace product=sku_1193 status=200
+INFO checkout request_id=302 user=frank product=sku_3301 status=200
+INFO checkout request_id=303 user=alice product=sku_7712 status=200
+INFO checkout request_id=304 user=alice product=sku_3301 status=200
+INFO checkout request_id=305 user=dave product=sku_2388 status=200
+INFO checkout request_id=306 user=frank product=sku_9908 status=200
+INFO checkout request_id=307 user=dave product=sku_7712 status=200
+INFO checkout request_id=308 user=alice product=sku_9908 status=200
+INFO checkout request_id=309 user=grace product=sku_7712 status=200
+INFO checkout request_id=30a user=alice product=sku_1193 status=200
+INFO checkout request_id=30b user=dave product=sku_9908 status=200
+INFO checkout request_id=30c user=frank product=sku_1193 status=200
+INFO checkout request_id=30d user=bob product=sku_9908 status=200
+INFO checkout request_id=30e user=carol product=sku_7712 status=200
+INFO checkout request_id=30f user=frank product=sku_9908 status=200
+INFO checkout request_id=310 user=carol product=sku_7712 status=200
+INFO checkout request_id=311 user=frank product=sku_9908 status=200
+INFO checkout request_id=312 user=bob product=sku_9908 status=200
+INFO checkout request_id=313 user=carol product=sku_7712 status=200
+INFO checkout request_id=314 user=alice product=sku_4421 status=200
+INFO checkout request_id=315 user=grace product=sku_3301 status=200
+INFO checkout request_id=316 user=frank product=sku_2388 status=200
+INFO checkout request_id=317 user=frank product=sku_2388 status=200
+INFO checkout request_id=318 user=alice product=sku_9908 status=200
+INFO checkout request_id=319 user=frank product=sku_7712 status=200
+INFO checkout request_id=31a user=carol product=sku_4421 status=200
+INFO checkout request_id=31b user=bob product=sku_9908 status=200
+INFO checkout request_id=31c user=carol product=sku_2388 status=200
+INFO checkout request_id=31d user=frank product=sku_1193 status=200
+INFO checkout request_id=31e user=dave product=sku_1193 status=200
+INFO checkout request_id=31f user=bob product=sku_2388 status=200
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=114
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=153
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=171
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=163
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=24
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=146
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=165
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=140
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=48
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=115
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=79
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=81
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=132
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=188
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=88
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=78
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=135
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=64
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=137
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=104
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=163
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=130
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=71
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=96
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=55
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=165
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=56
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=199
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=158
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=187
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=125
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=146
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=48
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=24
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=139
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=93
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=145
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=186
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=44
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=175
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=64
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=90
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=169
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=136
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=132
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=94
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=40
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=42
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=45
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=188
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=75
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=67
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=32
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=172
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=147
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=189
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=22
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=154
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=54
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=185
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=39
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=67
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=154
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=61
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=138
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=155
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=178
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=88
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=118
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=93
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=11
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=15
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=88
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=167
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=66
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=31
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=200
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=67
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=81
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=184
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=170
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=97
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=78
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=163
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=194
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=142
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=107
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=15
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=41
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=94
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=98
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=45
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=39
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=74
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=46
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=184
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=156
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=20
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=98
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=29
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=33
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=195
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=36
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=86
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=91
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=73
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=78
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=145
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=22
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=102
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=17
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=30
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=45
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=112
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=105
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=194
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=173
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=186
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=71
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=34
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=183
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=94
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=80
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=12
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=141
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=92
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=38
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=100
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=174
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=195
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=42
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=165
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=79
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=113
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=33
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=183
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=157
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=168
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=195
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=145
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=131
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=154
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=117
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=147
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=110
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=87
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=66
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=171
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=87
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+ERROR database connection refused pool exhausted retry=1 trace_id=1067
+ERROR database connection refused pool exhausted retry=2 trace_id=1067
+ERROR database connection refused pool exhausted retry=3 trace_id=1067
+WARN circuit_breaker open route=/checkout requests_dropped=150
+INFO checkout request_id=0 user=bob product=sku_4421 status=200
+INFO checkout request_id=1 user=erin product=sku_9908 status=200
+INFO checkout request_id=2 user=alice product=sku_1193 status=200
+INFO checkout request_id=3 user=bob product=sku_1193 status=200
+INFO checkout request_id=4 user=dave product=sku_2388 status=200
+INFO checkout request_id=5 user=erin product=sku_4421 status=200
+INFO checkout request_id=6 user=carol product=sku_9908 status=200
+INFO checkout request_id=7 user=carol product=sku_9908 status=200
+INFO checkout request_id=8 user=carol product=sku_7712 status=200
+INFO checkout request_id=9 user=bob product=sku_7712 status=200
+INFO checkout request_id=a user=frank product=sku_4421 status=200
+INFO checkout request_id=b user=frank product=sku_2388 status=200
+INFO checkout request_id=c user=alice product=sku_3301 status=200
+INFO checkout request_id=d user=erin product=sku_2388 status=200
+INFO checkout request_id=e user=erin product=sku_9908 status=200
+INFO checkout request_id=f user=grace product=sku_3301 status=200
+INFO checkout request_id=10 user=erin product=sku_3301 status=200
+INFO checkout request_id=11 user=erin product=sku_4421 status=200
+INFO checkout request_id=12 user=erin product=sku_2388 status=200
+INFO checkout request_id=13 user=dave product=sku_3301 status=200
+INFO checkout request_id=14 user=bob product=sku_1193 status=200
+INFO checkout request_id=15 user=alice product=sku_9908 status=200
+INFO checkout request_id=16 user=bob product=sku_3301 status=200
+INFO checkout request_id=17 user=grace product=sku_1193 status=200
+INFO checkout request_id=18 user=dave product=sku_2388 status=200
+INFO checkout request_id=19 user=carol product=sku_2388 status=200
+INFO checkout request_id=1a user=bob product=sku_1193 status=200
+INFO checkout request_id=1b user=grace product=sku_7712 status=200
+INFO checkout request_id=1c user=grace product=sku_7712 status=200
+INFO checkout request_id=1d user=dave product=sku_4421 status=200
+INFO checkout request_id=1e user=erin product=sku_1193 status=200
+INFO checkout request_id=1f user=carol product=sku_2388 status=200
+INFO checkout request_id=20 user=frank product=sku_3301 status=200
+INFO checkout request_id=21 user=grace product=sku_3301 status=200
+INFO checkout request_id=22 user=erin product=sku_4421 status=200
+INFO checkout request_id=23 user=erin product=sku_4421 status=200
+INFO checkout request_id=24 user=grace product=sku_3301 status=200
+INFO checkout request_id=25 user=bob product=sku_7712 status=200
+INFO checkout request_id=26 user=frank product=sku_9908 status=200
+INFO checkout request_id=27 user=alice product=sku_7712 status=200
+INFO checkout request_id=28 user=alice product=sku_7712 status=200
+INFO checkout request_id=29 user=erin product=sku_3301 status=200
+INFO checkout request_id=2a user=dave product=sku_2388 status=200
+INFO checkout request_id=2b user=carol product=sku_7712 status=200
+INFO checkout request_id=2c user=dave product=sku_9908 status=200
+INFO checkout request_id=2d user=dave product=sku_4421 status=200
+INFO checkout request_id=2e user=alice product=sku_7712 status=200
+INFO checkout request_id=2f user=grace product=sku_4421 status=200
+INFO checkout request_id=30 user=frank product=sku_3301 status=200
+INFO checkout request_id=31 user=frank product=sku_4421 status=200
+INFO checkout request_id=32 user=grace product=sku_4421 status=200
+INFO checkout request_id=33 user=grace product=sku_4421 status=200
+INFO checkout request_id=34 user=erin product=sku_1193 status=200
+INFO checkout request_id=35 user=erin product=sku_9908 status=200
+INFO checkout request_id=36 user=grace product=sku_2388 status=200
+INFO checkout request_id=37 user=erin product=sku_2388 status=200
+INFO checkout request_id=38 user=grace product=sku_9908 status=200
+INFO checkout request_id=39 user=frank product=sku_2388 status=200
+INFO checkout request_id=3a user=grace product=sku_7712 status=200
+INFO checkout request_id=3b user=grace product=sku_3301 status=200
+INFO checkout request_id=3c user=bob product=sku_9908 status=200
+INFO checkout request_id=3d user=bob product=sku_4421 status=200
+INFO checkout request_id=3e user=erin product=sku_2388 status=200
+INFO checkout request_id=3f user=grace product=sku_1193 status=200
+INFO checkout request_id=40 user=alice product=sku_4421 status=200
+INFO checkout request_id=41 user=frank product=sku_2388 status=200
+INFO checkout request_id=42 user=dave product=sku_3301 status=200
+INFO checkout request_id=43 user=carol product=sku_2388 status=200
+INFO checkout request_id=44 user=frank product=sku_3301 status=200
+INFO checkout request_id=45 user=grace product=sku_4421 status=200
+INFO checkout request_id=46 user=erin product=sku_7712 status=200
+INFO checkout request_id=47 user=dave product=sku_7712 status=200
+INFO checkout request_id=48 user=carol product=sku_2388 status=200
+INFO checkout request_id=49 user=grace product=sku_2388 status=200
+INFO checkout request_id=4a user=dave product=sku_3301 status=200
+INFO checkout request_id=4b user=bob product=sku_3301 status=200
+INFO checkout request_id=4c user=erin product=sku_9908 status=200
+INFO checkout request_id=4d user=bob product=sku_4421 status=200
+INFO checkout request_id=4e user=carol product=sku_3301 status=200
+INFO checkout request_id=4f user=alice product=sku_9908 status=200
+INFO checkout request_id=50 user=bob product=sku_9908 status=200
+INFO checkout request_id=51 user=frank product=sku_3301 status=200
+INFO checkout request_id=52 user=dave product=sku_2388 status=200
+INFO checkout request_id=53 user=grace product=sku_3301 status=200
+INFO checkout request_id=54 user=alice product=sku_9908 status=200
+INFO checkout request_id=55 user=alice product=sku_7712 status=200
+INFO checkout request_id=56 user=bob product=sku_7712 status=200
+INFO checkout request_id=57 user=frank product=sku_1193 status=200
+INFO checkout request_id=58 user=dave product=sku_3301 status=200
+INFO checkout request_id=59 user=bob product=sku_4421 status=200
+INFO checkout request_id=5a user=bob product=sku_2388 status=200
+INFO checkout request_id=5b user=carol product=sku_3301 status=200
+INFO checkout request_id=5c user=bob product=sku_3301 status=200
+INFO checkout request_id=5d user=dave product=sku_3301 status=200
+INFO checkout request_id=5e user=dave product=sku_2388 status=200
+INFO checkout request_id=5f user=dave product=sku_3301 status=200
+INFO checkout request_id=60 user=grace product=sku_3301 status=200
+INFO checkout request_id=61 user=frank product=sku_1193 status=200
+INFO checkout request_id=62 user=dave product=sku_7712 status=200
+INFO checkout request_id=63 user=dave product=sku_9908 status=200
+INFO checkout request_id=64 user=alice product=sku_9908 status=200
+INFO checkout request_id=65 user=dave product=sku_2388 status=200
+INFO checkout request_id=66 user=grace product=sku_1193 status=200
+INFO checkout request_id=67 user=bob product=sku_4421 status=200
+INFO checkout request_id=68 user=dave product=sku_7712 status=200
+INFO checkout request_id=69 user=alice product=sku_4421 status=200
+INFO checkout request_id=6a user=frank product=sku_4421 status=200
+INFO checkout request_id=6b user=bob product=sku_7712 status=200
+INFO checkout request_id=6c user=grace product=sku_7712 status=200
+INFO checkout request_id=6d user=frank product=sku_9908 status=200
+INFO checkout request_id=6e user=grace product=sku_2388 status=200
+INFO checkout request_id=6f user=bob product=sku_1193 status=200
+INFO checkout request_id=70 user=erin product=sku_4421 status=200
+INFO checkout request_id=71 user=carol product=sku_4421 status=200
+INFO checkout request_id=72 user=dave product=sku_7712 status=200
+INFO checkout request_id=73 user=grace product=sku_3301 status=200
+INFO checkout request_id=74 user=frank product=sku_3301 status=200
+INFO checkout request_id=75 user=grace product=sku_1193 status=200
+INFO checkout request_id=76 user=erin product=sku_3301 status=200
+INFO checkout request_id=77 user=dave product=sku_4421 status=200
+INFO checkout request_id=78 user=erin product=sku_1193 status=200
+INFO checkout request_id=79 user=dave product=sku_1193 status=200
+INFO checkout request_id=7a user=frank product=sku_1193 status=200
+INFO checkout request_id=7b user=carol product=sku_3301 status=200
+INFO checkout request_id=7c user=bob product=sku_4421 status=200
+INFO checkout request_id=7d user=grace product=sku_9908 status=200
+INFO checkout request_id=7e user=erin product=sku_1193 status=200
+INFO checkout request_id=7f user=bob product=sku_7712 status=200
+INFO checkout request_id=80 user=erin product=sku_4421 status=200
+INFO checkout request_id=81 user=erin product=sku_1193 status=200
+INFO checkout request_id=82 user=dave product=sku_1193 status=200
+INFO checkout request_id=83 user=grace product=sku_4421 status=200
+INFO checkout request_id=84 user=erin product=sku_3301 status=200
+INFO checkout request_id=85 user=bob product=sku_3301 status=200
+INFO checkout request_id=86 user=erin product=sku_3301 status=200
+INFO checkout request_id=87 user=erin product=sku_3301 status=200
+INFO checkout request_id=88 user=erin product=sku_4421 status=200
+INFO checkout request_id=89 user=bob product=sku_7712 status=200
+INFO checkout request_id=8a user=grace product=sku_7712 status=200
+INFO checkout request_id=8b user=alice product=sku_9908 status=200
+INFO checkout request_id=8c user=frank product=sku_4421 status=200
+INFO checkout request_id=8d user=dave product=sku_4421 status=200
+INFO checkout request_id=8e user=erin product=sku_4421 status=200
+INFO checkout request_id=8f user=frank product=sku_7712 status=200
+INFO checkout request_id=90 user=alice product=sku_9908 status=200
+INFO checkout request_id=91 user=bob product=sku_4421 status=200
+INFO checkout request_id=92 user=alice product=sku_2388 status=200
+INFO checkout request_id=93 user=dave product=sku_2388 status=200
+INFO checkout request_id=94 user=frank product=sku_7712 status=200
+INFO checkout request_id=95 user=bob product=sku_9908 status=200
+INFO checkout request_id=96 user=bob product=sku_9908 status=200
+INFO checkout request_id=97 user=frank product=sku_2388 status=200
+INFO checkout request_id=98 user=grace product=sku_9908 status=200
+INFO checkout request_id=99 user=frank product=sku_7712 status=200
+INFO checkout request_id=9a user=erin product=sku_7712 status=200
+INFO checkout request_id=9b user=erin product=sku_1193 status=200
+INFO checkout request_id=9c user=frank product=sku_7712 status=200
+INFO checkout request_id=9d user=frank product=sku_7712 status=200
+INFO checkout request_id=9e user=grace product=sku_1193 status=200
+INFO checkout request_id=9f user=dave product=sku_2388 status=200
+INFO checkout request_id=a0 user=carol product=sku_1193 status=200
+INFO checkout request_id=a1 user=carol product=sku_9908 status=200
+INFO checkout request_id=a2 user=carol product=sku_1193 status=200
+INFO checkout request_id=a3 user=grace product=sku_3301 status=200
+INFO checkout request_id=a4 user=erin product=sku_4421 status=200
+INFO checkout request_id=a5 user=frank product=sku_2388 status=200
+INFO checkout request_id=a6 user=carol product=sku_1193 status=200
+INFO checkout request_id=a7 user=carol product=sku_2388 status=200
+INFO checkout request_id=a8 user=carol product=sku_2388 status=200
+INFO checkout request_id=a9 user=dave product=sku_2388 status=200
+INFO checkout request_id=aa user=erin product=sku_7712 status=200
+INFO checkout request_id=ab user=alice product=sku_1193 status=200
+INFO checkout request_id=ac user=bob product=sku_2388 status=200
+INFO checkout request_id=ad user=bob product=sku_1193 status=200
+INFO checkout request_id=ae user=alice product=sku_9908 status=200
+INFO checkout request_id=af user=erin product=sku_9908 status=200
+INFO checkout request_id=b0 user=bob product=sku_9908 status=200
+INFO checkout request_id=b1 user=dave product=sku_3301 status=200
+INFO checkout request_id=b2 user=grace product=sku_1193 status=200
+INFO checkout request_id=b3 user=erin product=sku_1193 status=200
+INFO checkout request_id=b4 user=erin product=sku_7712 status=200
+INFO checkout request_id=b5 user=dave product=sku_3301 status=200
+INFO checkout request_id=b6 user=bob product=sku_4421 status=200
+INFO checkout request_id=b7 user=frank product=sku_4421 status=200
+INFO checkout request_id=b8 user=bob product=sku_3301 status=200
+INFO checkout request_id=b9 user=alice product=sku_4421 status=200
+INFO checkout request_id=ba user=frank product=sku_7712 status=200
+INFO checkout request_id=bb user=dave product=sku_7712 status=200
+INFO checkout request_id=bc user=frank product=sku_1193 status=200
+INFO checkout request_id=bd user=erin product=sku_9908 status=200
+INFO checkout request_id=be user=bob product=sku_3301 status=200
+INFO checkout request_id=bf user=erin product=sku_9908 status=200
+INFO checkout request_id=c0 user=alice product=sku_1193 status=200
+INFO checkout request_id=c1 user=grace product=sku_7712 status=200
+INFO checkout request_id=c2 user=bob product=sku_2388 status=200
+INFO checkout request_id=c3 user=bob product=sku_3301 status=200
+INFO checkout request_id=c4 user=frank product=sku_7712 status=200
+INFO checkout request_id=c5 user=carol product=sku_3301 status=200
+INFO checkout request_id=c6 user=grace product=sku_1193 status=200
+INFO checkout request_id=c7 user=bob product=sku_2388 status=200
+INFO checkout request_id=c8 user=frank product=sku_1193 status=200
+INFO checkout request_id=c9 user=carol product=sku_7712 status=200
+INFO checkout request_id=ca user=erin product=sku_2388 status=200
+INFO checkout request_id=cb user=alice product=sku_9908 status=200
+INFO checkout request_id=cc user=grace product=sku_2388 status=200
+INFO checkout request_id=cd user=bob product=sku_3301 status=200
+INFO checkout request_id=ce user=dave product=sku_4421 status=200
+INFO checkout request_id=cf user=carol product=sku_9908 status=200
+INFO checkout request_id=d0 user=erin product=sku_4421 status=200
+INFO checkout request_id=d1 user=erin product=sku_2388 status=200
+INFO checkout request_id=d2 user=grace product=sku_7712 status=200
+INFO checkout request_id=d3 user=carol product=sku_9908 status=200
+INFO checkout request_id=d4 user=alice product=sku_4421 status=200
+INFO checkout request_id=d5 user=grace product=sku_2388 status=200
+INFO checkout request_id=d6 user=bob product=sku_1193 status=200
+INFO checkout request_id=d7 user=frank product=sku_4421 status=200
+INFO checkout request_id=d8 user=alice product=sku_7712 status=200
+INFO checkout request_id=d9 user=frank product=sku_9908 status=200
+INFO checkout request_id=da user=bob product=sku_3301 status=200
+INFO checkout request_id=db user=bob product=sku_9908 status=200
+INFO checkout request_id=dc user=erin product=sku_7712 status=200
+INFO checkout request_id=dd user=alice product=sku_3301 status=200
+INFO checkout request_id=de user=bob product=sku_7712 status=200
+INFO checkout request_id=df user=frank product=sku_9908 status=200
+INFO checkout request_id=e0 user=bob product=sku_3301 status=200
+INFO checkout request_id=e1 user=erin product=sku_2388 status=200
+INFO checkout request_id=e2 user=frank product=sku_4421 status=200
+INFO checkout request_id=e3 user=frank product=sku_4421 status=200
+INFO checkout request_id=e4 user=grace product=sku_1193 status=200
+INFO checkout request_id=e5 user=grace product=sku_9908 status=200
+INFO checkout request_id=e6 user=dave product=sku_3301 status=200
+INFO checkout request_id=e7 user=dave product=sku_9908 status=200
+INFO checkout request_id=e8 user=erin product=sku_1193 status=200
+INFO checkout request_id=e9 user=carol product=sku_4421 status=200
+INFO checkout request_id=ea user=frank product=sku_1193 status=200
+INFO checkout request_id=eb user=frank product=sku_3301 status=200
+INFO checkout request_id=ec user=erin product=sku_9908 status=200
+INFO checkout request_id=ed user=bob product=sku_7712 status=200
+INFO checkout request_id=ee user=carol product=sku_3301 status=200
+INFO checkout request_id=ef user=dave product=sku_7712 status=200
+INFO checkout request_id=f0 user=carol product=sku_7712 status=200
+INFO checkout request_id=f1 user=alice product=sku_3301 status=200
+INFO checkout request_id=f2 user=grace product=sku_1193 status=200
+INFO checkout request_id=f3 user=bob product=sku_9908 status=200
+INFO checkout request_id=f4 user=alice product=sku_7712 status=200
+INFO checkout request_id=f5 user=grace product=sku_4421 status=200
+INFO checkout request_id=f6 user=dave product=sku_1193 status=200
+INFO checkout request_id=f7 user=dave product=sku_3301 status=200
+INFO checkout request_id=f8 user=erin product=sku_2388 status=200
+INFO checkout request_id=f9 user=bob product=sku_4421 status=200
+INFO checkout request_id=fa user=alice product=sku_3301 status=200
+INFO checkout request_id=fb user=frank product=sku_4421 status=200
+INFO checkout request_id=fc user=grace product=sku_7712 status=200
+INFO checkout request_id=fd user=grace product=sku_7712 status=200
+INFO checkout request_id=fe user=bob product=sku_1193 status=200
+INFO checkout request_id=ff user=erin product=sku_9908 status=200
+INFO checkout request_id=100 user=bob product=sku_9908 status=200
+INFO checkout request_id=101 user=dave product=sku_9908 status=200
+INFO checkout request_id=102 user=carol product=sku_1193 status=200
+INFO checkout request_id=103 user=bob product=sku_2388 status=200
+INFO checkout request_id=104 user=frank product=sku_9908 status=200
+INFO checkout request_id=105 user=grace product=sku_4421 status=200
+INFO checkout request_id=106 user=carol product=sku_4421 status=200
+INFO checkout request_id=107 user=dave product=sku_4421 status=200
+INFO checkout request_id=108 user=grace product=sku_9908 status=200
+INFO checkout request_id=109 user=bob product=sku_1193 status=200
+INFO checkout request_id=10a user=grace product=sku_2388 status=200
+INFO checkout request_id=10b user=dave product=sku_4421 status=200
+INFO checkout request_id=10c user=erin product=sku_9908 status=200
+INFO checkout request_id=10d user=alice product=sku_9908 status=200
+INFO checkout request_id=10e user=dave product=sku_4421 status=200
+INFO checkout request_id=10f user=dave product=sku_9908 status=200
+INFO checkout request_id=110 user=grace product=sku_9908 status=200
+INFO checkout request_id=111 user=frank product=sku_2388 status=200
+INFO checkout request_id=112 user=dave product=sku_2388 status=200
+INFO checkout request_id=113 user=carol product=sku_7712 status=200
+INFO checkout request_id=114 user=alice product=sku_9908 status=200
+INFO checkout request_id=115 user=grace product=sku_7712 status=200
+INFO checkout request_id=116 user=alice product=sku_7712 status=200
+INFO checkout request_id=117 user=carol product=sku_9908 status=200
+INFO checkout request_id=118 user=frank product=sku_2388 status=200
+INFO checkout request_id=119 user=grace product=sku_1193 status=200
+INFO checkout request_id=11a user=erin product=sku_9908 status=200
+INFO checkout request_id=11b user=erin product=sku_2388 status=200
+INFO checkout request_id=11c user=alice product=sku_9908 status=200
+INFO checkout request_id=11d user=grace product=sku_2388 status=200
+INFO checkout request_id=11e user=dave product=sku_7712 status=200
+INFO checkout request_id=11f user=erin product=sku_4421 status=200
+INFO checkout request_id=120 user=erin product=sku_9908 status=200
+INFO checkout request_id=121 user=alice product=sku_4421 status=200
+INFO checkout request_id=122 user=erin product=sku_9908 status=200
+INFO checkout request_id=123 user=alice product=sku_4421 status=200
+INFO checkout request_id=124 user=carol product=sku_2388 status=200
+INFO checkout request_id=125 user=carol product=sku_9908 status=200
+INFO checkout request_id=126 user=alice product=sku_3301 status=200
+INFO checkout request_id=127 user=carol product=sku_9908 status=200
+INFO checkout request_id=128 user=alice product=sku_7712 status=200
+INFO checkout request_id=129 user=frank product=sku_4421 status=200
+INFO checkout request_id=12a user=grace product=sku_9908 status=200
+INFO checkout request_id=12b user=dave product=sku_2388 status=200
+INFO checkout request_id=12c user=erin product=sku_9908 status=200
+INFO checkout request_id=12d user=alice product=sku_1193 status=200
+INFO checkout request_id=12e user=carol product=sku_2388 status=200
+INFO checkout request_id=12f user=bob product=sku_1193 status=200
+INFO checkout request_id=130 user=erin product=sku_1193 status=200
+INFO checkout request_id=131 user=erin product=sku_4421 status=200
+INFO checkout request_id=132 user=dave product=sku_2388 status=200
+INFO checkout request_id=133 user=grace product=sku_9908 status=200
+INFO checkout request_id=134 user=dave product=sku_2388 status=200
+INFO checkout request_id=135 user=carol product=sku_2388 status=200
+INFO checkout request_id=136 user=erin product=sku_2388 status=200
+INFO checkout request_id=137 user=alice product=sku_3301 status=200
+INFO checkout request_id=138 user=alice product=sku_3301 status=200
+INFO checkout request_id=139 user=bob product=sku_2388 status=200
+INFO checkout request_id=13a user=grace product=sku_7712 status=200
+INFO checkout request_id=13b user=erin product=sku_2388 status=200
+INFO checkout request_id=13c user=erin product=sku_9908 status=200
+INFO checkout request_id=13d user=alice product=sku_4421 status=200
+INFO checkout request_id=13e user=frank product=sku_1193 status=200
+INFO checkout request_id=13f user=carol product=sku_7712 status=200
+INFO checkout request_id=140 user=alice product=sku_1193 status=200
+INFO checkout request_id=141 user=carol product=sku_9908 status=200
+INFO checkout request_id=142 user=frank product=sku_3301 status=200
+INFO checkout request_id=143 user=carol product=sku_1193 status=200
+INFO checkout request_id=144 user=bob product=sku_4421 status=200
+INFO checkout request_id=145 user=carol product=sku_3301 status=200
+INFO checkout request_id=146 user=dave product=sku_4421 status=200
+INFO checkout request_id=147 user=frank product=sku_9908 status=200
+INFO checkout request_id=148 user=carol product=sku_1193 status=200
+INFO checkout request_id=149 user=grace product=sku_9908 status=200
+INFO checkout request_id=14a user=alice product=sku_9908 status=200
+INFO checkout request_id=14b user=carol product=sku_2388 status=200
+INFO checkout request_id=14c user=carol product=sku_9908 status=200
+INFO checkout request_id=14d user=bob product=sku_4421 status=200
+INFO checkout request_id=14e user=dave product=sku_2388 status=200
+INFO checkout request_id=14f user=grace product=sku_3301 status=200
+INFO checkout request_id=150 user=alice product=sku_4421 status=200
+INFO checkout request_id=151 user=carol product=sku_7712 status=200
+INFO checkout request_id=152 user=frank product=sku_1193 status=200
+INFO checkout request_id=153 user=erin product=sku_4421 status=200
+INFO checkout request_id=154 user=frank product=sku_9908 status=200
+INFO checkout request_id=155 user=frank product=sku_3301 status=200
+INFO checkout request_id=156 user=frank product=sku_9908 status=200
+INFO checkout request_id=157 user=dave product=sku_1193 status=200
+INFO checkout request_id=158 user=bob product=sku_1193 status=200
+INFO checkout request_id=159 user=alice product=sku_9908 status=200
+INFO checkout request_id=15a user=bob product=sku_9908 status=200
+INFO checkout request_id=15b user=erin product=sku_4421 status=200
+INFO checkout request_id=15c user=frank product=sku_2388 status=200
+INFO checkout request_id=15d user=dave product=sku_1193 status=200
+INFO checkout request_id=15e user=grace product=sku_4421 status=200
+INFO checkout request_id=15f user=carol product=sku_7712 status=200
+INFO checkout request_id=160 user=carol product=sku_9908 status=200
+INFO checkout request_id=161 user=frank product=sku_2388 status=200
+INFO checkout request_id=162 user=bob product=sku_3301 status=200
+INFO checkout request_id=163 user=alice product=sku_4421 status=200
+INFO checkout request_id=164 user=dave product=sku_4421 status=200
+INFO checkout request_id=165 user=bob product=sku_2388 status=200
+INFO checkout request_id=166 user=erin product=sku_4421 status=200
+INFO checkout request_id=167 user=alice product=sku_1193 status=200
+INFO checkout request_id=168 user=grace product=sku_4421 status=200
+INFO checkout request_id=169 user=erin product=sku_1193 status=200
+INFO checkout request_id=16a user=alice product=sku_9908 status=200
+INFO checkout request_id=16b user=bob product=sku_1193 status=200
+INFO checkout request_id=16c user=dave product=sku_2388 status=200
+INFO checkout request_id=16d user=bob product=sku_7712 status=200
+INFO checkout request_id=16e user=erin product=sku_2388 status=200
+INFO checkout request_id=16f user=carol product=sku_7712 status=200
+INFO checkout request_id=170 user=frank product=sku_4421 status=200
+INFO checkout request_id=171 user=bob product=sku_9908 status=200
+INFO checkout request_id=172 user=bob product=sku_1193 status=200
+INFO checkout request_id=173 user=frank product=sku_9908 status=200
+INFO checkout request_id=174 user=carol product=sku_9908 status=200
+INFO checkout request_id=175 user=dave product=sku_9908 status=200
+INFO checkout request_id=176 user=dave product=sku_2388 status=200
+INFO checkout request_id=177 user=alice product=sku_7712 status=200
+INFO checkout request_id=178 user=alice product=sku_4421 status=200
+INFO checkout request_id=179 user=frank product=sku_3301 status=200
+INFO checkout request_id=17a user=erin product=sku_3301 status=200
+INFO checkout request_id=17b user=erin product=sku_7712 status=200
+INFO checkout request_id=17c user=grace product=sku_3301 status=200
+INFO checkout request_id=17d user=erin product=sku_2388 status=200
+INFO checkout request_id=17e user=carol product=sku_4421 status=200
+INFO checkout request_id=17f user=frank product=sku_7712 status=200
+INFO checkout request_id=180 user=bob product=sku_3301 status=200
+INFO checkout request_id=181 user=erin product=sku_7712 status=200
+INFO checkout request_id=182 user=grace product=sku_9908 status=200
+INFO checkout request_id=183 user=erin product=sku_3301 status=200
+INFO checkout request_id=184 user=erin product=sku_9908 status=200
+INFO checkout request_id=185 user=grace product=sku_7712 status=200
+INFO checkout request_id=186 user=erin product=sku_3301 status=200
+INFO checkout request_id=187 user=frank product=sku_9908 status=200
+INFO checkout request_id=188 user=grace product=sku_7712 status=200
+INFO checkout request_id=189 user=erin product=sku_7712 status=200
+INFO checkout request_id=18a user=bob product=sku_2388 status=200
+INFO checkout request_id=18b user=frank product=sku_9908 status=200
+INFO checkout request_id=18c user=carol product=sku_9908 status=200
+INFO checkout request_id=18d user=grace product=sku_7712 status=200
+INFO checkout request_id=18e user=erin product=sku_9908 status=200
+INFO checkout request_id=18f user=carol product=sku_2388 status=200
+INFO checkout request_id=190 user=carol product=sku_4421 status=200
+INFO checkout request_id=191 user=erin product=sku_4421 status=200
+INFO checkout request_id=192 user=grace product=sku_7712 status=200
+INFO checkout request_id=193 user=dave product=sku_2388 status=200
+INFO checkout request_id=194 user=bob product=sku_9908 status=200
+INFO checkout request_id=195 user=dave product=sku_1193 status=200
+INFO checkout request_id=196 user=frank product=sku_7712 status=200
+INFO checkout request_id=197 user=carol product=sku_3301 status=200
+INFO checkout request_id=198 user=frank product=sku_1193 status=200
+INFO checkout request_id=199 user=dave product=sku_7712 status=200
+INFO checkout request_id=19a user=alice product=sku_3301 status=200
+INFO checkout request_id=19b user=alice product=sku_2388 status=200
+INFO checkout request_id=19c user=grace product=sku_4421 status=200
+INFO checkout request_id=19d user=carol product=sku_9908 status=200
+INFO checkout request_id=19e user=frank product=sku_4421 status=200
+INFO checkout request_id=19f user=carol product=sku_7712 status=200
+INFO checkout request_id=1a0 user=alice product=sku_2388 status=200
+INFO checkout request_id=1a1 user=carol product=sku_2388 status=200
+INFO checkout request_id=1a2 user=erin product=sku_4421 status=200
+INFO checkout request_id=1a3 user=bob product=sku_3301 status=200
+INFO checkout request_id=1a4 user=alice product=sku_2388 status=200
+INFO checkout request_id=1a5 user=alice product=sku_3301 status=200
+INFO checkout request_id=1a6 user=grace product=sku_3301 status=200
+INFO checkout request_id=1a7 user=alice product=sku_1193 status=200
+INFO checkout request_id=1a8 user=grace product=sku_3301 status=200
+INFO checkout request_id=1a9 user=carol product=sku_7712 status=200
+INFO checkout request_id=1aa user=erin product=sku_2388 status=200
+INFO checkout request_id=1ab user=bob product=sku_4421 status=200
+INFO checkout request_id=1ac user=frank product=sku_3301 status=200
+INFO checkout request_id=1ad user=frank product=sku_1193 status=200
+INFO checkout request_id=1ae user=grace product=sku_9908 status=200
+INFO checkout request_id=1af user=frank product=sku_9908 status=200
+INFO checkout request_id=1b0 user=frank product=sku_2388 status=200
+INFO checkout request_id=1b1 user=carol product=sku_2388 status=200
+INFO checkout request_id=1b2 user=dave product=sku_7712 status=200
+INFO checkout request_id=1b3 user=erin product=sku_7712 status=200
+INFO checkout request_id=1b4 user=grace product=sku_4421 status=200
+INFO checkout request_id=1b5 user=bob product=sku_7712 status=200
+INFO checkout request_id=1b6 user=bob product=sku_9908 status=200
+INFO checkout request_id=1b7 user=alice product=sku_9908 status=200
+INFO checkout request_id=1b8 user=bob product=sku_3301 status=200
+INFO checkout request_id=1b9 user=bob product=sku_1193 status=200
+INFO checkout request_id=1ba user=frank product=sku_7712 status=200
+INFO checkout request_id=1bb user=dave product=sku_1193 status=200
+INFO checkout request_id=1bc user=erin product=sku_1193 status=200
+INFO checkout request_id=1bd user=frank product=sku_2388 status=200
+INFO checkout request_id=1be user=frank product=sku_3301 status=200
+INFO checkout request_id=1bf user=carol product=sku_4421 status=200
+INFO checkout request_id=1c0 user=frank product=sku_3301 status=200
+INFO checkout request_id=1c1 user=frank product=sku_2388 status=200
+INFO checkout request_id=1c2 user=dave product=sku_7712 status=200
+INFO checkout request_id=1c3 user=bob product=sku_3301 status=200
+INFO checkout request_id=1c4 user=bob product=sku_4421 status=200
+INFO checkout request_id=1c5 user=carol product=sku_7712 status=200
+INFO checkout request_id=1c6 user=erin product=sku_2388 status=200
+INFO checkout request_id=1c7 user=grace product=sku_9908 status=200
+INFO checkout request_id=1c8 user=dave product=sku_2388 status=200
+INFO checkout request_id=1c9 user=erin product=sku_4421 status=200
+INFO checkout request_id=1ca user=erin product=sku_3301 status=200
+INFO checkout request_id=1cb user=carol product=sku_9908 status=200
+INFO checkout request_id=1cc user=frank product=sku_2388 status=200
+INFO checkout request_id=1cd user=dave product=sku_4421 status=200
+INFO checkout request_id=1ce user=grace product=sku_2388 status=200
+INFO checkout request_id=1cf user=grace product=sku_4421 status=200
+INFO checkout request_id=1d0 user=frank product=sku_7712 status=200
+INFO checkout request_id=1d1 user=alice product=sku_9908 status=200
+INFO checkout request_id=1d2 user=bob product=sku_9908 status=200
+INFO checkout request_id=1d3 user=frank product=sku_3301 status=200
+INFO checkout request_id=1d4 user=frank product=sku_2388 status=200
+INFO checkout request_id=1d5 user=dave product=sku_2388 status=200
+INFO checkout request_id=1d6 user=grace product=sku_1193 status=200
+INFO checkout request_id=1d7 user=alice product=sku_4421 status=200
+INFO checkout request_id=1d8 user=erin product=sku_9908 status=200
+INFO checkout request_id=1d9 user=erin product=sku_9908 status=200
+INFO checkout request_id=1da user=bob product=sku_1193 status=200
+INFO checkout request_id=1db user=carol product=sku_4421 status=200
+INFO checkout request_id=1dc user=alice product=sku_1193 status=200
+INFO checkout request_id=1dd user=alice product=sku_3301 status=200
+INFO checkout request_id=1de user=alice product=sku_7712 status=200
+INFO checkout request_id=1df user=frank product=sku_3301 status=200
+INFO checkout request_id=1e0 user=grace product=sku_4421 status=200
+INFO checkout request_id=1e1 user=alice product=sku_4421 status=200
+INFO checkout request_id=1e2 user=alice product=sku_4421 status=200
+INFO checkout request_id=1e3 user=erin product=sku_2388 status=200
+INFO checkout request_id=1e4 user=carol product=sku_4421 status=200
+INFO checkout request_id=1e5 user=erin product=sku_4421 status=200
+INFO checkout request_id=1e6 user=erin product=sku_1193 status=200
+INFO checkout request_id=1e7 user=dave product=sku_1193 status=200
+INFO checkout request_id=1e8 user=carol product=sku_2388 status=200
+INFO checkout request_id=1e9 user=erin product=sku_9908 status=200
+INFO checkout request_id=1ea user=erin product=sku_2388 status=200
+INFO checkout request_id=1eb user=bob product=sku_1193 status=200
+INFO checkout request_id=1ec user=bob product=sku_7712 status=200
+INFO checkout request_id=1ed user=alice product=sku_1193 status=200
+INFO checkout request_id=1ee user=erin product=sku_3301 status=200
+INFO checkout request_id=1ef user=dave product=sku_4421 status=200
+INFO checkout request_id=1f0 user=carol product=sku_2388 status=200
+INFO checkout request_id=1f1 user=dave product=sku_4421 status=200
+INFO checkout request_id=1f2 user=alice product=sku_9908 status=200
+INFO checkout request_id=1f3 user=bob product=sku_9908 status=200
+INFO checkout request_id=1f4 user=frank product=sku_4421 status=200
+INFO checkout request_id=1f5 user=grace product=sku_1193 status=200
+INFO checkout request_id=1f6 user=bob product=sku_1193 status=200
+INFO checkout request_id=1f7 user=bob product=sku_2388 status=200
+INFO checkout request_id=1f8 user=grace product=sku_4421 status=200
+INFO checkout request_id=1f9 user=alice product=sku_2388 status=200
+INFO checkout request_id=1fa user=frank product=sku_1193 status=200
+INFO checkout request_id=1fb user=alice product=sku_7712 status=200
+INFO checkout request_id=1fc user=bob product=sku_1193 status=200
+INFO checkout request_id=1fd user=alice product=sku_3301 status=200
+INFO checkout request_id=1fe user=carol product=sku_2388 status=200
+INFO checkout request_id=1ff user=alice product=sku_9908 status=200
+INFO checkout request_id=200 user=alice product=sku_7712 status=200
+INFO checkout request_id=201 user=bob product=sku_1193 status=200
+INFO checkout request_id=202 user=frank product=sku_1193 status=200
+INFO checkout request_id=203 user=alice product=sku_4421 status=200
+INFO checkout request_id=204 user=bob product=sku_4421 status=200
+INFO checkout request_id=205 user=frank product=sku_3301 status=200
+INFO checkout request_id=206 user=alice product=sku_4421 status=200
+INFO checkout request_id=207 user=grace product=sku_3301 status=200
+INFO checkout request_id=208 user=bob product=sku_2388 status=200
+INFO checkout request_id=209 user=frank product=sku_2388 status=200
+INFO checkout request_id=20a user=erin product=sku_7712 status=200
+INFO checkout request_id=20b user=grace product=sku_1193 status=200
+INFO checkout request_id=20c user=frank product=sku_4421 status=200
+INFO checkout request_id=20d user=frank product=sku_2388 status=200
+INFO checkout request_id=20e user=grace product=sku_1193 status=200
+INFO checkout request_id=20f user=carol product=sku_2388 status=200
+INFO checkout request_id=210 user=carol product=sku_7712 status=200
+INFO checkout request_id=211 user=grace product=sku_3301 status=200
+INFO checkout request_id=212 user=grace product=sku_9908 status=200
+INFO checkout request_id=213 user=dave product=sku_3301 status=200
+INFO checkout request_id=214 user=dave product=sku_4421 status=200
+INFO checkout request_id=215 user=dave product=sku_1193 status=200
+INFO checkout request_id=216 user=grace product=sku_7712 status=200
+INFO checkout request_id=217 user=carol product=sku_1193 status=200
+INFO checkout request_id=218 user=erin product=sku_3301 status=200
+INFO checkout request_id=219 user=alice product=sku_1193 status=200
+INFO checkout request_id=21a user=alice product=sku_7712 status=200
+INFO checkout request_id=21b user=carol product=sku_9908 status=200
+INFO checkout request_id=21c user=carol product=sku_2388 status=200
+INFO checkout request_id=21d user=grace product=sku_2388 status=200
+INFO checkout request_id=21e user=dave product=sku_7712 status=200
+INFO checkout request_id=21f user=carol product=sku_2388 status=200
+INFO checkout request_id=220 user=carol product=sku_7712 status=200
+INFO checkout request_id=221 user=dave product=sku_9908 status=200
+INFO checkout request_id=222 user=alice product=sku_2388 status=200
+INFO checkout request_id=223 user=bob product=sku_2388 status=200
+INFO checkout request_id=224 user=bob product=sku_2388 status=200
+INFO checkout request_id=225 user=erin product=sku_1193 status=200
+INFO checkout request_id=226 user=grace product=sku_9908 status=200
+INFO checkout request_id=227 user=frank product=sku_3301 status=200
+INFO checkout request_id=228 user=bob product=sku_1193 status=200
+INFO checkout request_id=229 user=dave product=sku_3301 status=200
+INFO checkout request_id=22a user=frank product=sku_1193 status=200
+INFO checkout request_id=22b user=bob product=sku_1193 status=200
+INFO checkout request_id=22c user=alice product=sku_9908 status=200
+INFO checkout request_id=22d user=carol product=sku_1193 status=200
+INFO checkout request_id=22e user=carol product=sku_3301 status=200
+INFO checkout request_id=22f user=carol product=sku_1193 status=200
+INFO checkout request_id=230 user=carol product=sku_7712 status=200
+INFO checkout request_id=231 user=carol product=sku_4421 status=200
+INFO checkout request_id=232 user=dave product=sku_1193 status=200
+INFO checkout request_id=233 user=erin product=sku_2388 status=200
+INFO checkout request_id=234 user=dave product=sku_4421 status=200
+INFO checkout request_id=235 user=grace product=sku_1193 status=200
+INFO checkout request_id=236 user=frank product=sku_2388 status=200
+INFO checkout request_id=237 user=alice product=sku_3301 status=200
+INFO checkout request_id=238 user=bob product=sku_7712 status=200
+INFO checkout request_id=239 user=erin product=sku_4421 status=200
+INFO checkout request_id=23a user=alice product=sku_3301 status=200
+INFO checkout request_id=23b user=bob product=sku_3301 status=200
+INFO checkout request_id=23c user=carol product=sku_3301 status=200
+INFO checkout request_id=23d user=carol product=sku_9908 status=200
+INFO checkout request_id=23e user=grace product=sku_2388 status=200
+INFO checkout request_id=23f user=grace product=sku_9908 status=200
+INFO checkout request_id=240 user=frank product=sku_3301 status=200
+INFO checkout request_id=241 user=carol product=sku_2388 status=200
+INFO checkout request_id=242 user=frank product=sku_4421 status=200
+INFO checkout request_id=243 user=bob product=sku_7712 status=200
+INFO checkout request_id=244 user=alice product=sku_2388 status=200
+INFO checkout request_id=245 user=erin product=sku_3301 status=200
+INFO checkout request_id=246 user=grace product=sku_1193 status=200
+INFO checkout request_id=247 user=alice product=sku_1193 status=200
+INFO checkout request_id=248 user=grace product=sku_2388 status=200
+INFO checkout request_id=249 user=carol product=sku_9908 status=200
+INFO checkout request_id=24a user=dave product=sku_1193 status=200
+INFO checkout request_id=24b user=carol product=sku_4421 status=200
+INFO checkout request_id=24c user=bob product=sku_2388 status=200
+INFO checkout request_id=24d user=frank product=sku_9908 status=200
+INFO checkout request_id=24e user=alice product=sku_1193 status=200
+INFO checkout request_id=24f user=alice product=sku_1193 status=200
+INFO checkout request_id=250 user=bob product=sku_2388 status=200
+INFO checkout request_id=251 user=erin product=sku_2388 status=200
+INFO checkout request_id=252 user=bob product=sku_1193 status=200
+INFO checkout request_id=253 user=bob product=sku_4421 status=200
+INFO checkout request_id=254 user=carol product=sku_9908 status=200
+INFO checkout request_id=255 user=erin product=sku_9908 status=200
+INFO checkout request_id=256 user=erin product=sku_9908 status=200
+INFO checkout request_id=257 user=grace product=sku_9908 status=200
+INFO checkout request_id=258 user=grace product=sku_7712 status=200
+INFO checkout request_id=259 user=grace product=sku_7712 status=200
+INFO checkout request_id=25a user=erin product=sku_9908 status=200
+INFO checkout request_id=25b user=dave product=sku_1193 status=200
+INFO checkout request_id=25c user=erin product=sku_2388 status=200
+INFO checkout request_id=25d user=bob product=sku_7712 status=200
+INFO checkout request_id=25e user=grace product=sku_4421 status=200
+INFO checkout request_id=25f user=carol product=sku_1193 status=200
+INFO checkout request_id=260 user=bob product=sku_1193 status=200
+INFO checkout request_id=261 user=bob product=sku_1193 status=200
+INFO checkout request_id=262 user=alice product=sku_1193 status=200
+INFO checkout request_id=263 user=dave product=sku_2388 status=200
+INFO checkout request_id=264 user=bob product=sku_4421 status=200
+INFO checkout request_id=265 user=grace product=sku_2388 status=200
+INFO checkout request_id=266 user=alice product=sku_9908 status=200
+INFO checkout request_id=267 user=bob product=sku_3301 status=200
+INFO checkout request_id=268 user=frank product=sku_1193 status=200
+INFO checkout request_id=269 user=alice product=sku_7712 status=200
+INFO checkout request_id=26a user=frank product=sku_3301 status=200
+INFO checkout request_id=26b user=bob product=sku_9908 status=200
+INFO checkout request_id=26c user=carol product=sku_1193 status=200
+INFO checkout request_id=26d user=erin product=sku_3301 status=200
+INFO checkout request_id=26e user=grace product=sku_3301 status=200
+INFO checkout request_id=26f user=frank product=sku_4421 status=200
+INFO checkout request_id=270 user=bob product=sku_2388 status=200
+INFO checkout request_id=271 user=dave product=sku_9908 status=200
+INFO checkout request_id=272 user=alice product=sku_4421 status=200
+INFO checkout request_id=273 user=grace product=sku_2388 status=200
+INFO checkout request_id=274 user=dave product=sku_9908 status=200
+INFO checkout request_id=275 user=carol product=sku_1193 status=200
+INFO checkout request_id=276 user=dave product=sku_4421 status=200
+INFO checkout request_id=277 user=erin product=sku_2388 status=200
+INFO checkout request_id=278 user=frank product=sku_3301 status=200
+INFO checkout request_id=279 user=erin product=sku_3301 status=200
+INFO checkout request_id=27a user=carol product=sku_9908 status=200
+INFO checkout request_id=27b user=carol product=sku_9908 status=200
+INFO checkout request_id=27c user=alice product=sku_7712 status=200
+INFO checkout request_id=27d user=carol product=sku_7712 status=200
+INFO checkout request_id=27e user=grace product=sku_4421 status=200
+INFO checkout request_id=27f user=carol product=sku_4421 status=200
+INFO checkout request_id=280 user=frank product=sku_3301 status=200
+INFO checkout request_id=281 user=grace product=sku_2388 status=200
+INFO checkout request_id=282 user=alice product=sku_1193 status=200
+INFO checkout request_id=283 user=carol product=sku_1193 status=200
+INFO checkout request_id=284 user=carol product=sku_2388 status=200
+INFO checkout request_id=285 user=grace product=sku_2388 status=200
+INFO checkout request_id=286 user=grace product=sku_2388 status=200
+INFO checkout request_id=287 user=dave product=sku_7712 status=200
+INFO checkout request_id=288 user=alice product=sku_2388 status=200
+INFO checkout request_id=289 user=bob product=sku_3301 status=200
+INFO checkout request_id=28a user=carol product=sku_4421 status=200
+INFO checkout request_id=28b user=alice product=sku_7712 status=200
+INFO checkout request_id=28c user=dave product=sku_9908 status=200
+INFO checkout request_id=28d user=bob product=sku_2388 status=200
+INFO checkout request_id=28e user=carol product=sku_3301 status=200
+INFO checkout request_id=28f user=frank product=sku_9908 status=200
+INFO checkout request_id=290 user=dave product=sku_9908 status=200
+INFO checkout request_id=291 user=carol product=sku_9908 status=200
+INFO checkout request_id=292 user=carol product=sku_3301 status=200
+INFO checkout request_id=293 user=bob product=sku_2388 status=200
+INFO checkout request_id=294 user=bob product=sku_2388 status=200
+INFO checkout request_id=295 user=alice product=sku_7712 status=200
+INFO checkout request_id=296 user=carol product=sku_9908 status=200
+INFO checkout request_id=297 user=frank product=sku_9908 status=200
+INFO checkout request_id=298 user=frank product=sku_1193 status=200
+INFO checkout request_id=299 user=dave product=sku_7712 status=200
+INFO checkout request_id=29a user=bob product=sku_7712 status=200
+INFO checkout request_id=29b user=frank product=sku_1193 status=200
+INFO checkout request_id=29c user=alice product=sku_3301 status=200
+INFO checkout request_id=29d user=frank product=sku_1193 status=200
+INFO checkout request_id=29e user=alice product=sku_3301 status=200
+INFO checkout request_id=29f user=alice product=sku_4421 status=200
+INFO checkout request_id=2a0 user=erin product=sku_9908 status=200
+INFO checkout request_id=2a1 user=dave product=sku_9908 status=200
+INFO checkout request_id=2a2 user=dave product=sku_3301 status=200
+INFO checkout request_id=2a3 user=carol product=sku_9908 status=200
+INFO checkout request_id=2a4 user=grace product=sku_1193 status=200
+INFO checkout request_id=2a5 user=erin product=sku_3301 status=200
+INFO checkout request_id=2a6 user=dave product=sku_7712 status=200
+INFO checkout request_id=2a7 user=alice product=sku_7712 status=200
+INFO checkout request_id=2a8 user=erin product=sku_3301 status=200
+INFO checkout request_id=2a9 user=erin product=sku_3301 status=200
+INFO checkout request_id=2aa user=dave product=sku_1193 status=200
+INFO checkout request_id=2ab user=erin product=sku_9908 status=200
+INFO checkout request_id=2ac user=carol product=sku_4421 status=200
+INFO checkout request_id=2ad user=grace product=sku_3301 status=200
+INFO checkout request_id=2ae user=carol product=sku_2388 status=200
+INFO checkout request_id=2af user=dave product=sku_1193 status=200
+INFO checkout request_id=2b0 user=frank product=sku_3301 status=200
+INFO checkout request_id=2b1 user=frank product=sku_9908 status=200
+INFO checkout request_id=2b2 user=carol product=sku_4421 status=200
+INFO checkout request_id=2b3 user=dave product=sku_2388 status=200
+INFO checkout request_id=2b4 user=bob product=sku_1193 status=200
+INFO checkout request_id=2b5 user=bob product=sku_7712 status=200
+INFO checkout request_id=2b6 user=grace product=sku_4421 status=200
+INFO checkout request_id=2b7 user=carol product=sku_9908 status=200
+INFO checkout request_id=2b8 user=carol product=sku_1193 status=200
+INFO checkout request_id=2b9 user=erin product=sku_7712 status=200
+INFO checkout request_id=2ba user=dave product=sku_4421 status=200
+INFO checkout request_id=2bb user=erin product=sku_1193 status=200

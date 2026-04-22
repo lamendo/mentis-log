@@ -1,0 +1,10 @@
+{
+  "expected_line_boundaries": [
+    700,
+    1325,
+    1925,
+    2425
+  ],
+  "tolerance_lines": 200,
+  "notes": "4 regime transitions with shorter / more similar phases (~3.1k lines, higher variability)"
+}

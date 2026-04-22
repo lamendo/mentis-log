@@ -1,0 +1,11 @@
+{
+  "expected_line_boundaries": [
+    1000,
+    1750,
+    2650,
+    3150,
+    3550
+  ],
+  "tolerance_lines": 200,
+  "notes": "5 regime transitions with mixed phase durations (~4.2k lines)"
+}
