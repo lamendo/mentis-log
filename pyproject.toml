@@ -10,7 +10,7 @@ readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
 authors = [
-    { name = "Jan Reinhard", email = "jan.reinhard55@gmail.com" },
+    { name = "Jan Reinhard"},
 ]
 keywords = [
     "log-analysis",
